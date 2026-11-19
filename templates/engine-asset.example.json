@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0.0",
+  "asset_id": "OBJ-0001",
+  "art_id": "ART-0001",
+  "physics_id": "OBJ-0001-PHYS-v0-1",
+  "readiness": "draft",
+  "engine": {
+    "target": "generic",
+    "version": "unselected",
+    "adapter_version": "unselected",
+    "asset_type": "rigid"
+  },
+  "units": {
+    "length": "m",
+    "mass": "kg",
+    "angle": "rad",
+    "force": "N",
+    "energy": "J",
+    "time": "s"
+  },
+  "parts": [
+    {
+      "id": "part-body",
+      "name": "Body",
+      "mass_kg": 1,
+      "center_of_mass_m": [
+        0,
+        0,
+        0
+      ],
+      "inertia_kg_m2": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "material_id": "mat-body",
+      "mesh_uri": "assets/body.glb",
+      "collision": {
+        "shape": "convex",
+        "friction_static": 0.5,
+        "friction_dynamic": 0.4,
+        "restitution": 0.1
+      }
+    }
+  ],
+  "materials": [
+    {
+      "id": "mat-body",
+      "density_kg_m3": 1000,
+      "young_modulus_pa": 1000000000,
+      "fracture_energy_j": 10,
+      "render": {
+        "base_color_linear": [
+          0.3,
+          0.3,
+          0.3
+        ],
+        "metallic": 0,
+        "roughness": 0.7
+      }
+    }
+  ],
+  "joints": [],
+  "damage_zones": [],
+  "states": [
+    {
+      "id": "healthy",
+      "functional": true,
+      "mesh_variant": "base"
+    }
+  ],
+  "transitions": [],
+  "fracture": {
+    "mode": "none",
+    "fragments": [],
+    "clusters": [],
+    "max_active_fragments": 0
+  },
+  "exceptions": [
+    "Example placeholder values only: NOT a validated physical asset."
+  ]
+}
