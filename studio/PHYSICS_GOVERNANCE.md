@@ -28,3 +28,9 @@ Applies to physical objects alongside [OBJECT_STANDARD](OBJECT_STANDARD.md), [VI
 **Completion rules:** enter a value, `unknown`, or justified `N/A`. Unknown simulation-critical values block P1/P2 acceptance. Numeric values need units, provenance, acquisition method, ranges and uncertainty as applicable. Fictional deviations must be explicit. Tests must identify object/model versions, solver, initial conditions, expected numeric outcomes, tolerances and evidence. Neither a render nor a completed form proves physical validity.
 
 **Separate statuses:** P0/P1/P2 physics fidelity, L0–L3 art readiness, and creative draft/canon status are distinct; canon still needs both coauthors' approvals.
+
+## Машинный контракт и повреждения / Engine contract and damage
+
+Для P1/P2 с игровым применением требуется [типизированный контракт](ENGINE_DATA_CONTRACT.md), [JSON Schema](../templates/engine-asset.schema.json), а также [профиль реализации](../templates/engine-implementation-profile.md). Компонентные зоны повреждений, пороги, состояния, переходы, разрушение на фрагменты и функциональные последствия обязательны, если они применимы. Схема не заменяет физический решатель и проверку импорта.
+
+For P1/P2 game use, require the [typed engine contract](ENGINE_DATA_CONTRACT.md), [JSON Schema](../templates/engine-asset.schema.json), and [implementation profile](../templates/engine-implementation-profile.md). Model component damage, state transitions, fracture and functional consequences when relevant. Schema compliance alone does not establish engine compatibility.
