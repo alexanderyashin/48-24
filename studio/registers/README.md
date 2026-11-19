@@ -7,6 +7,7 @@
 | [decisions.csv](decisions.csv) | Все исходные CAN с исходным авторским статусом; это не журнал новых approval |
 | [open-questions.csv](open-questions.csv) | Открытые GAP и развилки DIV, без выдуманного закрытия |
 | [asset-register.csv](asset-register.csv) | ID ресурсов, пути, внешние мастера, права, хеши и происхождение |
+| [contribution-register.csv](contribution-register.csv) | Пообъектный учёт творческих вкладов, типов участия и происхождения без вывода имущественных долей |
 | [work-register.csv](work-register.csv) | Текущие задачи без Issue; Issue/PR остаётся основным журналом для задач на GitHub |
 | [release-register.csv](release-register.csv) | Фактически согласованные и выпущенные версии продуктов |
 
