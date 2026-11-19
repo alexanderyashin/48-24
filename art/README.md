@@ -18,3 +18,12 @@
 В каждой области есть `drafts`, `canon` и `archive`. Ветки Git — способ параллельной работы; папки статуса — зрелость материала. Слияние в `main` само по себе не делает материал каноном.
 
 Читайте [рабочий процесс](../studio/WORKFLOW.md) и [правила канона](../studio/CANON_POLICY.md). [Главная](../README.md).
+
+## Детализация эскизов / Focused sketch areas
+
+- [Оружие / Weapons](props/drafts/weapons/README.md)
+- [Костюмы / Costumes](character-design/drafts/costumes/README.md)
+- [Предметы интерьера / Interior objects](props/drafts/interior-objects/README.md)
+- [Бытовые предметы / Household objects](props/drafts/household-objects/README.md)
+- [Архитектура: экстерьеры / Exteriors](environments/drafts/architecture-exteriors/README.md)
+- [Архитектура: интерьеры / Interiors](environments/drafts/architecture-interiors/README.md)
