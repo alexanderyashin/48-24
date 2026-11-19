@@ -12,10 +12,10 @@
       "id": "ivan-konyushkov",
       "name": "Ivan Konyushkov",
       "display_name": "Иван",
-      "github": null,
+      "github": "ivankoniushkov",
       "role": "coauthor",
-      "repository_role": "not-configured"
+      "repository_role": "write"
     }
   ],
-  "note": "Names derive from the supplied SPOT document. GitHub identity and access for Ivan are not yet confirmed. Role entries do not assign or transfer copyright."
+  "note": "Coauthor names come from the original SPOT document. GitHub login @ivankoniushkov and write permission for 48-24 were confirmed via the connected GitHub account on 2026-11-19. Coauthor status is not itself an IP assignment or economic agreement. Branch protection remains a separate repository setting."
 }
