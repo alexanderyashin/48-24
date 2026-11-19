@@ -49,3 +49,9 @@ Flat ornament, fonts, and maps may mark side views N/A with a reason. Raw ideas 
 ### 3. External foundations and provenance
 
 [Blender Studio Naming Conventions](https://studio.blender.org/tools/naming-conventions/introduction), [Blender Studio Asset Pipeline](https://studio.blender.org/tools/addons/asset_pipeline), and [File Naming](https://studio.blender.org/tools/naming-conventions/file-types) support naming, task-layer ownership, versions, and publishing practices. **The front/side minimum is a project-specific 48/24 rule**, not a requirement attributed to Blender Studio.
+
+## 3D-производственная готовность / 3D production readiness
+
+**Нормативное дополнение:** [3D_READINESS_GATES](3D_READINESS_GATES.md) устанавливает L0/L1/L2/L3, а [3D production specification](../templates/3d-production-spec.md) является обязательным техническим формуляром перед L2. Анфас/профиль сами по себе достаточны для концепт-ревью, **но не для готовности к моделированию**. Критические размеры, конструкция, материалы и ограничения должны быть согласованы до L2; L3 требует реальных исходников и тестов.
+
+**Normative extension:** [3D readiness gates](3D_READINESS_GATES.md) define L0–L3; the [production form](../templates/3d-production-spec.md) is required before L2. Front/side views alone do not establish modeling readiness; L3 requires actual deliverables and tests.
