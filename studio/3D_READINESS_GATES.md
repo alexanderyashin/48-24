@@ -29,3 +29,7 @@ This policy supplements [visual governance](VISUAL_GOVERNANCE.md), the [object s
 A static illustration may mark rigging, collision, LOD or game import N/A with reasons and reach **Render Ready**, not Game Ready. A game asset must pass relevant checks. If the engine is undecided, portable specifications are allowed, but engine integration cannot be claimed complete.
 
 A second reviewer checks evidence. L2/L3 are production gates, not canon approval. An independent modeler should be able to build within specified tolerances without inventing critical geometry, construction or materials.
+
+## Engine-ready addendum / Дополнение к готовности движка
+
+Для L3 Game Ready дополнительно обязательны типизированный [контракт данных](ENGINE_DATA_CONTRACT.md), ссылочная целостность ID, [профиль реализации](../templates/engine-implementation-profile.md), проверка возможностей и фактический импорт. Соответствие JSON Schema без адаптера и теста не означает Game Ready. / Engine-ready requires a typed manifest, resolved references, versioned adapter, capability mapping and a successful import/behavior test.
