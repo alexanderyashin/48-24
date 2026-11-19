@@ -7,6 +7,9 @@
 | [Универсальная карточка идеи / Idea fragment](idea-fragment.md) | `idea-fragment.md` |
 | [Исторический объект REF](historical-object-reference.md) | `historical-object-reference.md` |
 | [Объект мира OBJ](world-object.md) | `world-object.md` |
+| [Engine Implementation Profile / Профиль движка](engine-implementation-profile.md) | `engine-implementation-profile.md` |
+| [Engine Asset JSON Schema](engine-asset.schema.json) | `engine-asset.schema.json` |
+| [Engine Asset Example](engine-asset.example.json) | `engine-asset.example.json` |
 | [Physical Behavior Specification / Физика объекта](physical-behavior-spec.md) | `physical-behavior-spec.md` |
 | [3D Production Specification / Технический формуляр](3d-production-spec.md) | `3d-production-spec.md` |
 | [Арт-ресурс ART](game-art-asset.md) | `game-art-asset.md` |
