@@ -42,3 +42,9 @@
 **Approval:** drafts are not canon. Canon requires the actual coauthor approvals. Responsibility is not legal ownership. Contribution attribution is separate.
 
 **Methodological basis:** publicly documented Blender Studio asset-pipeline and naming practices plus concept/model-sheet conventions, adapted into a project-specific standard, **not an official Blender Studio form**. See [Blender Studio Asset Pipeline](https://studio.blender.org/tools/addons/asset_pipeline) and [Blender Studio tools](https://projects.blender.org/studio/blender-studio-tools).
+
+## Производственная спецификация / Production specification
+
+Объект OBJ остаётся единым источником идентичности и назначения. Техническая реализация ART для 3D обязана ссылаться на OBJ и заполнять [3D-формуляр](../templates/3d-production-spec.md) согласно [уровням готовности](3D_READINESS_GATES.md). Не переносите в OBJ игровые ограничения конкретного движка: они принадлежат ART-реализации.
+
+OBJ remains the identity and design source. Each 3D ART implementation references OBJ and completes the [3D form](../templates/3d-production-spec.md) under the [readiness gates](3D_READINESS_GATES.md). Engine-specific implementation constraints belong to ART, not OBJ.
