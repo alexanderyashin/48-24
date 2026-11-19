@@ -4,6 +4,7 @@
 
 | Форма | Файл |
 | --- | --- |
+| [Универсальная карточка идеи / Idea fragment](idea-fragment.md) | `idea-fragment.md` |
 | [Карточка положения мира](world-entry.md) | `world-entry.md` |
 | [Карточка персонажа](character.md) | `character.md` |
 | [Карточка места](location.md) | `location.md` |
