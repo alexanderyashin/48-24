@@ -17,6 +17,7 @@
 | [3D-производственная готовность](3D_READINESS_GATES.md) | Уровни L0–L3, критерии приёмки и доказательства |
 | [Норматив визуального ряда](VISUAL_GOVERNANCE.md) | Обязательные виды, описание, материалы и дизайн-ревью каждого объекта |
 | [Единый стандарт объектов](OBJECT_STANDARD.md) | Разделение REF, OBJ и ART и их связей |
+| [Вооружение: Draft-профиль / Weapons: Draft profile](WEAPONS_DRAFT_STANDARD.md) | Проект дополнения к карточкам оружия; Draft / Proposed weapon-card supplement; Draft |
 | [Ресурсы](ASSET_WORKFLOW.md) | Арт, шрифты, звук, большие исходники |
 | [Продукты](PRODUCT_STRATEGY.md) | Общий мир и отдельные адаптации |
 | [Выпуски](RELEASE_PROCESS.md) | Манифест и приёмка перед публикацией |

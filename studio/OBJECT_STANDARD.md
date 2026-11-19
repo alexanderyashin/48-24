@@ -52,3 +52,9 @@ OBJ remains the identity and design source. Each 3D ART implementation reference
 ## Физическое поведение / Physical behavior
 
 Для физически моделируемых объектов дополнительно обязательна [карточка физических свойств](../templates/physical-behavior-spec.md) по [нормативу физики](PHYSICS_GOVERNANCE.md). Разделяйте оптические свойства (глянец, матовость, отражение) и механические свойства (гибкость, прочность, хрупкость, масса, трение). / Simulated objects require a linked [physics specification](../templates/physical-behavior-spec.md) under [physics governance](PHYSICS_GOVERNANCE.md). Optical and mechanical properties are distinct.
+
+## Вооружение: Draft-дополнение / Weapons: Draft supplement
+
+Для текущих намёток подготовлен [проект профиля оружейной документации](WEAPONS_DRAFT_STANDARD.md): независимые оси бюджета/производства, принципа и применения, область действия каждого свойства и явные неизвестные. Он использует существующие секции OBJ; сам профиль и [содержательные решения](../world/technology/drafts/weapons-systems/weapon-classification-v0-1.md) пока имеют статус Draft. Требования канонизации и производственной готовности сохраняются.
+
+A [proposed weapons documentation profile](WEAPONS_DRAFT_STANDARD.md) supports the current outlines: independent axes of budget/production, principle and use, each property's scope and explicit unknowns. It uses existing OBJ sections; both the profile and [substantive decisions](../world/technology/drafts/weapons-systems/weapon-classification-v0-1.md) remain Draft. Canon-approval and production-readiness requirements continue to apply.
