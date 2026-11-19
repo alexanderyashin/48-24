@@ -17,3 +17,15 @@
 - [energy-economy](./energy-economy/README.md)
 - [agriculture-and-food](./agriculture-and-food/README.md)
 - [trade-and-finance](./trade-and-finance/README.md)
+
+## Документы этой редакции / Documents in this revision
+
+Все перечисленные редакции — **Draft**; точные исходные статусы указаны при положениях. / All listed editions are **Draft**; precise source statuses remain attached to statements.
+
+| ID | Русский | English |
+| --- | --- | --- |
+| `SPOT-GAPS-ECONOMY` | [Белые пятна: Хозяйство труд и собственность](spot-gaps-economy-v0-1.md) | [Open gaps: The economy, labor, and ownership](spot-gaps-economy-v0-1.en.md) |
+| `WORLD-ECONOMY-001` | [Экономика и социальная инфраструктура](economy-and-infrastructure-v0-1.md) | [Economy and social infrastructure](economy-and-infrastructure-v0-1.en.md) |
+| `WORLD-ECONOMY-001-S07` | [Экономика следующей эпохи](successor-economy-v0-1.md) | [The economy of the next era](successor-economy-v0-1.en.md) |
+
+[Вики RU](../../../studio/navigation/ru/README.md) · [Wiki EN](../../../studio/navigation/en/README.md)

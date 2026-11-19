@@ -14,3 +14,13 @@
 
 - [Архитектура: экстерьеры / Architecture: exteriors](architecture-exteriors/README.md) — наружный облик зданий.
 - [Архитектура: интерьеры / Architecture: interiors](architecture-interiors/README.md) — внутреннее пространство зданий.
+
+## Документы этой редакции / Documents in this revision
+
+Все перечисленные редакции — **Draft**; точные исходные статусы указаны при положениях. / All listed editions are **Draft**; precise source statuses remain attached to statements.
+
+| ID | Русский | English |
+| --- | --- | --- |
+| `SPOT-VISUAL-S02` | [Материалы свет и социальный контраст](materials-light-and-social-contrast-v0-1.md) | [Materials, light and social contrast](materials-light-and-social-contrast-v0-1.en.md) |
+
+[Вики RU](../../../studio/navigation/ru/README.md) · [Wiki EN](../../../studio/navigation/en/README.md)

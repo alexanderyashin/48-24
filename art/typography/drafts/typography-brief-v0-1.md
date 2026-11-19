@@ -1,18 +1,32 @@
 ---
 id: "ART-TYPE-001"
+entity_id: "ART-TYPE-001"
 title: "Требования к шрифтам и надписям"
 status: "draft"
 version: "0.1.0"
-owner: "unassigned"
+owner: "alexanderyashin"
 reviewers: []
 updated: "2026-11-19"
+language: "ru"
+translation_of: "ART-TYPE-001-EN"
+translation_path: "art/typography/drafts/typography-brief-v0-1.en.md"
+translation_status: "draft-unreviewed"
+source: "SPOT-0.1; PROJECT-BRIEF-2026-11-19; existing repository draft"
+source_snapshot: "SPOT-0.1"
+source_statuses: ["РАМКА САШИ", "РЕДАКЦИОННОЕ ПРЕДЛОЖЕНИЕ", "БЕЛОЕ ПЯТНО"]
+discussion_buckets: ["discussion", "gap"]
 canon_refs: []
 supersedes: []
-source: "Рамка Саши; исходный SPOT 0.1"
-ai_assistance: "Подготовлено с помощью ИИ по поручению Саши; художественное утверждение авторами не подразумевается."
+ai_assistance: "ChatGPT: structural decomposition and full translation; exact model version unrecorded; human review pending."
 ---
 
 # Требования к шрифтам и надписям
+
+[English](typography-brief-v0-1.en.md) · [Вики](../../../studio/navigation/ru/README.md)
+
+**Draft.** Нормативная спецификация для разработки. Метки относятся к отдельным положениям исходника; исходный консенсус не является новым утверждением канона. Перевод ожидает проверки соавторами.
+
+[Источник: SPOT 0.1](../../../world/world-bible/drafts/spot-0-1-import.md) · Исходные статусы: РАМКА САШИ; РЕДАКЦИОННОЕ ПРЕДЛОЖЕНИЕ; БЕЛОЕ ПЯТНО.
 
 Дореволюционный характер нужен вывескам, титрам, эмблемам и документам мира. Гарнитуры пока не выбраны; файлы шрифтов не загружены.
 

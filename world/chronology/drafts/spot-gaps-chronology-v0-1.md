@@ -1,0 +1,66 @@
+---
+id: "SPOT-GAPS-CHRONOLOGY"
+entity_id: "SPOT-GAPS-CHRONOLOGY"
+title: "Белые пятна: Хронология и поколения"
+status: "draft"
+version: "0.1.0"
+owner: "alexanderyashin"
+reviewers: []
+updated: "2026-11-20"
+language: "ru"
+translation_of: "SPOT-GAPS-CHRONOLOGY-EN"
+translation_path: "world/chronology/drafts/spot-gaps-chronology-v0-1.en.md"
+translation_status: "draft-unreviewed"
+source: "SPOT-0.1#section-20"
+source_snapshot: "SPOT-0.1"
+source_statuses: ["БЕЛОЕ ПЯТНО"]
+discussion_buckets: ["gap"]
+canon_refs: []
+supersedes: []
+ai_assistance: "ChatGPT: open-question audit and navigation update; historical source body retained; human review pending."
+---
+
+# Белые пятна: Хронология и поколения
+
+<!-- unified-question-register -->
+
+**Текущий учёт вопросов:** [единый реестр](../../../studio/navigation/ru/open-questions/README.md). Ниже сохранены исходные формулировки. Актуальные статусы, конкретные документы для ответа и критерии закрытия — по ссылкам: [GAP001](../../../studio/navigation/ru/open-questions/chronology.md#gap001) · [GAP002](../../../studio/navigation/ru/open-questions/chronology.md#gap002) · [GAP003](../../../studio/navigation/ru/open-questions/chronology.md#gap003) · [GAP004](../../../studio/navigation/ru/open-questions/chronology.md#gap004) · [GAP005](../../../studio/navigation/ru/open-questions/chronology.md#gap005) · [GAP006](../../../studio/navigation/ru/open-questions/chronology.md#gap006) · [GAP007](../../../studio/navigation/ru/open-questions/chronology.md#gap007) · [GAP060](../../../studio/navigation/ru/open-questions/geopolitics.md#gap060).
+
+<!-- /unified-question-register -->
+
+[English](spot-gaps-chronology-v0-1.en.md) · [Вики](../../../studio/navigation/ru/README.md)
+
+**Draft.** Нормативная заготовка для совместной разработки. Авторский статус относится к точной формулировке исходника; перенос и перевод не создают нового согласия соавторов. Перевод ожидает человеческой проверки.
+
+[Источник: SPOT 0.1, §20](../../world-bible/drafts/spot-0-1-import.md#section-20) · [Действующие правила канона](../../../studio/CANON_POLICY.md).
+
+Исходные статусы: БЕЛОЕ ПЯТНО.
+
+Все перечисленные вопросы остаются открытыми. Требуемый результат описывает условие будущего закрытия, а не уже выполненную работу.
+
+<!-- SPOT-0.1 section-20 block-0 -->
+
+Статус всех записей этого раздела БЕЛОЕ ПЯТНО. Реестр перечисляет недостающие решения и исследования, а не предписывает конкретные ответы. Результат закрытия описывает проверяемый материал, который позволит писать сцены без произвольного изменения правил. Историческое исследование и художественный выбор должны оставаться различимыми.
+
+<!-- SPOT-0.1 section-20 block-1 -->
+
+<a id="gap_domain_1"></a>
+
+## Хронология и поколения
+
+<!-- SPOT-0.1 section-20 block-2 -->
+
+Основания постановки вопросов [П2] [П4] [П5] [П6].
+
+<!-- SPOT-0.1 section-20 block-3 -->
+
+| Код | Открытый вопрос | Результат для закрытия |
+| --- | --- | --- |
+| <a id="gap001"></a>GAP001 | Выход России из Первой мировой | Дата, условия выхода, военные и дипломатические последствия для всех затронутых держав. |
+| <a id="gap002"></a>GAP002 | Завершение европейской войны | Последовательность соглашений, изменения границ и долговременные причины следующего конфликта. |
+| <a id="gap003"></a>GAP003 | Тридцать лет предыстории | Ограниченная шкала обязательных политических, промышленных и общественных изменений между 1911 и 1941 годами. |
+| <a id="gap004"></a>GAP004 | Война основного периода | Противники, цели, начало, стадии и связь внешних неудач с внутренним кризисом. |
+| <a id="gap005"></a>GAP005 | Календарь революции | Интервалы недовольства, подполья, объединения и смены власти с причинными переходами. |
+| <a id="gap006"></a>GAP006 | Продолжительность нового государства | Периоды строительства, расширения и позднего кризиса без преждевременного утверждения мировой победы. |
+| <a id="gap007"></a>GAP007 | Возрастная шкала персонажей | Возраст ключевых фигур в событиях и условия сохранения их способности действовать. |
+| <a id="gap060"></a>GAP060 | Исходное состояние Германии | Проверенная карта до 1911 года и решение о допустимости ранней версии раздробленной Германии. |

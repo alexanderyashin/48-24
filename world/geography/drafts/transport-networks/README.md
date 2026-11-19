@@ -11,3 +11,13 @@
 Routes, hubs, capacity, distances, and transport geography.
 
 A draft area for ideas, models, sketches, and sources. Document entities and their links to economy, geography, technology, society, and institutions; identify the period (1911, 1941, or another) and the assumption status. Do not promote hypotheses to canon automatically. Use stable IDs and links to domain records. Follow asset rules for images.
+
+## Документы этой редакции / Documents in this revision
+
+Все перечисленные редакции — **Draft**; точные исходные статусы указаны при положениях. / All listed editions are **Draft**; precise source statuses remain attached to statements.
+
+| ID | Русский | English |
+| --- | --- | --- |
+| `WORLD-GEOGRAPHY-001-S04` | [Перевозка как цепочка зависимостей](transport-dependencies-v0-1.md) | [Transport as a chain of dependencies](transport-dependencies-v0-1.en.md) |
+
+[Вики RU](../../../../studio/navigation/ru/README.md) · [Wiki EN](../../../../studio/navigation/en/README.md)

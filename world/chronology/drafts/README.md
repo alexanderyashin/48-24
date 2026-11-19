@@ -9,3 +9,14 @@
 Для изображений, шрифтов, аудио и других бинарных материалов храните исходник и производные рядом или связывайте их в паспорте ресурса. Доступность файла в интернете не доказывает право на его публикацию здесь.
 
 [Область](../README.md) · [Правила канона](../../../studio/CANON_POLICY.md) · [Шаблоны](../../../templates/README.md).
+
+## Документы этой редакции / Documents in this revision
+
+Все перечисленные редакции — **Draft**; точные исходные статусы указаны при положениях. / All listed editions are **Draft**; precise source statuses remain attached to statements.
+
+| ID | Русский | English |
+| --- | --- | --- |
+| `SPOT-GAPS-CHRONOLOGY` | [Белые пятна: Хронология и поколения](spot-gaps-chronology-v0-1.md) | [Open gaps: Chronology and generations](spot-gaps-chronology-v0-1.en.md) |
+| `WORLD-CHRONOLOGY-001` | [Исторические циклы и хронология](historical-cycles-v0-1.md) | [Historical cycles and chronology](historical-cycles-v0-1.en.md) |
+
+[Вики RU](../../../studio/navigation/ru/README.md) · [Wiki EN](../../../studio/navigation/en/README.md)

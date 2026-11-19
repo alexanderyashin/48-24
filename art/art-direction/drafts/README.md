@@ -9,3 +9,14 @@
 Для изображений, шрифтов, аудио и других бинарных материалов храните исходник и производные рядом или связывайте их в паспорте ресурса. Доступность файла в интернете не доказывает право на его публикацию здесь.
 
 [Область](../README.md) · [Правила канона](../../../studio/CANON_POLICY.md) · [Шаблоны](../../../templates/README.md).
+
+## Документы этой редакции / Documents in this revision
+
+Все перечисленные редакции — **Draft**; точные исходные статусы указаны при положениях. / All listed editions are **Draft**; precise source statuses remain attached to statements.
+
+| ID | Русский | English |
+| --- | --- | --- |
+| `ART-DIRECTION-001` | [Исходное художественное направление 48/24](art-direction-v0-1.md) | [Initial art direction for 48/24](art-direction-v0-1.en.md) |
+| `SPOT-VISUAL-S01` | [Устойчивое художественное направление](visual-principles-v0-1.md) | [Stable artistic direction](visual-principles-v0-1.en.md) |
+
+[Вики RU](../../../studio/navigation/ru/README.md) · [Wiki EN](../../../studio/navigation/en/README.md)

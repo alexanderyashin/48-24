@@ -1,18 +1,32 @@
 ---
 id: "ART-PALETTE-001"
+entity_id: "ART-PALETTE-001"
 title: "Палитра для первых проб"
 status: "draft"
 version: "0.1.0"
-owner: "unassigned"
+owner: "alexanderyashin"
 reviewers: []
 updated: "2026-11-19"
+language: "ru"
+translation_of: "ART-PALETTE-001-EN"
+translation_path: "art/palettes/drafts/palette-experiments-v0-1.en.md"
+translation_status: "draft-unreviewed"
+source: "SPOT-0.1; PROJECT-BRIEF-2026-11-19; existing repository draft"
+source_snapshot: "SPOT-0.1"
+source_statuses: ["РЕДАКЦИОННОЕ ПРЕДЛОЖЕНИЕ"]
+discussion_buckets: ["discussion"]
 canon_refs: []
 supersedes: []
-source: "Требования Саши от 2026-11-19; редакционное предложение ИИ"
-ai_assistance: "Подготовлено с помощью ИИ по поручению Саши; художественное утверждение авторами не подразумевается."
+ai_assistance: "ChatGPT: structural decomposition and full translation; exact model version unrecorded; human review pending."
 ---
 
 # Палитра для первых проб
+
+[English](palette-experiments-v0-1.en.md) · [Вики](../../../studio/navigation/ru/README.md)
+
+**Draft.** Нормативная спецификация для разработки. Метки относятся к отдельным положениям исходника; исходный консенсус не является новым утверждением канона. Перевод ожидает проверки соавторами.
+
+[Источник: SPOT 0.1](../../../world/world-bible/drafts/spot-0-1-import.md) · Исходные статусы: РЕДАКЦИОННОЕ ПРЕДЛОЖЕНИЕ.
 
 Пробная система цветов для сравнения изображений, **не утверждённая палитра**. Цветовое пространство: sRGB. HEX задаёт стартовое цветовое отношение, а не обязательный цвет физического источника света.
 

@@ -1,3 +1,16 @@
+---
+id: "PM-WORK-LOG-001"
+title: "Выполненная работа / Work Log"
+status: "draft"
+version: "0.1.0"
+owner: "alexanderyashin"
+reviewers: []
+updated: "2026-11-20"
+language: "ru-en"
+source: "Existing project log at 23d18f172cfee87129695c082f4846c1a00734e6"
+ai_assistance: "ChatGPT: open-question audit and navigation update; historical source body retained; human review pending."
+---
+
 # Выполненная работа / Work Log
 
 ## Русский
@@ -22,3 +35,19 @@
 ## English
 
 This work index links to actual files and records documentation/structure deliverables, not executable implementation or verified physics. Git history remains authoritative.
+
+<!-- oq-validation-followup:start -->
+
+<a id="validation-follow-up-2026-11-20"></a>
+
+## Дополнение к PM-W009 — 2026-11-20
+
+Отметка «запуск валидатора не выполнен» выше описывает прежнюю сессию, а не текущее состояние. На редакции `f33a3c08c88b43b165d57f74e8eaf9f37f5c15e3` получен локальный PASS (678 файлов, 0 ошибок); [серверная проверка](https://github.com/alexanderyashin/48-24/actions/runs/44629578628) также завершилась success. Полные доказательства добавлены в [датированное продолжение сессии](sessions/2026-11-19.md#validation-follow-up-2026-11-20). Текущее состояние PM-Q001–PM-Q007 ведётся в [едином реестре](../../../../studio/navigation/ru/open-questions/README.md); журнал не создаёт отдельные статусы.
+
+<a id="validation-follow-up-2026-11-20-en"></a>
+
+## PM-W009 follow-up — 2026-11-20
+
+The “repository validation not completed” statement above describes the earlier session, not the current state. Revision `f33a3c08c88b43b165d57f74e8eaf9f37f5c15e3` received a local PASS (678 files, 0 errors); [server checks](https://github.com/alexanderyashin/48-24/actions/runs/44629578628) also succeeded. Full evidence is in the [dated session follow-up](sessions/2026-11-19.md#validation-follow-up-2026-11-20-en). Current PM-Q001–PM-Q007 states live in the [unified register](../../../../studio/navigation/en/open-questions/README.md); this log keeps no separate current states.
+
+<!-- oq-validation-followup:end -->

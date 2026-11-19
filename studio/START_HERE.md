@@ -24,3 +24,9 @@
 - Выбрать первую самостоятельную историю/пробный выпуск. Игра, книга, видео и настолка имеют место в структуре, но не объявлены одновременно запущенными производствами.
 
 Подробно: [процесс](WORKFLOW.md), [канон](CANON_POLICY.md), [ресурсы](ASSET_WORKFLOW.md), [правила ИИ](AI_COLLABORATION.md).
+
+## Найти документ и его статус / Find a document and its status
+
+Начните с [русской вики](navigation/ru/README.md) или [English wiki](navigation/en/README.md). Для каждого файла предусмотрена индивидуальная запись [каталога](navigation/file-catalog.csv); исходный консенсус, дискуссия и белое пятно различаются независимо от Draft. При добавлении файла обновляйте обе навигации и каталог по [нормативу Draft](navigation/proposals/cataloguing-standard-v0-1.md).
+
+Start with the language wiki. Every file has an individual catalogue entry. Source consensus, discussion and open gaps are independent of Draft status. When adding a file, update both navigation views and the catalogue under the [Draft standard](navigation/proposals/cataloguing-standard-v0-1.en.md).

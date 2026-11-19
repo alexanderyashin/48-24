@@ -35,3 +35,9 @@
 Валидатор проверяет структуру, обязательные файлы, README, метаданные, часть ссылок, состояния, паспорта бинарных ресурсов и допустимость структурных изменений относительно базы. Проверка не доказывает авторство, подлинность согласия, отсутствие любого секрета, качество сюжета или историческую достоверность. Эти пункты остаются предметом review.
 
 CI сам по себе не запрещает прямой push. Реальный запрет слияния при красной проверке обеспечивается ruleset в GitHub. Фактическое состояние — [rollout](rollout/STATUS.md).
+
+## Каталогизация каждого файла — Draft / Every-file cataloguing — Draft
+
+По поручению Саши каждый файл проекта должен быть индивидуально учтён в [едином каталоге](navigation/file-catalog.csv) и достижим из [русской](navigation/ru/README.md) и [английской](navigation/en/README.md) вики. Требование охватывает также инструкции, README, переводы, данные, код, тесты, шаблоны, конфигурацию, архив и сами навигационные файлы. Оно фиксируется [отдельным нормативом Draft](navigation/proposals/cataloguing-standard-v0-1.md); техническое принуждение пока не вводится. Рассмотрение этой редакции правил не заменяет согласования художественного канона.
+
+At Sasha's request, every project file must have an individual entry in the shared catalogue and be reachable from both wikis, including instructions, READMEs, translations, data, code, tests, templates, configuration, archives and navigation files themselves. The [separate Draft standard](navigation/proposals/cataloguing-standard-v0-1.en.md) defines this requirement; no new technical enforcement is introduced. Review of this governance draft does not approve creative canon.

@@ -27,3 +27,22 @@
 | [Rollout](rollout/README.md) | Внедрение и настройки GitHub |
 
 [Манифест структуры](structure.json) · [Команда](team.json) · [Главная](../README.md).
+
+## Двуязычная вики / Bilingual wiki
+
+- [Русская вики](navigation/ru/README.md) — общая навигация по нормативным Draft-документам, статусам и источникам.
+- [English wiki](navigation/en/README.md) — navigation across Draft specifications, statuses and sources.
+- [Каталог каждого файла / Every-file catalogue](navigation/file-catalog.csv).
+- [Правило каталогизации: Draft](navigation/proposals/cataloguing-standard-v0-1.md) · [Cataloguing standard: Draft](navigation/proposals/cataloguing-standard-v0-1.en.md).
+
+Документы редактируются в профильных разделах; вики не становится второй копией лора. / Edit documents in their subject areas; the wiki is not a second copy of the lore.
+
+## Документы этой редакции / Documents in this revision
+
+Все перечисленные редакции — **Draft**; точные исходные статусы указаны при положениях. / All listed editions are **Draft**; precise source statuses remain attached to statements.
+
+| ID | Русский | English |
+| --- | --- | --- |
+| `SPOT-IMPORT-GUIDE-001` | [Как работать с исходным SPOT и текущими документами](source-import-guide.md) | [Working with the SPOT source and current documents](source-import-guide.en.md) |
+
+[Вики RU](navigation/ru/README.md) · [Wiki EN](navigation/en/README.md)

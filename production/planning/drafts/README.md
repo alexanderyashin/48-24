@@ -13,3 +13,13 @@
 ## Управление проектом / Project management
 
 - [Project Management Log](project-management/README.md) — решения, открытые вопросы, выполненная работа, дорожная карта и сессии / decisions, open issues, work log, roadmap and sessions.
+
+## Документы этой редакции / Documents in this revision
+
+Все перечисленные редакции — **Draft**; точные исходные статусы указаны при положениях. / All listed editions are **Draft**; precise source statuses remain attached to statements.
+
+| ID | Русский | English |
+| --- | --- | --- |
+| `SPOT-PRIORITIES-001` | [Решения первой очереди и зависимости](spot-priorities-v0-1.md) | [Priority decisions and dependencies](spot-priorities-v0-1.en.md) |
+
+[Вики RU](../../../studio/navigation/ru/README.md) · [Wiki EN](../../../studio/navigation/en/README.md)

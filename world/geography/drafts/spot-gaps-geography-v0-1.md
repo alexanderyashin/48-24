@@ -1,0 +1,62 @@
+---
+id: "SPOT-GAPS-GEOGRAPHY"
+entity_id: "SPOT-GAPS-GEOGRAPHY"
+title: "Белые пятна: Территории и пути сообщения"
+status: "draft"
+version: "0.1.0"
+owner: "alexanderyashin"
+reviewers: []
+updated: "2026-11-20"
+language: "ru"
+translation_of: "SPOT-GAPS-GEOGRAPHY-EN"
+translation_path: "world/geography/drafts/spot-gaps-geography-v0-1.en.md"
+translation_status: "draft-unreviewed"
+source: "SPOT-0.1#section-20"
+source_snapshot: "SPOT-0.1"
+source_statuses: ["БЕЛОЕ ПЯТНО"]
+discussion_buckets: ["gap"]
+canon_refs: []
+supersedes: []
+ai_assistance: "ChatGPT: open-question audit and navigation update; historical source body retained; human review pending."
+---
+
+# Белые пятна: Территории и пути сообщения
+
+<!-- unified-question-register -->
+
+**Текущий учёт вопросов:** [единый реестр](../../../studio/navigation/ru/open-questions/README.md). Ниже сохранены исходные формулировки. Актуальные статусы, конкретные документы для ответа и критерии закрытия — по ссылкам: [GAP034](../../../studio/navigation/ru/open-questions/geopolitics.md#gap034) · [GAP035](../../../studio/navigation/ru/open-questions/geography.md#gap035) · [GAP036](../../../studio/navigation/ru/open-questions/geography.md#gap036) · [GAP037](../../../studio/navigation/ru/open-questions/geography.md#gap037) · [GAP038](../../../studio/navigation/ru/open-questions/geography.md#gap038) · [GAP039](../../../studio/navigation/ru/open-questions/geography.md#gap039) · [GAP040](../../../studio/navigation/ru/open-questions/geography.md#gap040) · [GAP041](../../../studio/navigation/ru/open-questions/geography.md#gap041).
+
+<!-- /unified-question-register -->
+
+[English](spot-gaps-geography-v0-1.en.md) · [Вики](../../../studio/navigation/ru/README.md)
+
+**Draft.** Нормативная заготовка для совместной разработки. Авторский статус относится к точной формулировке исходника; перенос и перевод не создают нового согласия соавторов. Перевод ожидает человеческой проверки.
+
+[Источник: SPOT 0.1, §20](../../world-bible/drafts/spot-0-1-import.md#section-20) · [Действующие правила канона](../../../studio/CANON_POLICY.md).
+
+Исходные статусы: БЕЛОЕ ПЯТНО.
+
+Все перечисленные вопросы остаются открытыми. Требуемый результат описывает условие будущего закрытия, а не уже выполненную работу.
+
+<!-- SPOT-0.1 section-20 block-13 -->
+
+<a id="gap_domain_5"></a>
+
+## Территории и пути сообщения
+
+<!-- SPOT-0.1 section-20 block-14 -->
+
+Основания постановки вопросов [П2] [П3] [П4] [П6] [П7].
+
+<!-- SPOT-0.1 section-20 block-15 -->
+
+| Код | Открытый вопрос | Результат для закрытия |
+| --- | --- | --- |
+| <a id="gap034"></a>GAP034 | Карта держав | Государства, границы и основные международные интересы на выбранную стартовую дату. |
+| <a id="gap035"></a>GAP035 | Название и статус столицы | Принятый топоним по периодам, резиденции власти и связь имени с альтернативной историей. |
+| <a id="gap036"></a>GAP036 | Устройство столицы | Социальные районы, мосты, производственные зоны и жизненно важные точки городского снабжения. |
+| <a id="gap037"></a>GAP037 | География Пустошей | Разграничение промышленных округов, сельских пространств, лагерей, вольниц и территорий слабого контроля. |
+| <a id="gap038"></a>GAP038 | Железные и водные дороги | Главные маршруты, узлы перегрузки, сезонные ограничения и реальная роль исторических караванных путей. |
+| <a id="gap039"></a>GAP039 | Морские связи | Порты, внешние маршруты и уязвимость торговли при конфликте с морскими державами. |
+| <a id="gap040"></a>GAP040 | Доставка ресурсов в столицу | Несколько проверяемых цепочек груза от места добычи до потребителя с узкими местами. |
+| <a id="gap041"></a>GAP041 | Преемственность заводских площадок | Для каждого ключевого предприятия отделены реальные предпосылки от альтернативного основания и последующего роста. |

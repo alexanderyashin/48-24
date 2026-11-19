@@ -21,3 +21,14 @@
 - [scientific-limits](./scientific-limits/README.md)
 - [manufacturing](./manufacturing/README.md)
 - [energy-systems](./energy-systems/README.md)
+
+## Документы этой редакции / Documents in this revision
+
+Все перечисленные редакции — **Draft**; точные исходные статусы указаны при положениях. / All listed editions are **Draft**; precise source statuses remain attached to statements.
+
+| ID | Русский | English |
+| --- | --- | --- |
+| `SPOT-GAPS-TECHNOLOGY` | [Белые пятна: Техника энергия и связь](spot-gaps-technology-v0-1.md) | [Open gaps: Technology, energy, and communications](spot-gaps-technology-v0-1.en.md) |
+| `WORLD-TECHNOLOGY-001` | [Технологии и военная материальная культура](technology-and-military-culture-v0-1.md) | [Technology and military material culture](technology-and-military-culture-v0-1.en.md) |
+
+[Вики RU](../../../studio/navigation/ru/README.md) · [Wiki EN](../../../studio/navigation/en/README.md)
