@@ -9,3 +9,12 @@
 Для изображений, шрифтов, аудио и других бинарных материалов храните исходник и производные рядом или связывайте их в паспорте ресурса. Доступность файла в интернете не доказывает право на его публикацию здесь.
 
 [Область](../README.md) · [Правила канона](../../../studio/CANON_POLICY.md) · [Шаблоны](../../../templates/README.md).
+
+## Тематические подразделы / Topic folders
+
+- [social-structure](./social-structure/README.md)
+- [daily-life](./daily-life/README.md)
+- [labor-and-livelihood](./labor-and-livelihood/README.md)
+- [medicine-and-health](./medicine-and-health/README.md)
+- [education-and-culture](./education-and-culture/README.md)
+- [media-and-public-opinion](./media-and-public-opinion/README.md)
