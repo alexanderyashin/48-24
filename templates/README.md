@@ -5,6 +5,9 @@
 | Форма | Файл |
 | --- | --- |
 | [Универсальная карточка идеи / Idea fragment](idea-fragment.md) | `idea-fragment.md` |
+| [Исторический объект REF](historical-object-reference.md) | `historical-object-reference.md` |
+| [Объект мира OBJ](world-object.md) | `world-object.md` |
+| [Арт-ресурс ART](game-art-asset.md) | `game-art-asset.md` |
 | [Карточка положения мира](world-entry.md) | `world-entry.md` |
 | [Карточка персонажа](character.md) | `character.md` |
 | [Карточка места](location.md) | `location.md` |
