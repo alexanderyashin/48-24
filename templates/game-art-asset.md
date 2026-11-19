@@ -55,3 +55,7 @@ reference_ids: []
 - Мастер, формат, версия / Master, format, version:
 - Права, лицензия, SHA-256 / Rights, licence, hash:
 - Ограничения и следующий шаг / Blockers and next step:
+
+## 3D-спецификация / 3D production specification
+
+Для 3D-ресурса перед L2 обязательно заполнить [3D production spec](3d-production-spec.md). This ART brief alone is not a model-ready specification; record dimensions, views, mesh, UV, PBR, rig, export, and QA in the linked production form.
