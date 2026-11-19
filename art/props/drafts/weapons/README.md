@@ -11,3 +11,8 @@
 Silhouettes, forms, materials, drawings, and weapon variants; system logic belongs in world/technology.
 
 This is a draft workspace. Keep separate records and sketches with IDs, provenance, and cross-references; canon approval follows project-wide rules. Binary assets require provenance metadata and rights clearance. Link related materials in other domains rather than duplicating them.
+
+## Текущие намётки / Current outlines
+
+- [Пневмотермический гранатомёт — арт-бриф / Pneumothermal grenade launcher — art brief](pneumothermal-grenade-launcher-brief-v0-1.md): Draft, L0; текстовый бриф, изображений пока нет / written brief, no images yet.
+- [Карточка предмета / Object record](../../../../world/technology/drafts/weapons-systems/pneumothermal-grenade-launcher-v0-1.md) · [Технологическое семейство / Technological family](../../../../world/technology/drafts/weapons-systems/pneumothermal-family-v0-1.md).

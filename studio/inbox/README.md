@@ -25,3 +25,7 @@ This is a temporary intake area for miscellaneous creative fragments: plot ideas
 6. Do not upload unlicensed references, private chats, or large binaries to this public repository. Follow the [asset policy](../ASSET_WORKFLOW.md); retain a permissible description or link when rights are unresolved.
 
 Inbox items are not canon. Domain records still follow `drafts → canon → archive` and the [canon policy](../CANON_POLICY.md).
+
+## Разобранные фрагменты / Routed fragments
+
+- [Первичные решения по вооружению / Initial weapons decisions](idea-sasha-weapons-foundation-v0-1.md), 2026-11-20: `routed`; содержание остаётся Draft. Связаны мировые карточки, игровое управление, арт-бриф и проект нормативного дополнения. / Content remains Draft. Links world records, game controls, an art brief and a proposed normative supplement.

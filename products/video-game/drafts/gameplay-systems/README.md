@@ -11,3 +11,8 @@
 Gameplay mechanics, item states, interactions, damage, inventory and game events.
 
 This is a working implementation area, not an approved engine or technology choice. Store projects, configuration, specifications, links to open-source components, experiment results and source code as needed. Record versions, provenance, licenses, dependencies, limitations and acceptance criteria. Reference the [engine data contract](../../../../studio/ENGINE_DATA_CONTRACT.md) and [3D readiness gates](../../../../studio/3D_READINESS_GATES.md) where applicable. Follow the project's binary asset rules.
+
+## Текущие намётки / Current outlines
+
+- [Пневмотермическое оружие — управление / Pneumothermal weapons — controls](pneumothermal-controls-v0-1.md): Draft; ПКМ, ЛКМ и два индикатора / RMB, LMB and two indicators.
+- [Мировая основа: семейство / World baseline: family](../../../../world/technology/drafts/weapons-systems/pneumothermal-family-v0-1.md) · [Гранатомёт / Grenade launcher](../../../../world/technology/drafts/weapons-systems/pneumothermal-grenade-launcher-v0-1.md).
