@@ -63,3 +63,9 @@ canon_refs: []
 ## Готовность к 3D / 3D readiness
 
 OBJ фиксирует конструктивную истину мира, но не заменяет [технический формуляр ART](3d-production-spec.md). / OBJ defines world-object identity and construction; a production ART requires a separate [3D form](3d-production-spec.md).
+
+## Физическая модель / Physical model
+
+- Режим P0/P1/P2 / Fidelity mode:
+- Связанная спецификация / Linked [Physical Behavior Specification](physical-behavior-spec.md):
+- Физические неизвестные / Physics blockers:
