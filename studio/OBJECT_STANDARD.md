@@ -48,3 +48,7 @@
 Объект OBJ остаётся единым источником идентичности и назначения. Техническая реализация ART для 3D обязана ссылаться на OBJ и заполнять [3D-формуляр](../templates/3d-production-spec.md) согласно [уровням готовности](3D_READINESS_GATES.md). Не переносите в OBJ игровые ограничения конкретного движка: они принадлежат ART-реализации.
 
 OBJ remains the identity and design source. Each 3D ART implementation references OBJ and completes the [3D form](../templates/3d-production-spec.md) under the [readiness gates](3D_READINESS_GATES.md). Engine-specific implementation constraints belong to ART, not OBJ.
+
+## Физическое поведение / Physical behavior
+
+Для физически моделируемых объектов дополнительно обязательна [карточка физических свойств](../templates/physical-behavior-spec.md) по [нормативу физики](PHYSICS_GOVERNANCE.md). Разделяйте оптические свойства (глянец, матовость, отражение) и механические свойства (гибкость, прочность, хрупкость, масса, трение). / Simulated objects require a linked [physics specification](../templates/physical-behavior-spec.md) under [physics governance](PHYSICS_GOVERNANCE.md). Optical and mechanical properties are distinct.
