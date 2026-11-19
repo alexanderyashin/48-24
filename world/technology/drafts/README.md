@@ -13,3 +13,11 @@
 ## Специализированные черновики / Focused drafts
 
 - [Системы вооружения / Weapons systems](weapons-systems/README.md) — техническая логика и ограничения вооружения.
+
+## Тематические подразделы / Topic folders
+
+- [transport-systems](./transport-systems/README.md)
+- [communications](./communications/README.md)
+- [scientific-limits](./scientific-limits/README.md)
+- [manufacturing](./manufacturing/README.md)
+- [energy-systems](./energy-systems/README.md)
