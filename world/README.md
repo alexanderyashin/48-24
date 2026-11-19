@@ -16,3 +16,10 @@
 В каждой области есть `drafts`, `canon` и `archive`. Ветки Git — способ параллельной работы; папки статуса — зрелость материала. Слияние в `main` само по себе не делает материал каноном.
 
 Читайте [рабочий процесс](../studio/WORKFLOW.md) и [правила канона](../studio/CANON_POLICY.md). [Главная](../README.md).
+
+## Тематическая детализация / Focused topics
+
+- Экономика / Economy: [world/economy](economy/README.md)
+- География / Geography: [world/geography](geography/README.md)
+- Технологии / Technology: [world/technology](technology/README.md)
+- Механика мира / World mechanics: [черновики механики](world-bible/drafts/mechanics/README.md)
