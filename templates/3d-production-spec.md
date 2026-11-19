@@ -155,3 +155,7 @@ reference_ids: []
 ## Физические свойства / Physical behavior
 
 Для объектов с физическим поведением обязательно связать [Physical Behavior Specification](physical-behavior-spec.md): масса, инерция, упругость, прочность, трение, разрушение, тепловые и оптические параметры. / Link the [physics form](physical-behavior-spec.md) for mass, inertia, elasticity, strength, friction, fracture, thermal and optical behavior.
+
+## Контракт игрового экспорта / Engine export contract
+
+Перед заявлением Game Ready требуется [JSON Schema](engine-asset.schema.json), [пример манифеста](engine-asset.example.json), [профиль движка](engine-implementation-profile.md) и успешный тест импорта. / Game Ready requires a schema-compliant manifest, a versioned engine adapter and import evidence. No direct import of Markdown is implied.
