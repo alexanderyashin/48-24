@@ -1,6 +1,6 @@
 # Instructions for human-directed AI assistants
 
-This repository develops 48/24, an original fictional universe and future adaptations. This file governs work in the entire repository unless a more specific instruction applies. Human-facing operating documentation is Russian; legal terms and these assistant instructions are English. Do not translate all documents without a task requiring it.
+This repository develops 48/24, an original fictional universe and future adaptations. This file governs work in the entire repository unless a more specific instruction applies. Russian and English are equal primary project languages. Every project document requires both language versions regardless of the original language; translation is bidirectional. Existing documents may be translated progressively. Follow `studio/LANGUAGE_POLICY.md`; do not mass-translate unrelated files as incidental cleanup.
 
 ## Read before changing anything
 
