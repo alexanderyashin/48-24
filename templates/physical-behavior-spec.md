@@ -137,3 +137,33 @@ simulation_mode: "visual"
 - Canon decision reference (separate) / Канон отдельно:
 
 **Readiness rule / Правило:** visual mode may approximate physical parameters but must label them as artistic. Game-physics requires all simulation-relevant mass/inertia, contact, joints, and environment parameters and tests. Engineering requires calibrated constitutive laws, source-backed numeric values, boundary conditions, solver settings, uncertainty and quantitative validation; a completed form alone is not proof of engineering fidelity.
+
+## 11. Component Damage Model / Повреждения компонентов
+
+- Component IDs, material layers, hit zones and collision proxies / ID деталей, слои, зоны попадания:
+- Damage types, units and thresholds per component / Виды и пороги повреждений по деталям:
+- Damage accumulation, fatigue and reset / Накопление, усталость и сброс:
+- Functional effects per damaged component / Последствия для работоспособности:
+
+## 12. Fracture & Deformation Model / Разрушение и деформация
+
+- Fragments and clusters, fracture hierarchy / Фрагменты, кластеры и иерархия:
+- Bonds, break thresholds and damage propagation / Связи, пороги и распространение:
+- Cloth/soft-body solver, tear constraints, stiffness / Решатель ткани и мягких тел:
+- Debris limits, collision, persistence / Лимиты обломков и коллизии:
+
+## 13. State & Failure Model / Состояния и отказы
+
+- States: healthy, damaged, disabled, destroyed; custom states / Состояния:
+- Event triggers, conditions and transitions / События, условия, переходы:
+- Mesh/material/decal/VFX/SFX changes / Визуальные и звуковые последствия:
+- Gameplay functions and repair / Функции и ремонт:
+
+## 14. Engine Implementation Profile / Реализация в движке
+
+- Typed JSON asset: [schema](engine-asset.schema.json) and [example](engine-asset.example.json)
+- Per-engine mapping: [implementation profile](engine-implementation-profile.md)
+- Target engine/version, adapter version, units, type bounds and import evidence / Версии, типы, диапазоны и доказательство импорта:
+- Unsupported features, scripted fallback and test evidence / Неподдерживаемые функции, адаптер и тесты:
+
+**Rule:** Free-text physics fields are not sufficient for engine export. The typed manifest and exact-version adapter are required. / Текстовых полей недостаточно для экспорта: нужен типизированный манифест и адаптер конкретной версии.
