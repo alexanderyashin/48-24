@@ -30,3 +30,7 @@ Git LFS пока не включён: владелец хранилища, кв�
 - [GitHub — Git LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage).
 
 Документация проверена 2026-11-19. Реальные тарифы и квоты проверяются при выборе хранилища.
+
+## Норматив дизайна / Design governance
+
+Для объектов мира, концепт-листов и производственных изображений обязательные поля, виды и критерии дизайн-ревью определяет [VISUAL_GOVERNANCE](VISUAL_GOVERNANCE.md). / The required views, fields and design-review gates are defined in [VISUAL_GOVERNANCE](VISUAL_GOVERNANCE.md).
