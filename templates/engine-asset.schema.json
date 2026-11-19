@@ -1,0 +1,628 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/alexanderyashin/48-24/blob/main/templates/engine-asset.schema.json",
+  "title": "48/24 Engine Asset Interchange v1",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": "1.0.0"
+    },
+    "asset_id": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 80,
+      "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+    },
+    "art_id": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 80,
+      "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+    },
+    "physics_id": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 80,
+      "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+    },
+    "readiness": {
+      "enum": [
+        "draft",
+        "engine-ready"
+      ]
+    },
+    "engine": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "target": {
+          "enum": [
+            "generic",
+            "unreal",
+            "unity",
+            "godot"
+          ]
+        },
+        "version": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 256
+        },
+        "adapter_version": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 256
+        },
+        "asset_type": {
+          "enum": [
+            "rigid",
+            "articulated",
+            "cloth",
+            "soft-body",
+            "fracturable",
+            "static"
+          ]
+        }
+      },
+      "required": [
+        "target",
+        "version",
+        "adapter_version",
+        "asset_type"
+      ]
+    },
+    "units": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "length": {
+          "const": "m"
+        },
+        "mass": {
+          "const": "kg"
+        },
+        "angle": {
+          "const": "rad"
+        },
+        "force": {
+          "const": "N"
+        },
+        "energy": {
+          "const": "J"
+        },
+        "time": {
+          "const": "s"
+        }
+      },
+      "required": [
+        "length",
+        "mass",
+        "angle",
+        "force",
+        "energy",
+        "time"
+      ]
+    },
+    "parts": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 2048,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 256
+          },
+          "mass_kg": {
+            "type": "number",
+            "minimum": 0
+          },
+          "center_of_mass_m": {
+            "type": "array",
+            "items": {
+              "type": "number"
+            },
+            "minItems": 3,
+            "maxItems": 3
+          },
+          "inertia_kg_m2": {
+            "type": "array",
+            "items": {
+              "type": "number"
+            },
+            "minItems": 9,
+            "maxItems": 9
+          },
+          "material_id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+          },
+          "mesh_uri": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 512
+          },
+          "collision": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "shape": {
+                "enum": [
+                  "box",
+                  "sphere",
+                  "capsule",
+                  "convex",
+                  "mesh",
+                  "none"
+                ]
+              },
+              "friction_static": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 10
+              },
+              "friction_dynamic": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 10
+              },
+              "restitution": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1
+              }
+            },
+            "required": [
+              "shape",
+              "friction_static",
+              "friction_dynamic",
+              "restitution"
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "mass_kg",
+          "center_of_mass_m",
+          "inertia_kg_m2",
+          "material_id",
+          "mesh_uri",
+          "collision"
+        ]
+      }
+    },
+    "materials": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 512,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+          },
+          "density_kg_m3": {
+            "type": "number",
+            "minimum": 0
+          },
+          "young_modulus_pa": {
+            "type": "number",
+            "minimum": 0
+          },
+          "fracture_energy_j": {
+            "type": "number",
+            "minimum": 0
+          },
+          "render": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "base_color_linear": {
+                "type": "array",
+                "items": {
+                  "type": "number",
+                  "minimum": 0,
+                  "maximum": 1
+                },
+                "minItems": 3,
+                "maxItems": 3
+              },
+              "metallic": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1
+              },
+              "roughness": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1
+              }
+            },
+            "required": [
+              "base_color_linear",
+              "metallic",
+              "roughness"
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "density_kg_m3",
+          "young_modulus_pa",
+          "fracture_energy_j",
+          "render"
+        ]
+      }
+    },
+    "joints": {
+      "type": "array",
+      "maxItems": 4096,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+          },
+          "part_a": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+          },
+          "part_b": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+          },
+          "type": {
+            "enum": [
+              "fixed",
+              "hinge",
+              "slider",
+              "ball",
+              "spring",
+              "custom"
+            ]
+          },
+          "axis": {
+            "type": "array",
+            "items": {
+              "type": "number"
+            },
+            "minItems": 3,
+            "maxItems": 3
+          },
+          "limit_min": {
+            "type": "number"
+          },
+          "limit_max": {
+            "type": "number"
+          },
+          "stiffness": {
+            "type": "number",
+            "minimum": 0
+          },
+          "damping": {
+            "type": "number",
+            "minimum": 0
+          },
+          "break_force_n": {
+            "type": "number",
+            "minimum": 0
+          }
+        },
+        "required": [
+          "id",
+          "part_a",
+          "part_b",
+          "type",
+          "axis",
+          "limit_min",
+          "limit_max",
+          "stiffness",
+          "damping",
+          "break_force_n"
+        ]
+      }
+    },
+    "damage_zones": {
+      "type": "array",
+      "maxItems": 4096,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+          },
+          "part_id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+          },
+          "damage_kind": {
+            "enum": [
+              "impact",
+              "cut",
+              "heat",
+              "pressure",
+              "fatigue",
+              "corrosion",
+              "generic"
+            ]
+          },
+          "threshold_j": {
+            "type": "number",
+            "minimum": 0
+          },
+          "accumulation": {
+            "enum": [
+              "none",
+              "linear",
+              "custom"
+            ]
+          },
+          "on_trigger_state": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+          }
+        },
+        "required": [
+          "id",
+          "part_id",
+          "damage_kind",
+          "threshold_j",
+          "accumulation",
+          "on_trigger_state"
+        ]
+      }
+    },
+    "states": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 1024,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+          },
+          "functional": {
+            "type": "boolean"
+          },
+          "mesh_variant": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 256
+          },
+          "collision_enabled": {
+            "type": "boolean"
+          },
+          "mobility_multiplier": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 10
+          }
+        },
+        "required": [
+          "id",
+          "functional",
+          "mesh_variant"
+        ]
+      }
+    },
+    "transitions": {
+      "type": "array",
+      "maxItems": 4096,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+          },
+          "from": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+          },
+          "to": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+          },
+          "trigger_zone_id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+          },
+          "visual_effect": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 256
+          },
+          "sound_effect": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 256
+          },
+          "functional_effect": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 256
+          }
+        },
+        "required": [
+          "id",
+          "from",
+          "to",
+          "trigger_zone_id",
+          "visual_effect",
+          "sound_effect",
+          "functional_effect"
+        ]
+      }
+    },
+    "fracture": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "mode": {
+          "enum": [
+            "none",
+            "prefractured",
+            "runtime",
+            "scripted"
+          ]
+        },
+        "fragments": {
+          "type": "array",
+          "maxItems": 8192,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "id": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 80,
+                "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+              },
+              "part_id": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 80,
+                "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+              },
+              "mass_kg": {
+                "type": "number",
+                "minimum": 0
+              },
+              "mesh_uri": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 256
+              }
+            },
+            "required": [
+              "id",
+              "part_id",
+              "mass_kg",
+              "mesh_uri"
+            ]
+          }
+        },
+        "clusters": {
+          "type": "array",
+          "maxItems": 4096,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "id": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 80,
+                "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+              },
+              "fragment_ids": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 80,
+                  "pattern": "^[A-Za-z0-9][A-Za-z0-9_.-]*$"
+                },
+                "minItems": 1,
+                "maxItems": 8192
+              },
+              "break_threshold_j": {
+                "type": "number",
+                "minimum": 0
+              }
+            },
+            "required": [
+              "id",
+              "fragment_ids",
+              "break_threshold_j"
+            ]
+          }
+        },
+        "max_active_fragments": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 8192
+        }
+      },
+      "required": [
+        "mode",
+        "fragments",
+        "clusters",
+        "max_active_fragments"
+      ]
+    },
+    "exceptions": {
+      "type": "array",
+      "maxItems": 256,
+      "items": {
+        "type": "string",
+        "maxLength": 1000
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "asset_id",
+    "art_id",
+    "physics_id",
+    "readiness",
+    "engine",
+    "units",
+    "parts",
+    "materials",
+    "joints",
+    "damage_zones",
+    "states",
+    "transitions",
+    "fracture",
+    "exceptions"
+  ]
+}
