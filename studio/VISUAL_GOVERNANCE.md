@@ -55,3 +55,7 @@ Flat ornament, fonts, and maps may mark side views N/A with a reason. Raw ideas 
 **Нормативное дополнение:** [3D_READINESS_GATES](3D_READINESS_GATES.md) устанавливает L0/L1/L2/L3, а [3D production specification](../templates/3d-production-spec.md) является обязательным техническим формуляром перед L2. Анфас/профиль сами по себе достаточны для концепт-ревью, **но не для готовности к моделированию**. Критические размеры, конструкция, материалы и ограничения должны быть согласованы до L2; L3 требует реальных исходников и тестов.
 
 **Normative extension:** [3D readiness gates](3D_READINESS_GATES.md) define L0–L3; the [production form](../templates/3d-production-spec.md) is required before L2. Front/side views alone do not establish modeling readiness; L3 requires actual deliverables and tests.
+
+## Физика и оптика / Physics and optics
+
+Полные требования к массе, упругости, гибкости, хрупкости, контактам, разрушению и оптическим свойствам (глянец, матовость, roughness, IOR) задаёт [PHYSICS_GOVERNANCE](PHYSICS_GOVERNANCE.md) и [Physical Behavior Specification](../templates/physical-behavior-spec.md). / Physics and optical behavior are governed by the linked normative physics specification.
