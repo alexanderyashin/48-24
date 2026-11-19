@@ -6,7 +6,7 @@ status: "draft"
 version: "0.1.0"
 owner: "alexanderyashin"
 reviewers: []
-updated: "2026-11-19"
+updated: "2026-11-20"
 language: "ru"
 translation_of: "WIKI-README-EN"
 translation_path: "studio/navigation/en/README.md"
@@ -16,11 +16,17 @@ source_statuses: ["ПОРУЧЕНИЕ САШИ; РЕДАКЦИОННАЯ РЕА�
 discussion_buckets: ["discussion"]
 canon_refs: []
 supersedes: []
-ai_assistance: "ChatGPT: decomposition, translation and navigation; model version not recorded; human review pending."
+ai_assistance: "ChatGPT: open-question audit and navigation update; historical source body retained; human review pending."
 authority: "navigation-only"
 ---
 
 # 48/24 — вики соавторства
+
+<!-- unified-question-register -->
+
+**Единый реестр незавершённого:** [все темы и статусы](open-questions/README.md) · [вопросы по документам](open-questions/by-document.md). Он объединяет GAP, DIV, PM-Q и результаты аудита; у каждого пункта указано, куда внести ответ. Исходные списки этой страницы сохраняют происхождение, текущие состояния ведутся в реестре.
+
+<!-- /unified-question-register -->
 
 **Draft** · [Главная вики](README.md) · [English](../en/README.md) · [Все файлы](catalog/README.md)
 
@@ -59,8 +65,8 @@ authority: "navigation-only"
 | 16 | персонажных карточек CHAR |
 | 25 | сюжетных карточек ARC |
 | 10 | предложенных приоритетов PRI |
-| 145 | пар полных рабочих документов RU/EN, включая сопроводительные нормативы миграции |
-| 678 | индивидуально каталогизированных файлов |
+| 147 | пар полных рабочих документов RU/EN, включая сопроводительные нормативы миграции |
+| 721 | индивидуально каталогизированных файлов |
 
 Полные нормативы лежат в профильных папках. Сюда не перенесена вторая редактируемая копия мира. В каждом документе есть исходная ссылка, пометки принятия и переход к языковому партнёру. Человеческая проверка переводов ожидается.
 

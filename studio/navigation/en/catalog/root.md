@@ -6,12 +6,12 @@ status: "draft"
 version: "0.1.0"
 owner: "alexanderyashin"
 reviewers: []
-updated: "2026-11-19"
+updated: "2026-11-20"
 language: "en"
 translation_of: "WIKI-CATALOG-ROOT-RU"
 translation_path: "studio/navigation/ru/catalog/root.md"
 translation_status: "draft-unreviewed"
-source: "TASK-SPOT-WIKI-001"
+source: "TASK-OPEN-QUESTIONS-001"
 source_statuses: ["ПОРУЧЕНИЕ САШИ; РЕДАКЦИОННАЯ РЕАЛИЗАЦИЯ"]
 discussion_buckets: ["discussion"]
 canon_refs: []

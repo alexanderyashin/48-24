@@ -6,7 +6,7 @@ status: "draft"
 version: "0.1.0"
 owner: "alexanderyashin"
 reviewers: []
-updated: "2026-11-19"
+updated: "2026-11-20"
 language: "en"
 translation_of: "SPOT-GAPS-TECHNOLOGY"
 translation_path: "world/technology/drafts/spot-gaps-technology-v0-1.md"
@@ -17,10 +17,16 @@ source_statuses: ["БЕЛОЕ ПЯТНО"]
 discussion_buckets: ["gap"]
 canon_refs: []
 supersedes: []
-ai_assistance: "ChatGPT: structural decomposition and full translation; exact model version unrecorded; human review pending."
+ai_assistance: "ChatGPT: open-question audit and navigation update; historical source body retained; human review pending."
 ---
 
 # Open gaps: Technology, energy, and communications
+
+<!-- unified-question-register -->
+
+**Current question tracking:** [unified register](../../../studio/navigation/en/open-questions/README.md). Original formulations remain below. Follow these links for current states, exact answer documents and closure criteria: [GAP015](../../../studio/navigation/en/open-questions/technology.md#gap015) · [GAP016](../../../studio/navigation/en/open-questions/world-rules.md#gap016) · [GAP017](../../../studio/navigation/en/open-questions/technology.md#gap017) · [GAP018](../../../studio/navigation/en/open-questions/technology.md#gap018) · [GAP019](../../../studio/navigation/en/open-questions/technology.md#gap019) · [GAP020](../../../studio/navigation/en/open-questions/technology.md#gap020) · [GAP021](../../../studio/navigation/en/open-questions/technology.md#gap021) · [GAP022](../../../studio/navigation/en/open-questions/technology.md#gap022) · [GAP023](../../../studio/navigation/en/open-questions/technology.md#gap023) · [GAP058](../../../studio/navigation/en/open-questions/world-rules.md#gap058) · [GAP059](../../../studio/navigation/en/open-questions/world-rules.md#gap059).
+
+<!-- /unified-question-register -->
 
 [Русский](spot-gaps-technology-v0-1.md) · [Wiki](../../../studio/navigation/en/README.md)
 

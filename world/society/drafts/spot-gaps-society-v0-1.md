@@ -6,7 +6,7 @@ status: "draft"
 version: "0.1.0"
 owner: "alexanderyashin"
 reviewers: []
-updated: "2026-11-19"
+updated: "2026-11-20"
 language: "ru"
 translation_of: "SPOT-GAPS-SOCIETY-EN"
 translation_path: "world/society/drafts/spot-gaps-society-v0-1.en.md"
@@ -17,10 +17,16 @@ source_statuses: ["БЕЛОЕ ПЯТНО"]
 discussion_buckets: ["gap"]
 canon_refs: []
 supersedes: []
-ai_assistance: "ChatGPT: structural decomposition and full translation; exact model version unrecorded; human review pending."
+ai_assistance: "ChatGPT: open-question audit and navigation update; historical source body retained; human review pending."
 ---
 
 # Белые пятна: Общество культура и повседневность
+
+<!-- unified-question-register -->
+
+**Текущий учёт вопросов:** [единый реестр](../../../studio/navigation/ru/open-questions/README.md). Ниже сохранены исходные формулировки. Актуальные статусы, конкретные документы для ответа и критерии закрытия — по ссылкам: [GAP042](../../../studio/navigation/ru/open-questions/society.md#gap042) · [GAP043](../../../studio/navigation/ru/open-questions/society.md#gap043) · [GAP044](../../../studio/navigation/ru/open-questions/society.md#gap044) · [GAP045](../../../studio/navigation/ru/open-questions/society.md#gap045) · [GAP046](../../../studio/navigation/ru/open-questions/art.md#gap046) · [GAP047](../../../studio/navigation/ru/open-questions/narrative.md#gap047).
+
+<!-- /unified-question-register -->
 
 [English](spot-gaps-society-v0-1.en.md) · [Вики](../../../studio/navigation/ru/README.md)
 

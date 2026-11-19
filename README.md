@@ -56,3 +56,15 @@ Worldbuilding and development of an original grimdark universe inspired by Imper
 Предметные нормативы SPOT находятся в своих разделах, все в статусе Draft. Вики связывают полные русские и английские версии, исходный консенсус, обсуждения, белые пятна и каталог каждого файла. / SPOT specifications remain in their subject areas, all as Draft. The wikis connect full Russian and English editions, source consensus, discussions, open gaps, and the catalogue of every file.
 
 [Правило обязательной каталогизации](studio/navigation/proposals/cataloguing-standard-v0-1.md) · [Mandatory cataloguing rule](studio/navigation/proposals/cataloguing-standard-v0-1.en.md) · [Полный каталог / Full catalogue](studio/navigation/file-catalog.csv)
+
+<!-- unified-question-entrypoint:start -->
+
+## Единый реестр вопросов / Unified question register
+
+[Все вопросы — RU](studio/navigation/ru/open-questions/README.md) · [All questions — EN](studio/navigation/en/open-questions/README.md) · [Первичные записи / Master records](studio/registers/open-questions.csv) · [Адреса правки / Editing destinations](studio/registers/open-question-targets.csv)
+
+Текущие статусы всех предметных, производственных и организационных вопросов ведутся в одном реестре. Вики показывают полные языковые представления, точные документы для ответа и обратный указатель по файлам. / Current states of all subject, production and organisational questions live in one register. The wikis provide full language views, exact answer documents and a reverse file index.
+
+[Норматив ведения — Draft](studio/registers/proposals/open-question-register-v0-1.md) · [Maintenance rules — Draft](studio/registers/proposals/open-question-register-v0-1.en.md)
+
+<!-- unified-question-entrypoint:end -->

@@ -5,7 +5,7 @@
 | [content-index.csv](content-index.csv) | Рабочие документы из SPOT; ссылка на неизменяемый источник и статус каждой карточки |
 | [source-register.csv](source-register.csv) | Источники и пределы их применения |
 | [decisions.csv](decisions.csv) | Все исходные CAN с исходным авторским статусом; это не журнал новых approval |
-| [open-questions.csv](open-questions.csv) | Открытые GAP и развилки DIV, без выдуманного закрытия |
+| [open-questions.csv](open-questions.csv) | Единый текущий учёт GAP, DIV, PM-Q и новых OQ; точные адреса ответа — в open-question-targets.csv |
 | [asset-register.csv](asset-register.csv) | ID ресурсов, пути, внешние мастера, права, хеши и происхождение |
 | [contribution-register.csv](contribution-register.csv) | Пообъектный учёт творческих вкладов, типов участия и происхождения без вывода имущественных долей |
 | [work-register.csv](work-register.csv) | Текущие задачи без Issue; Issue/PR остаётся основным журналом для задач на GitHub |
@@ -24,3 +24,15 @@
 - [По каждому файлу / Every file](../navigation/file-catalog.csv): полный состав репозитория, включая служебные материалы / complete repository inventory, including infrastructure.
 
 Добавление ссылок не изменяет статуса согласования или открытости вопроса. / Adding links does not change agreement status or close a question.
+
+<!-- unified-question-entrypoint:start -->
+
+## Единый реестр вопросов / Unified question register
+
+[Все вопросы — RU](../navigation/ru/open-questions/README.md) · [All questions — EN](../navigation/en/open-questions/README.md) · [Первичные записи / Master records](open-questions.csv) · [Адреса правки / Editing destinations](open-question-targets.csv)
+
+Текущие статусы всех предметных, производственных и организационных вопросов ведутся в одном реестре. Вики показывают полные языковые представления, точные документы для ответа и обратный указатель по файлам. / Current states of all subject, production and organisational questions live in one register. The wikis provide full language views, exact answer documents and a reverse file index.
+
+[Норматив ведения — Draft](proposals/open-question-register-v0-1.md) · [Maintenance rules — Draft](proposals/open-question-register-v0-1.en.md)
+
+<!-- unified-question-entrypoint:end -->

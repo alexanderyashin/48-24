@@ -6,12 +6,12 @@ status: "draft"
 version: "0.1.0"
 owner: "alexanderyashin"
 reviewers: []
-updated: "2026-11-19"
+updated: "2026-11-20"
 language: "ru"
 translation_of: "WIKI-CATALOG-STUDIO-EN"
 translation_path: "studio/navigation/en/catalog/studio.md"
 translation_status: "draft-unreviewed"
-source: "TASK-SPOT-WIKI-001"
+source: "TASK-OPEN-QUESTIONS-001"
 source_statuses: ["ПОРУЧЕНИЕ САШИ; РЕДАКЦИОННАЯ РЕАЛИЗАЦИЯ"]
 discussion_buckets: ["discussion"]
 canon_refs: []
@@ -54,6 +54,8 @@ authority: "navigation-only"
 | `FILE-00680` | [studio/governance/proposals/spot-reading-and-statuses-v0-1.md](../../../governance/proposals/spot-reading-and-statuses-v0-1.md) | draft | ru · draft-unreviewed |
 | `FILE-00337` | [studio/inbox/README.md](../../../inbox/README.md) | reference | ru-en · legacy-bilingual-unreviewed |
 | `FILE-00338` | [studio/migrations/README.md](../../../migrations/README.md) | reference | ru · legacy-pending |
+| `FILE-00763` | [studio/migrations/open-question-register-v0-1.en.md](../../../migrations/open-question-register-v0-1.en.md) | draft | en · draft-unreviewed |
+| `FILE-00764` | [studio/migrations/open-question-register-v0-1.md](../../../migrations/open-question-register-v0-1.md) | draft | ru · draft-unreviewed |
 | `FILE-00681` | [studio/migrations/spot-docs-and-wiki-v0-1.en.md](../../../migrations/spot-docs-and-wiki-v0-1.en.md) | draft | en · draft-unreviewed |
 | `FILE-00682` | [studio/migrations/spot-docs-and-wiki-v0-1.md](../../../migrations/spot-docs-and-wiki-v0-1.md) | draft | ru · draft-unreviewed |
 | `FILE-00339` | [studio/navigation/README.md](../../README.md) | draft | ru-en · legacy-bilingual-unreviewed |
@@ -78,6 +80,25 @@ authority: "navigation-only"
 | `FILE-00361` | [studio/navigation/en/discussions.md](../../en/discussions.md) | draft | en · draft-unreviewed |
 | `FILE-00362` | [studio/navigation/en/gaps.md](../../en/gaps.md) | draft | en · draft-unreviewed |
 | `FILE-00363` | [studio/navigation/en/narrative.md](../../en/narrative.md) | draft | en · draft-unreviewed |
+| `FILE-00765` | [studio/navigation/en/open-questions/README.md](../../en/open-questions/README.md) | draft | en · draft-unreviewed |
+| `FILE-00766` | [studio/navigation/en/open-questions/art.md](../../en/open-questions/art.md) | draft | en · draft-unreviewed |
+| `FILE-00767` | [studio/navigation/en/open-questions/audio.md](../../en/open-questions/audio.md) | draft | en · draft-unreviewed |
+| `FILE-00768` | [studio/navigation/en/open-questions/by-document.md](../../en/open-questions/by-document.md) | draft | en · draft-unreviewed |
+| `FILE-00769` | [studio/navigation/en/open-questions/chronology.md](../../en/open-questions/chronology.md) | draft | en · draft-unreviewed |
+| `FILE-00770` | [studio/navigation/en/open-questions/economy.md](../../en/open-questions/economy.md) | draft | en · draft-unreviewed |
+| `FILE-00771` | [studio/navigation/en/open-questions/geography.md](../../en/open-questions/geography.md) | draft | en · draft-unreviewed |
+| `FILE-00772` | [studio/navigation/en/open-questions/geopolitics.md](../../en/open-questions/geopolitics.md) | draft | en · draft-unreviewed |
+| `FILE-00773` | [studio/navigation/en/open-questions/institutions.md](../../en/open-questions/institutions.md) | draft | en · draft-unreviewed |
+| `FILE-00774` | [studio/navigation/en/open-questions/legal.md](../../en/open-questions/legal.md) | draft | en · draft-unreviewed |
+| `FILE-00775` | [studio/navigation/en/open-questions/narrative.md](../../en/open-questions/narrative.md) | draft | en · draft-unreviewed |
+| `FILE-00776` | [studio/navigation/en/open-questions/production.md](../../en/open-questions/production.md) | draft | en · draft-unreviewed |
+| `FILE-00777` | [studio/navigation/en/open-questions/products.md](../../en/open-questions/products.md) | draft | en · draft-unreviewed |
+| `FILE-00778` | [studio/navigation/en/open-questions/research.md](../../en/open-questions/research.md) | draft | en · draft-unreviewed |
+| `FILE-00779` | [studio/navigation/en/open-questions/society.md](../../en/open-questions/society.md) | draft | en · draft-unreviewed |
+| `FILE-00780` | [studio/navigation/en/open-questions/studio.md](../../en/open-questions/studio.md) | draft | en · draft-unreviewed |
+| `FILE-00781` | [studio/navigation/en/open-questions/technology.md](../../en/open-questions/technology.md) | draft | en · draft-unreviewed |
+| `FILE-00782` | [studio/navigation/en/open-questions/translation.md](../../en/open-questions/translation.md) | draft | en · draft-unreviewed |
+| `FILE-00783` | [studio/navigation/en/open-questions/world-rules.md](../../en/open-questions/world-rules.md) | draft | en · draft-unreviewed |
 | `FILE-00364` | [studio/navigation/en/production.md](../../en/production.md) | draft | en · draft-unreviewed |
 | `FILE-00365` | [studio/navigation/en/reading-guide.md](../../en/reading-guide.md) | draft | en · draft-unreviewed |
 | `FILE-00366` | [studio/navigation/en/source-contents.md](../../en/source-contents.md) | draft | en · draft-unreviewed |
@@ -110,6 +131,25 @@ authority: "navigation-only"
 | `FILE-00390` | [studio/navigation/ru/discussions.md](../discussions.md) | draft | ru · draft-unreviewed |
 | `FILE-00391` | [studio/navigation/ru/gaps.md](../gaps.md) | draft | ru · draft-unreviewed |
 | `FILE-00392` | [studio/navigation/ru/narrative.md](../narrative.md) | draft | ru · draft-unreviewed |
+| `FILE-00784` | [studio/navigation/ru/open-questions/README.md](../open-questions/README.md) | draft | ru · draft-unreviewed |
+| `FILE-00785` | [studio/navigation/ru/open-questions/art.md](../open-questions/art.md) | draft | ru · draft-unreviewed |
+| `FILE-00786` | [studio/navigation/ru/open-questions/audio.md](../open-questions/audio.md) | draft | ru · draft-unreviewed |
+| `FILE-00787` | [studio/navigation/ru/open-questions/by-document.md](../open-questions/by-document.md) | draft | ru · draft-unreviewed |
+| `FILE-00788` | [studio/navigation/ru/open-questions/chronology.md](../open-questions/chronology.md) | draft | ru · draft-unreviewed |
+| `FILE-00789` | [studio/navigation/ru/open-questions/economy.md](../open-questions/economy.md) | draft | ru · draft-unreviewed |
+| `FILE-00790` | [studio/navigation/ru/open-questions/geography.md](../open-questions/geography.md) | draft | ru · draft-unreviewed |
+| `FILE-00791` | [studio/navigation/ru/open-questions/geopolitics.md](../open-questions/geopolitics.md) | draft | ru · draft-unreviewed |
+| `FILE-00792` | [studio/navigation/ru/open-questions/institutions.md](../open-questions/institutions.md) | draft | ru · draft-unreviewed |
+| `FILE-00793` | [studio/navigation/ru/open-questions/legal.md](../open-questions/legal.md) | draft | ru · draft-unreviewed |
+| `FILE-00794` | [studio/navigation/ru/open-questions/narrative.md](../open-questions/narrative.md) | draft | ru · draft-unreviewed |
+| `FILE-00795` | [studio/navigation/ru/open-questions/production.md](../open-questions/production.md) | draft | ru · draft-unreviewed |
+| `FILE-00796` | [studio/navigation/ru/open-questions/products.md](../open-questions/products.md) | draft | ru · draft-unreviewed |
+| `FILE-00797` | [studio/navigation/ru/open-questions/research.md](../open-questions/research.md) | draft | ru · draft-unreviewed |
+| `FILE-00798` | [studio/navigation/ru/open-questions/society.md](../open-questions/society.md) | draft | ru · draft-unreviewed |
+| `FILE-00799` | [studio/navigation/ru/open-questions/studio.md](../open-questions/studio.md) | draft | ru · draft-unreviewed |
+| `FILE-00800` | [studio/navigation/ru/open-questions/technology.md](../open-questions/technology.md) | draft | ru · draft-unreviewed |
+| `FILE-00801` | [studio/navigation/ru/open-questions/translation.md](../open-questions/translation.md) | draft | ru · draft-unreviewed |
+| `FILE-00802` | [studio/navigation/ru/open-questions/world-rules.md](../open-questions/world-rules.md) | draft | ru · draft-unreviewed |
 | `FILE-00393` | [studio/navigation/ru/production.md](../production.md) | draft | ru · draft-unreviewed |
 | `FILE-00394` | [studio/navigation/ru/reading-guide.md](../reading-guide.md) | draft | ru · draft-unreviewed |
 | `FILE-00395` | [studio/navigation/ru/source-contents.md](../source-contents.md) | draft | ru · draft-unreviewed |
@@ -170,8 +210,11 @@ authority: "navigation-only"
 | `FILE-00730` | [studio/registers/discussions/div022-v0-1.md](../../../registers/discussions/div022-v0-1.md) | draft | ru · draft-unreviewed |
 | `FILE-00731` | [studio/registers/discussions/overview-v0-1.en.md](../../../registers/discussions/overview-v0-1.en.md) | draft | en · draft-unreviewed |
 | `FILE-00732` | [studio/registers/discussions/overview-v0-1.md](../../../registers/discussions/overview-v0-1.md) | draft | ru · draft-unreviewed |
-| `FILE-00465` | [studio/registers/open-questions.csv](../../../registers/open-questions.csv) | reference | ru · legacy-pending |
+| `FILE-00803` | [studio/registers/open-question-targets.csv](../../../registers/open-question-targets.csv) | draft | machine · shared-data-bilingual-views |
+| `FILE-00465` | [studio/registers/open-questions.csv](../../../registers/open-questions.csv) | draft | machine · shared-data-bilingual-views |
 | `FILE-00733` | [studio/registers/proposals/README.md](../../../registers/proposals/README.md) | reference | ru-en · legacy-bilingual-unreviewed |
+| `FILE-00804` | [studio/registers/proposals/open-question-register-v0-1.en.md](../../../registers/proposals/open-question-register-v0-1.en.md) | draft | en · draft-unreviewed |
+| `FILE-00805` | [studio/registers/proposals/open-question-register-v0-1.md](../../../registers/proposals/open-question-register-v0-1.md) | draft | ru · draft-unreviewed |
 | `FILE-00466` | [studio/registers/release-register.csv](../../../registers/release-register.csv) | reference | machine · shared-data |
 | `FILE-00734` | [studio/registers/source-positions/README.md](../../../registers/source-positions/README.md) | reference | ru-en · legacy-bilingual-unreviewed |
 | `FILE-00735` | [studio/registers/source-positions/consensus-v0-1.en.md](../../../registers/source-positions/consensus-v0-1.en.md) | draft | en · draft-unreviewed |

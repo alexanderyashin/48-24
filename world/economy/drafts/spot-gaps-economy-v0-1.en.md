@@ -6,7 +6,7 @@ status: "draft"
 version: "0.1.0"
 owner: "alexanderyashin"
 reviewers: []
-updated: "2026-11-19"
+updated: "2026-11-20"
 language: "en"
 translation_of: "SPOT-GAPS-ECONOMY"
 translation_path: "world/economy/drafts/spot-gaps-economy-v0-1.md"
@@ -17,10 +17,16 @@ source_statuses: ["БЕЛОЕ ПЯТНО"]
 discussion_buckets: ["gap"]
 canon_refs: []
 supersedes: []
-ai_assistance: "ChatGPT: structural decomposition and full translation; exact model version unrecorded; human review pending."
+ai_assistance: "ChatGPT: open-question audit and navigation update; historical source body retained; human review pending."
 ---
 
 # Open gaps: The economy, labor, and ownership
+
+<!-- unified-question-register -->
+
+**Current question tracking:** [unified register](../../../studio/navigation/en/open-questions/README.md). Original formulations remain below. Follow these links for current states, exact answer documents and closure criteria: [GAP024](../../../studio/navigation/en/open-questions/economy.md#gap024) · [GAP025](../../../studio/navigation/en/open-questions/economy.md#gap025) · [GAP026](../../../studio/navigation/en/open-questions/economy.md#gap026) · [GAP027](../../../studio/navigation/en/open-questions/economy.md#gap027) · [GAP028](../../../studio/navigation/en/open-questions/economy.md#gap028) · [GAP029](../../../studio/navigation/en/open-questions/economy.md#gap029) · [GAP030](../../../studio/navigation/en/open-questions/economy.md#gap030) · [GAP031](../../../studio/navigation/en/open-questions/economy.md#gap031) · [GAP032](../../../studio/navigation/en/open-questions/economy.md#gap032) · [GAP033](../../../studio/navigation/en/open-questions/economy.md#gap033).
+
+<!-- /unified-question-register -->
 
 [Русский](spot-gaps-economy-v0-1.md) · [Wiki](../../../studio/navigation/en/README.md)
 

@@ -6,7 +6,7 @@ status: "draft"
 version: "0.1.0"
 owner: "alexanderyashin"
 reviewers: []
-updated: "2026-11-19"
+updated: "2026-11-20"
 language: "en"
 translation_of: "WIKI-DISCUSSIONS-RU"
 translation_path: "studio/navigation/ru/discussions.md"
@@ -16,11 +16,17 @@ source_statuses: ["ПОРУЧЕНИЕ САШИ; РЕДАКЦИОННАЯ РЕА�
 discussion_buckets: ["discussion"]
 canon_refs: []
 supersedes: []
-ai_assistance: "ChatGPT: decomposition, translation and navigation; model version not recorded; human review pending."
+ai_assistance: "ChatGPT: open-question audit and navigation update; historical source body retained; human review pending."
 authority: "navigation-only"
 ---
 
 # Discussions and divergences
+
+<!-- unified-question-register -->
+
+**Unified register of outstanding matters:** [all topics and states](open-questions/README.md) · [questions by document](open-questions/by-document.md). It combines GAP, DIV, PM-Q and audit findings; every item identifies where to write its answer. Source lists on this page preserve provenance; current states live in the register.
+
+<!-- /unified-question-register -->
 
 **Draft** · [Wiki home](README.md) · [Русский](../ru/discussions.md) · [Every file](catalog/README.md)
 

@@ -6,7 +6,7 @@ status: "draft"
 version: "0.1.0"
 owner: "alexanderyashin"
 reviewers: []
-updated: "2026-11-19"
+updated: "2026-11-20"
 language: "ru"
 translation_of: "SPOT-GAPS-NARRATIVE-EN"
 translation_path: "narrative/premise/drafts/spot-gaps-narrative-v0-1.en.md"
@@ -17,10 +17,16 @@ source_statuses: ["БЕЛОЕ ПЯТНО"]
 discussion_buckets: ["gap"]
 canon_refs: []
 supersedes: []
-ai_assistance: "ChatGPT: structural decomposition and full translation; exact model version unrecorded; human review pending."
+ai_assistance: "ChatGPT: open-question audit and navigation update; historical source body retained; human review pending."
 ---
 
 # Белые пятна: Персонажи повествование и первый выпуск
+
+<!-- unified-question-register -->
+
+**Текущий учёт вопросов:** [единый реестр](../../../studio/navigation/ru/open-questions/README.md). Ниже сохранены исходные формулировки. Актуальные статусы, конкретные документы для ответа и критерии закрытия — по ссылкам: [GAP048](../../../studio/navigation/ru/open-questions/narrative.md#gap048) · [GAP049](../../../studio/navigation/ru/open-questions/narrative.md#gap049) · [GAP050](../../../studio/navigation/ru/open-questions/narrative.md#gap050) · [GAP051](../../../studio/navigation/ru/open-questions/narrative.md#gap051) · [GAP052](../../../studio/navigation/ru/open-questions/narrative.md#gap052) · [GAP053](../../../studio/navigation/ru/open-questions/narrative.md#gap053) · [GAP054](../../../studio/navigation/ru/open-questions/narrative.md#gap054) · [GAP055](../../../studio/navigation/ru/open-questions/narrative.md#gap055) · [GAP056](../../../studio/navigation/ru/open-questions/production.md#gap056).
+
+<!-- /unified-question-register -->
 
 [English](spot-gaps-narrative-v0-1.en.md) · [Вики](../../../studio/navigation/ru/README.md)
 

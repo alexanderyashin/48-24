@@ -6,7 +6,7 @@ status: "draft"
 version: "0.1.0"
 owner: "alexanderyashin"
 reviewers: []
-updated: "2026-11-19"
+updated: "2026-11-20"
 language: "en"
 translation_of: "SPOT-GAPS-CHRONOLOGY"
 translation_path: "world/chronology/drafts/spot-gaps-chronology-v0-1.md"
@@ -17,10 +17,16 @@ source_statuses: ["БЕЛОЕ ПЯТНО"]
 discussion_buckets: ["gap"]
 canon_refs: []
 supersedes: []
-ai_assistance: "ChatGPT: structural decomposition and full translation; exact model version unrecorded; human review pending."
+ai_assistance: "ChatGPT: open-question audit and navigation update; historical source body retained; human review pending."
 ---
 
 # Open gaps: Chronology and generations
+
+<!-- unified-question-register -->
+
+**Current question tracking:** [unified register](../../../studio/navigation/en/open-questions/README.md). Original formulations remain below. Follow these links for current states, exact answer documents and closure criteria: [GAP001](../../../studio/navigation/en/open-questions/chronology.md#gap001) · [GAP002](../../../studio/navigation/en/open-questions/chronology.md#gap002) · [GAP003](../../../studio/navigation/en/open-questions/chronology.md#gap003) · [GAP004](../../../studio/navigation/en/open-questions/chronology.md#gap004) · [GAP005](../../../studio/navigation/en/open-questions/chronology.md#gap005) · [GAP006](../../../studio/navigation/en/open-questions/chronology.md#gap006) · [GAP007](../../../studio/navigation/en/open-questions/chronology.md#gap007) · [GAP060](../../../studio/navigation/en/open-questions/geopolitics.md#gap060).
+
+<!-- /unified-question-register -->
 
 [Русский](spot-gaps-chronology-v0-1.md) · [Wiki](../../../studio/navigation/en/README.md)
 

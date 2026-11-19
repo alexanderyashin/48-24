@@ -6,7 +6,7 @@ status: "draft"
 version: "0.1.0"
 owner: "alexanderyashin"
 reviewers: []
-updated: "2026-11-19"
+updated: "2026-11-20"
 language: "ru"
 translation_of: "WIKI-GAPS-EN"
 translation_path: "studio/navigation/en/gaps.md"
@@ -16,15 +16,21 @@ source_statuses: ["ПОРУЧЕНИЕ САШИ; РЕДАКЦИОННАЯ РЕА�
 discussion_buckets: ["discussion"]
 canon_refs: []
 supersedes: []
-ai_assistance: "ChatGPT: decomposition, translation and navigation; model version not recorded; human review pending."
+ai_assistance: "ChatGPT: open-question audit and navigation update; historical source body retained; human review pending."
 authority: "navigation-only"
 ---
 
 # Белые пятна
 
+<!-- unified-question-register -->
+
+**Единый реестр незавершённого:** [все темы и статусы](open-questions/README.md) · [вопросы по документам](open-questions/by-document.md). Он объединяет GAP, DIV, PM-Q и результаты аудита; у каждого пункта указано, куда внести ответ. Исходные списки этой страницы сохраняют происхождение, текущие состояния ведутся в реестре.
+
+<!-- /unified-question-register -->
+
 **Draft** · [Главная вики](README.md) · [English](../en/gaps.md) · [Все файлы](catalog/README.md)
 
-Все 60 GAP остаются открытыми. Документы описывают вопрос и ожидаемый результат прояснения, а не выдуманный ответ. Предметные таблицы ниже позволяют вести независимые исследования без потери общей картины.
+Все 60 исходных GAP сохранены; текущий статус и условие активации каждого указаны в едином реестре. Документы описывают вопрос и ожидаемый результат прояснения, а не выдуманный ответ. Предметные таблицы ниже позволяют вести независимые исследования без потери общей картины.
 
 | Предметный реестр | ID | Вопросов |
 | --- | --- | --- |

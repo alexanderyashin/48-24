@@ -6,7 +6,7 @@ status: "draft"
 version: "0.1.0"
 owner: "alexanderyashin"
 reviewers: []
-updated: "2026-11-19"
+updated: "2026-11-20"
 language: "en"
 translation_of: "SPOT-GAPS-SOCIETY"
 translation_path: "world/society/drafts/spot-gaps-society-v0-1.md"
@@ -17,10 +17,16 @@ source_statuses: ["БЕЛОЕ ПЯТНО"]
 discussion_buckets: ["gap"]
 canon_refs: []
 supersedes: []
-ai_assistance: "ChatGPT: structural decomposition and full translation; exact model version unrecorded; human review pending."
+ai_assistance: "ChatGPT: open-question audit and navigation update; historical source body retained; human review pending."
 ---
 
 # Open gaps: Society, culture, and everyday life
+
+<!-- unified-question-register -->
+
+**Current question tracking:** [unified register](../../../studio/navigation/en/open-questions/README.md). Original formulations remain below. Follow these links for current states, exact answer documents and closure criteria: [GAP042](../../../studio/navigation/en/open-questions/society.md#gap042) · [GAP043](../../../studio/navigation/en/open-questions/society.md#gap043) · [GAP044](../../../studio/navigation/en/open-questions/society.md#gap044) · [GAP045](../../../studio/navigation/en/open-questions/society.md#gap045) · [GAP046](../../../studio/navigation/en/open-questions/art.md#gap046) · [GAP047](../../../studio/navigation/en/open-questions/narrative.md#gap047).
+
+<!-- /unified-question-register -->
 
 [Русский](spot-gaps-society-v0-1.md) · [Wiki](../../../studio/navigation/en/README.md)
 

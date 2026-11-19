@@ -6,12 +6,12 @@ status: "draft"
 version: "0.1.0"
 owner: "alexanderyashin"
 reviewers: []
-updated: "2026-11-19"
+updated: "2026-11-20"
 language: "ru"
 translation_of: "WIKI-CATALOG-README-EN"
 translation_path: "studio/navigation/en/catalog/README.md"
 translation_status: "draft-unreviewed"
-source: "TASK-SPOT-WIKI-001"
+source: "TASK-OPEN-QUESTIONS-001"
 source_statuses: ["ПОРУЧЕНИЕ САШИ; РЕДАКЦИОННАЯ РЕАЛИЗАЦИЯ"]
 discussion_buckets: ["discussion"]
 canon_refs: []
@@ -24,7 +24,7 @@ authority: "navigation-only"
 
 **Draft** · [Главная вики](../README.md) · [English](../../en/catalog/README.md) · [Все файлы](README.md)
 
-Каталог содержит **678 файлов** текущей рабочей версии. Учтены все файлы Git и новые файлы этой задачи, включая каталог и обе вики. Контроль соответствия выполнен для этого снимка; постоянный автоматический запрет пропусков не добавлен.
+Каталог содержит **721 файлов** текущей рабочей версии. Учтены все файлы Git и новые файлы этой задачи, включая каталог и обе вики. Контроль соответствия выполнен для этого снимка; постоянный автоматический запрет пропусков не добавлен.
 
 | Раздел | Файлов |
 | --- | --- |
@@ -34,7 +34,7 @@ authority: "navigation-only"
 | [Звук](audio.md) | 15 |
 | [Адаптации](products.md) | 29 |
 | [Производство](production.md) | 23 |
-| [Организация работы](studio.md) | 168 |
+| [Организация работы](studio.md) | 211 |
 | [Шаблоны](templates.md) | 46 |
 | [Источники и исследования](research.md) | 17 |
 | [Права](legal.md) | 7 |

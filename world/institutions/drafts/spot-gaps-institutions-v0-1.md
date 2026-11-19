@@ -6,7 +6,7 @@ status: "draft"
 version: "0.1.0"
 owner: "alexanderyashin"
 reviewers: []
-updated: "2026-11-19"
+updated: "2026-11-20"
 language: "ru"
 translation_of: "SPOT-GAPS-INSTITUTIONS-EN"
 translation_path: "world/institutions/drafts/spot-gaps-institutions-v0-1.en.md"
@@ -17,10 +17,16 @@ source_statuses: ["БЕЛОЕ ПЯТНО"]
 discussion_buckets: ["gap"]
 canon_refs: []
 supersedes: []
-ai_assistance: "ChatGPT: structural decomposition and full translation; exact model version unrecorded; human review pending."
+ai_assistance: "ChatGPT: open-question audit and navigation update; historical source body retained; human review pending."
 ---
 
 # Белые пятна: Государство право и институты
+
+<!-- unified-question-register -->
+
+**Текущий учёт вопросов:** [единый реестр](../../../studio/navigation/ru/open-questions/README.md). Ниже сохранены исходные формулировки. Актуальные статусы, конкретные документы для ответа и критерии закрытия — по ссылкам: [GAP008](../../../studio/navigation/ru/open-questions/institutions.md#gap008) · [GAP009](../../../studio/navigation/ru/open-questions/institutions.md#gap009) · [GAP010](../../../studio/navigation/ru/open-questions/institutions.md#gap010) · [GAP011](../../../studio/navigation/ru/open-questions/institutions.md#gap011) · [GAP012](../../../studio/navigation/ru/open-questions/institutions.md#gap012) · [GAP013](../../../studio/navigation/ru/open-questions/institutions.md#gap013) · [GAP014](../../../studio/navigation/ru/open-questions/institutions.md#gap014) · [GAP057](../../../studio/navigation/ru/open-questions/institutions.md#gap057).
+
+<!-- /unified-question-register -->
 
 [English](spot-gaps-institutions-v0-1.en.md) · [Вики](../../../studio/navigation/ru/README.md)
 

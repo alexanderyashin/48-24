@@ -6,7 +6,7 @@ status: "draft"
 version: "0.1.0"
 owner: "alexanderyashin"
 reviewers: []
-updated: "2026-11-19"
+updated: "2026-11-20"
 language: "ru"
 translation_of: "WIKI-READING-GUIDE-EN"
 translation_path: "studio/navigation/en/reading-guide.md"
@@ -16,11 +16,17 @@ source_statuses: ["ПОРУЧЕНИЕ САШИ; РЕДАКЦИОННАЯ РЕА�
 discussion_buckets: ["discussion"]
 canon_refs: []
 supersedes: []
-ai_assistance: "ChatGPT: decomposition, translation and navigation; model version not recorded; human review pending."
+ai_assistance: "ChatGPT: open-question audit and navigation update; historical source body retained; human review pending."
 authority: "navigation-only"
 ---
 
 # Как пользоваться вики
+
+<!-- unified-question-register -->
+
+**Единый реестр незавершённого:** [все темы и статусы](open-questions/README.md) · [вопросы по документам](open-questions/by-document.md). Он объединяет GAP, DIV, PM-Q и результаты аудита; у каждого пункта указано, куда внести ответ. Исходные списки этой страницы сохраняют происхождение, текущие состояния ведутся в реестре.
+
+<!-- /unified-question-register -->
 
 **Draft** · [Главная вики](README.md) · [English](../en/reading-guide.md) · [Все файлы](catalog/README.md)
 

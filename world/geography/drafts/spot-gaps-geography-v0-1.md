@@ -6,7 +6,7 @@ status: "draft"
 version: "0.1.0"
 owner: "alexanderyashin"
 reviewers: []
-updated: "2026-11-19"
+updated: "2026-11-20"
 language: "ru"
 translation_of: "SPOT-GAPS-GEOGRAPHY-EN"
 translation_path: "world/geography/drafts/spot-gaps-geography-v0-1.en.md"
@@ -17,10 +17,16 @@ source_statuses: ["БЕЛОЕ ПЯТНО"]
 discussion_buckets: ["gap"]
 canon_refs: []
 supersedes: []
-ai_assistance: "ChatGPT: structural decomposition and full translation; exact model version unrecorded; human review pending."
+ai_assistance: "ChatGPT: open-question audit and navigation update; historical source body retained; human review pending."
 ---
 
 # Белые пятна: Территории и пути сообщения
+
+<!-- unified-question-register -->
+
+**Текущий учёт вопросов:** [единый реестр](../../../studio/navigation/ru/open-questions/README.md). Ниже сохранены исходные формулировки. Актуальные статусы, конкретные документы для ответа и критерии закрытия — по ссылкам: [GAP034](../../../studio/navigation/ru/open-questions/geopolitics.md#gap034) · [GAP035](../../../studio/navigation/ru/open-questions/geography.md#gap035) · [GAP036](../../../studio/navigation/ru/open-questions/geography.md#gap036) · [GAP037](../../../studio/navigation/ru/open-questions/geography.md#gap037) · [GAP038](../../../studio/navigation/ru/open-questions/geography.md#gap038) · [GAP039](../../../studio/navigation/ru/open-questions/geography.md#gap039) · [GAP040](../../../studio/navigation/ru/open-questions/geography.md#gap040) · [GAP041](../../../studio/navigation/ru/open-questions/geography.md#gap041).
+
+<!-- /unified-question-register -->
 
 [English](spot-gaps-geography-v0-1.en.md) · [Вики](../../../studio/navigation/ru/README.md)
 

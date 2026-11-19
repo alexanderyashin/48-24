@@ -6,7 +6,7 @@ status: "draft"
 version: "0.1.0"
 owner: "alexanderyashin"
 reviewers: []
-updated: "2026-11-19"
+updated: "2026-11-20"
 language: "en"
 translation_of: "SPOT-GAPS-GEOGRAPHY"
 translation_path: "world/geography/drafts/spot-gaps-geography-v0-1.md"
@@ -17,10 +17,16 @@ source_statuses: ["БЕЛОЕ ПЯТНО"]
 discussion_buckets: ["gap"]
 canon_refs: []
 supersedes: []
-ai_assistance: "ChatGPT: structural decomposition and full translation; exact model version unrecorded; human review pending."
+ai_assistance: "ChatGPT: open-question audit and navigation update; historical source body retained; human review pending."
 ---
 
 # Open gaps: Territories and transport routes
+
+<!-- unified-question-register -->
+
+**Current question tracking:** [unified register](../../../studio/navigation/en/open-questions/README.md). Original formulations remain below. Follow these links for current states, exact answer documents and closure criteria: [GAP034](../../../studio/navigation/en/open-questions/geopolitics.md#gap034) · [GAP035](../../../studio/navigation/en/open-questions/geography.md#gap035) · [GAP036](../../../studio/navigation/en/open-questions/geography.md#gap036) · [GAP037](../../../studio/navigation/en/open-questions/geography.md#gap037) · [GAP038](../../../studio/navigation/en/open-questions/geography.md#gap038) · [GAP039](../../../studio/navigation/en/open-questions/geography.md#gap039) · [GAP040](../../../studio/navigation/en/open-questions/geography.md#gap040) · [GAP041](../../../studio/navigation/en/open-questions/geography.md#gap041).
+
+<!-- /unified-question-register -->
 
 [Русский](spot-gaps-geography-v0-1.md) · [Wiki](../../../studio/navigation/en/README.md)
 
