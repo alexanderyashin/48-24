@@ -15,6 +15,8 @@
 | PM-W007 | Созданы каталоги технической реализации компьютерной игры | implemented | [video game drafts](../../../../products/video-game/drafts/README.md) |
 | PM-W008 | Создан единый журнал управления проектом | implemented | [index](README.md) |
 
+| PM-W009 | Выполнен closeout: подтверждена публикация в main, зафиксирована попытка валидации и блокировка сети | documented-with-blocker | [session closeout](sessions/2026-11-19.md) |
+
 **Не выполнено:** реальный импорт в движок, разработка адаптера, генерация 3D-объекта, испытание физики и запуск валидатора. / Not completed: actual engine import, adapter implementation, 3D generation, physics test or repository validation.
 
 ## English
