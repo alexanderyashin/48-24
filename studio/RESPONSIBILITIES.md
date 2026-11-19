@@ -6,18 +6,19 @@
 
 Соавторы проекта: Александр Яшин (`alexanderyashin`) и Иван Конюшков (`ivan-konyushkov`). Оба могут предлагать, развивать и редактировать материалы в любой предметной области. Исключительных творческих территорий нет. Ответственный за направление, исполнитель задачи, создатель идеи, редактор, утверждающий канон и правообладатель — разные роли.
 
-**Матрица направлений (назначения ещё не согласованы)**
+**Текущее распределение направлений (зафиксировано со слов Александра 2026-11-19; подтверждение Ивана отдельно не получено)**
 
 | Направление | Ответственный | Участники |
 | --- | --- | --- |
-| Мир, история, общество и технологии | не назначен | оба соавтора могут участвовать |
-| Сюжет, персонажи, сцены и диалоги | не назначен | оба соавтора могут участвовать |
-| Визуальный стиль, предметы и окружение | не назначен | оба соавтора могут участвовать |
+| Сеттинг, устройство и механика мира | Александр Яшин | оба соавтора могут участвовать |
+| Отдельные сюжеты и самостоятельные истории | Иван Конюшков | оба соавтора могут участвовать |
+| Материальная культура (предметы, одежда, оружие, быт) | Александр Яшин | оба соавтора могут участвовать |
+| Музыка | Иван Конюшков | оба соавтора могут участвовать |
 | Исследования и референсы | не назначен | оба соавтора могут участвовать |
 | Продукты и производство | не назначен | оба соавтора могут участвовать |
 | Организация репозитория и документация | не назначен | оба соавтора могут участвовать |
 
-Назначения не выводятся из количества коммитов, прав GitHub или инициативы одного участника. Согласованные назначения записываются здесь с датой и основанием.
+Эти направления отражают текущее рабочее распределение, сообщённое Александром 2026-11-19; оно не является свидетельством отдельного согласия Ивана и не ограничивает право любого соавтора вносить предложения в другие области. Остальные направления остаются нераспределёнными. Назначения не выводятся из количества коммитов или прав GitHub.
 
 ### Текущая работа
 
@@ -35,18 +36,19 @@ Git-коммит фиксирует техническое изменение, �
 
 The project coauthors are Alexander Yashin (`alexanderyashin`) and Ivan Konyushkov (`ivan-konyushkov`). Both may propose, develop, and edit material in any domain. No creative domain is exclusive. Domain steward, task owner, originator, editor, canon approver, and rights holder are distinct roles.
 
-**Domain responsibility matrix (assignments not yet agreed)**
+**Current domain allocation (reported by Alexander on 2026-11-19; Ivan's separate confirmation has not been obtained)**
 
 | Domain | Steward | Participants |
 | --- | --- | --- |
-| World, history, society, technology | unassigned | both coauthors may contribute |
-| Plot, characters, scenes, dialogue | unassigned | both coauthors may contribute |
-| Visual style, props, environments | unassigned | both coauthors may contribute |
+| Setting, world structure and mechanics | Alexander Yashin | both coauthors may contribute |
+| Individual plots and standalone stories | Ivan Konyushkov | both coauthors may contribute |
+| Material culture (objects, clothing, weapons, everyday life) | Alexander Yashin | both coauthors may contribute |
+| Music | Ivan Konyushkov | both coauthors may contribute |
 | Research and references | unassigned | both coauthors may contribute |
 | Products and production | unassigned | both coauthors may contribute |
 | Repository operations and documentation | unassigned | both coauthors may contribute |
 
-Do not infer appointments from commits, GitHub permissions, or unilateral initiative. Record agreed appointments here with date and supporting decision.
+This is the current working allocation as reported by Alexander on 2026-11-19; it does not establish Ivan's separate agreement or restrict either coauthor from contributing in other areas. Other domains remain unassigned. Do not infer assignments from commits or GitHub permissions.
 
 ### Current work
 
