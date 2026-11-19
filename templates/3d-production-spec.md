@@ -151,3 +151,7 @@ reference_ids: []
 - Machinery: power input, moving linkages, clearances, access for maintenance, operating states.
 
 **Rule / Правило:** L2 cannot be marked ready while any applicable geometry-critical field or required view is unknown. Engine-specific values may remain TBD only with a named integration blocker; that means engine integration is **not** ready. L3 requires actual delivered assets and test evidence, not a completed text form.
+
+## Физические свойства / Physical behavior
+
+Для объектов с физическим поведением обязательно связать [Physical Behavior Specification](physical-behavior-spec.md): масса, инерция, упругость, прочность, трение, разрушение, тепловые и оптические параметры. / Link the [physics form](physical-behavior-spec.md) for mass, inertia, elasticity, strength, friction, fracture, thermal and optical behavior.
