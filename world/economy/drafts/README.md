@@ -9,3 +9,11 @@
 Для изображений, шрифтов, аудио и других бинарных материалов храните исходник и производные рядом или связывайте их в паспорте ресурса. Доступность файла в интернете не доказывает право на его публикацию здесь.
 
 [Область](../README.md) · [Правила канона](../../../studio/CANON_POLICY.md) · [Шаблоны](../../../templates/README.md).
+
+## Тематические подразделы / Topic folders
+
+- [industry](./industry/README.md)
+- [resources-and-supply](./resources-and-supply/README.md)
+- [energy-economy](./energy-economy/README.md)
+- [agriculture-and-food](./agriculture-and-food/README.md)
+- [trade-and-finance](./trade-and-finance/README.md)
