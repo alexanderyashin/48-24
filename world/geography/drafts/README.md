@@ -9,3 +9,10 @@
 Для изображений, шрифтов, аудио и других бинарных материалов храните исходник и производные рядом или связывайте их в паспорте ресурса. Доступность файла в интернете не доказывает право на его публикацию здесь.
 
 [Область](../README.md) · [Правила канона](../../../studio/CANON_POLICY.md) · [Шаблоны](../../../templates/README.md).
+
+## Тематические подразделы / Topic folders
+
+- [transport-networks](./transport-networks/README.md)
+- [resource-geography](./resource-geography/README.md)
+- [regions-and-cities](./regions-and-cities/README.md)
+- [climate-and-ecology](./climate-and-ecology/README.md)
