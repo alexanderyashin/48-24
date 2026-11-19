@@ -9,3 +9,13 @@
 Для изображений, шрифтов, аудио и других бинарных материалов храните исходник и производные рядом или связывайте их в паспорте ресурса. Доступность файла в интернете не доказывает право на его публикацию здесь.
 
 [Область](../README.md) · [Правила канона](../../../studio/CANON_POLICY.md) · [Шаблоны](../../../templates/README.md).
+
+## Документы этой редакции / Documents in this revision
+
+Все перечисленные редакции — **Draft**; точные исходные статусы указаны при положениях. / All listed editions are **Draft**; precise source statuses remain attached to statements.
+
+| ID | Русский | English |
+| --- | --- | --- |
+| `ART-PALETTE-001` | [Палитра для первых проб](palette-experiments-v0-1.md) | [Palette for initial experiments](palette-experiments-v0-1.en.md) |
+
+[Вики RU](../../../studio/navigation/ru/README.md) · [Wiki EN](../../../studio/navigation/en/README.md)

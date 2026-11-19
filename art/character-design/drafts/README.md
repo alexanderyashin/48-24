@@ -13,3 +13,13 @@
 ## Специализированные черновики / Focused drafts
 
 - [Костюмы / Costumes](costumes/README.md) — униформа, гражданская одежда и аксессуары.
+
+## Документы этой редакции / Documents in this revision
+
+Все перечисленные редакции — **Draft**; точные исходные статусы указаны при положениях. / All listed editions are **Draft**; precise source statuses remain attached to statements.
+
+| ID | Русский | English |
+| --- | --- | --- |
+| `SPOT-VISUAL-S04` | [Тело правителя и пространство машины](ruler-body-and-machine-space-v0-1.md) | [The ruler’s body and the machine’s space](ruler-body-and-machine-space-v0-1.en.md) |
+
+[Вики RU](../../../studio/navigation/ru/README.md) · [Wiki EN](../../../studio/navigation/en/README.md)

@@ -11,3 +11,14 @@
 Regions, settlements, urban structures, and spatial differences.
 
 A draft area for ideas, models, sketches, and sources. Document entities and their links to economy, geography, technology, society, and institutions; identify the period (1911, 1941, or another) and the assumption status. Do not promote hypotheses to canon automatically. Use stable IDs and links to domain records. Follow asset rules for images.
+
+## Документы этой редакции / Documents in this revision
+
+Все перечисленные редакции — **Draft**; точные исходные статусы указаны при положениях. / All listed editions are **Draft**; precise source statuses remain attached to statements.
+
+| ID | Русский | English |
+| --- | --- | --- |
+| `WORLD-GEOGRAPHY-001-S02` | [Столица как связанный город](capital-network-v0-1.md) | [The capital as an interconnected city](capital-network-v0-1.en.md) |
+| `WORLD-GEOGRAPHY-001-S03` | [Пустоши и горнозаводской Урал](wastelands-and-urals-v0-1.md) | [The Wastelands and the mining and metallurgical Urals](wastelands-and-urals-v0-1.en.md) |
+
+[Вики RU](../../../../studio/navigation/ru/README.md) · [Wiki EN](../../../../studio/navigation/en/README.md)

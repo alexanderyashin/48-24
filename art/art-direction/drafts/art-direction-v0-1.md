@@ -1,17 +1,32 @@
 ---
 id: "ART-DIRECTION-001"
+entity_id: "ART-DIRECTION-001"
 title: "Исходное художественное направление 48/24"
-status: draft
+status: "draft"
 version: "0.1.0"
-owner: unassigned
+owner: "alexanderyashin"
 reviewers: []
 updated: "2026-11-19"
+language: "ru"
+translation_of: "ART-DIRECTION-001-EN"
+translation_path: "art/art-direction/drafts/art-direction-v0-1.en.md"
+translation_status: "draft-unreviewed"
+source: "SPOT-0.1; PROJECT-BRIEF-2026-11-19; existing repository draft"
+source_snapshot: "SPOT-0.1"
+source_statuses: ["КОНСЕНСУС", "РАМКА САШИ", "ПРЕДЛОЖЕНИЕ ИВАНА", "РЕДАКЦИОННОЕ ПРЕДЛОЖЕНИЕ", "БЕЛОЕ ПЯТНО"]
+discussion_buckets: ["consensus", "discussion", "gap"]
 canon_refs: []
 supersedes: []
-source: "SPOT-0.1; PROJECT-BRIEF-2026-11-19"
-ai_assistance: "Редакционная подготовка и перевод с помощью ИИ; утверждение авторами не подразумевается."
+ai_assistance: "ChatGPT: structural decomposition and full translation; exact model version unrecorded; human review pending."
 ---
+
 # Исходное художественное направление 48/24
+
+[English](art-direction-v0-1.en.md) · [Вики](../../../studio/navigation/ru/README.md)
+
+**Draft.** Нормативная спецификация для разработки. Метки относятся к отдельным положениям исходника; исходный консенсус не является новым утверждением канона. Перевод ожидает проверки соавторами.
+
+[Источник: SPOT 0.1](../../../world/world-bible/drafts/spot-0-1-import.md) · Исходные статусы: КОНСЕНСУС; РАМКА САШИ; ПРЕДЛОЖЕНИЕ ИВАНА; РЕДАКЦИОННОЕ ПРЕДЛОЖЕНИЕ; БЕЛОЕ ПЯТНО.
 
 Рабочий бриф для первых визуальных проб. Он объединяет исходные положения [SPOT 0.1, раздел 16](../../../world/world-bible/drafts/spot-0-1-import.md#section-16) и уточнение Саши о дореволюционных шрифтах, архитектуре, костюмах, враждебной погоде и контрасте интерьеров. Указанное уточнение — требование Саши из контекста проекта от 19 ноября 2026 года; согласование Иваном не подразумевается. Новые способы исполнения ниже отмечены как редакционные предложения.
 
@@ -71,3 +86,14 @@ LOGION и другие проекты не становятся визуальн
 - Звуковой язык, музыка, речевые манеры и региональные различия.
 
 Связанные вопросы: GAP015–GAP023, GAP035–GAP037, GAP045–GAP047, GAP055, GAP058–GAP059; развилки DIV005–DIV007, DIV019–DIV022.
+
+## Профильные спецификации SPOT
+
+- [Устойчивое художественное направление](visual-principles-v0-1.md)
+- [Материалы свет и социальный контраст](../../environments/drafts/materials-light-and-social-contrast-v0-1.md)
+- [Костюм символика и предмет](../../character-design/drafts/costumes/costume-symbols-and-objects-v0-1.md)
+- [Тело правителя и пространство машины](../../character-design/drafts/ruler-body-and-machine-space-v0-1.md)
+- [Реклама и повторяющиеся знаки мира](../../symbols/drafts/shustov-and-advertising-v0-1.md)
+- [Звук и ритм](../../../audio/sound-design/drafts/sound-and-rhythm-v0-1.md)
+
+Здесь сохранён поздний рабочий бриф репозитория. Подробное исходное содержание SPOT редактируется в профильных спецификациях; исходный снимок остаётся историческим основанием.

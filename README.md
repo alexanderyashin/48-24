@@ -48,3 +48,11 @@ Worldbuilding and development of an original grimdark universe inspired by Imper
 Самостоятельную бесплатную некоммерческую фанпрозу можно публиковать с атрибуцией по [Fan Content Policy](FAN_CONTENT_POLICY.md). Использование официальных иллюстраций, визуальных ресурсов и коммерческие проекты требуют отдельного разрешения там, где закон требует согласия правообладателя. Право просмотра и форка GitHub сохраняется.
 
 Для предложений в проект: [CONTRIBUTING](CONTRIBUTING.md) и [условия конкретного вклада](CONTRIBUTOR_TERMS.md). Публикация фанфика сама по себе не передаёт нам права на него. Права соавторов не перераспределяются этим репозиторием.
+
+## Вики проекта / Project wikis
+
+**[Русская вики](studio/navigation/ru/README.md) · [English wiki](studio/navigation/en/README.md)**
+
+Предметные нормативы SPOT находятся в своих разделах, все в статусе Draft. Вики связывают полные русские и английские версии, исходный консенсус, обсуждения, белые пятна и каталог каждого файла. / SPOT specifications remain in their subject areas, all as Draft. The wikis connect full Russian and English editions, source consensus, discussions, open gaps, and the catalogue of every file.
+
+[Правило обязательной каталогизации](studio/navigation/proposals/cataloguing-standard-v0-1.md) · [Mandatory cataloguing rule](studio/navigation/proposals/cataloguing-standard-v0-1.en.md) · [Полный каталог / Full catalogue](studio/navigation/file-catalog.csv)

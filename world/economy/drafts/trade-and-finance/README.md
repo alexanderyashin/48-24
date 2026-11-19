@@ -11,3 +11,13 @@
 Markets, prices, money, credit, trade flows, and property.
 
 A draft area for ideas, models, sketches, and sources. Document entities and their links to economy, geography, technology, society, and institutions; identify the period (1911, 1941, or another) and the assumption status. Do not promote hypotheses to canon automatically. Use stable IDs and links to domain records. Follow asset rules for images.
+
+## Документы этой редакции / Documents in this revision
+
+Все перечисленные редакции — **Draft**; точные исходные статусы указаны при положениях. / All listed editions are **Draft**; precise source statuses remain attached to statements.
+
+| ID | Русский | English |
+| --- | --- | --- |
+| `WORLD-ECONOMY-001-S06` | [Торговля контрабанда и контрэлиты](trade-smuggling-and-counter-elites-v0-1.md) | [Trade, smuggling and counter-elites](trade-smuggling-and-counter-elites-v0-1.en.md) |
+
+[Вики RU](../../../../studio/navigation/ru/README.md) · [Wiki EN](../../../../studio/navigation/en/README.md)

@@ -18,3 +18,14 @@
 - [medicine-and-health](./medicine-and-health/README.md)
 - [education-and-culture](./education-and-culture/README.md)
 - [media-and-public-opinion](./media-and-public-opinion/README.md)
+
+## Документы этой редакции / Documents in this revision
+
+Все перечисленные редакции — **Draft**; точные исходные статусы указаны при положениях. / All listed editions are **Draft**; precise source statuses remain attached to statements.
+
+| ID | Русский | English |
+| --- | --- | --- |
+| `SPOT-GAPS-SOCIETY` | [Белые пятна: Общество культура и повседневность](spot-gaps-society-v0-1.md) | [Open gaps: Society, culture, and everyday life](spot-gaps-society-v0-1.en.md) |
+| `WORLD-SOCIETY-001` | [Общество повседневность и религия](society-and-daily-life-v0-1.md) | [Society, everyday life and religion](society-and-daily-life-v0-1.en.md) |
+
+[Вики RU](../../../studio/navigation/ru/README.md) · [Wiki EN](../../../studio/navigation/en/README.md)

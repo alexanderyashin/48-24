@@ -14,3 +14,13 @@
 Пустые реестры имеют только заголовки: фиктивных ресурсов, сроков и одобрений нет. Строки редактируются минимально; глобальное переформатирование CSV осложняет параллельную работу.
 
 Реальные новые решения — в [approvals](../approvals/README.md); права сторонних материалов — в [юридическом реестре](../../legal/THIRD_PARTY_ASSETS.csv). [Как пользоваться импортом](../source-import-guide.md).
+
+## Текущие рабочие места и языки / Current working locations and languages
+
+[Две вики / Two wikis](../navigation/README.md) связывают полные предметные документы. / The wikis connect full subject documents.
+
+- `content-index.csv`: одна строка на предметную сущность, пути RU/EN и готовность перевода / one row per subject entity, RU/EN paths and translation state.
+- `decisions.csv`, `open-questions.csv`: исходные поля сохранены; `working_path_ru` и `working_path_en` ведут к текущим редакциям / source fields retained; working paths lead to current editions.
+- [По каждому файлу / Every file](../navigation/file-catalog.csv): полный состав репозитория, включая служебные материалы / complete repository inventory, including infrastructure.
+
+Добавление ссылок не изменяет статуса согласования или открытости вопроса. / Adding links does not change agreement status or close a question.
