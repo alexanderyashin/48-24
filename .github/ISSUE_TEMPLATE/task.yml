@@ -1,0 +1,34 @@
+name: Рабочая задача
+description: Небольшая творческая или производственная задача с владельцем и результатом
+title: "[TASK] "
+body:
+  - type: input
+    id: owner
+    attributes:
+      label: Человек-ответственный
+      description: Кто ведёт задачу, даже если работу выполняет ИИ
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: Результат и критерий готовности
+      description: Что должно появиться и как понять, что задача закончена
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Пути ID ветка и источники
+      description: Укажите область drafts, исходные положения и возможный конфликт с другой задачей
+    validations:
+      required: true
+  - type: textarea
+    id: questions
+    attributes:
+      label: Зависимости и открытые вопросы
+  - type: textarea
+    id: ai
+    attributes:
+      label: ИИ и передача работы
+      description: Планируемые инструменты, границы задачи, место handoff

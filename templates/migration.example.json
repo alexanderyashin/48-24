@@ -1,0 +1,8 @@
+{
+  "id": "REPLACE-MIGRATION-ID",
+  "base_sha": "REPLACE-WITH-FULL-40-CHARACTER-BASE-COMMIT",
+  "reason": "Explain why a structural change is required",
+  "decision_ref": "studio/approvals/REPLACE-REAL-DECISION.json",
+  "changes": [],
+  "note": "EXAMPLE ONLY. Each change must include from and to paths. The real decision must bind this migration file exact bytes and contain real coauthor approvals; no deletion without a documented successor."
+}

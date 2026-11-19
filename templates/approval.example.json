@@ -1,0 +1,8 @@
+{
+  "id": "REPLACE-DECISION-ID",
+  "decision": "pending",
+  "scope": [],
+  "content_sha256": {},
+  "approvals": [],
+  "note": "EXAMPLE ONLY. Copy to studio/approvals after a real decision. Each approval must contain person (team coauthor ID), date (YYYY-MM-DD), evidence (actual attributable record). Two real coauthors required. Hash exact finalized file bytes; do not use this empty example as approval."
+}

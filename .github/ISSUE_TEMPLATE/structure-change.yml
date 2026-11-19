@@ -1,0 +1,30 @@
+name: Изменение структуры или правил
+description: Контролируемое изменение папок метаданных прав или проверок
+title: "[STRUCTURE] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Проблема и необходимость изменения
+      description: Почему текущая структура мешает конкретной работе
+    validations:
+      required: true
+  - type: textarea
+    id: migration
+    attributes:
+      label: Карта переноса и затронутые файлы
+      description: Старый путь, новый путь, ссылки, сохранение истории и способ восстановления
+    validations:
+      required: true
+  - type: textarea
+    id: checks
+    attributes:
+      label: Проверки и последствия
+      description: Совместимость старых ссылок, миграция метаданных, последствия для ИИ и CI
+    validations:
+      required: true
+  - type: textarea
+    id: approvals
+    attributes:
+      label: Решение авторов
+      description: Ссылки на реальные подтверждения; пока их нет, решение не принято

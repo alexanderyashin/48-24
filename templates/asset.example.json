@@ -1,0 +1,24 @@
+{
+  "id": "REPLACE-ASSET-ID",
+  "title": "Replace title",
+  "status": "draft",
+  "version": "0.1.0",
+  "owner": "unassigned",
+  "updated": "2026-11-19",
+  "source": "REPLACE-WITH-ACTUAL-SOURCE",
+  "ai_assistance": "Specify actual tool, model if known and human edits, or none",
+  "rights_holder": "Identify actual rights holder; unknown is not clearance",
+  "license": "Identify actual permission/licence and scope",
+  "clearance": "pending",
+  "sha256": "REPLACE-WITH-SHA256-OF-ACTUAL-FILE",
+  "derived_from": [],
+  "canon_refs": [],
+  "generator": {
+    "tool": null,
+    "model": null,
+    "seed": null
+  },
+  "human_contribution": "Describe actual work",
+  "proof_reference": "Replace with verifiable rights evidence; keep private contracts private",
+  "note": "Example only. Pending rights do not authorize publishing an actual asset. For canonical assets add decision_ref to a real scoped approval."
+}

@@ -1,0 +1,30 @@
+name: Решение о каноне
+description: Выбор конкретной формулировки двумя авторами
+title: "[CANON] "
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Вопрос и точная версия
+      description: Какие ID и файлы рассматриваются; исходные статусы не теряются
+    validations:
+      required: true
+  - type: textarea
+    id: options
+    attributes:
+      label: Варианты и позиции авторов
+      description: Укажите совпадения и расхождения; неизвестное не заменяется догадкой
+    validations:
+      required: true
+  - type: textarea
+    id: effects
+    attributes:
+      label: Последствия и границы
+      description: Какие карточки, сцены, арты и продукты затронуты; что остаётся открытым
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Подтверждения
+      description: Каждый автор подтверждает свою позицию сам; запись ИИ не является согласием человека

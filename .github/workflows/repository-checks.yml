@@ -1,0 +1,47 @@
+name: Repository checks
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: repository-checks-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  repository-checks:
+    name: repository-checks
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Read repository and history
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+          lfs: false
+          submodules: false
+      - name: Verify with the already accepted validator
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ "$BASE_SHA" =~ ^[0-9a-f]{40}$ ]] && [[ "$BASE_SHA" != 0000000000000000000000000000000000000000 ]]; then
+            if git cat-file -e "$BASE_SHA:tools/validate_repo.py" 2>/dev/null; then
+              git show "$BASE_SHA:tools/validate_repo.py" > "$RUNNER_TEMP/accepted-validator.py"
+              python3 "$RUNNER_TEMP/accepted-validator.py" --root . --base "$BASE_SHA"
+            else
+              echo "Initial rollout: the base has no accepted validator yet."
+            fi
+          fi
+      - name: Check the proposed repository
+        run: python3 tools/validate_repo.py --root .
+      - name: Verify guard failure cases
+        run: python3 -m unittest discover -s tools/tests -p 'test_*.py' -v

@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "lifecycle": [
+    "drafts",
+    "canon",
+    "archive"
+  ],
+  "content_areas": [
+    {
+      "path": "world/world-bible",
+      "title": "Библия мира",
+      "description": "Общий замысел, тематическое ядро, правила реальности, границы фантастического допущения и взаимосвязи мира."
+    },
+    {
+      "path": "world/chronology",
+      "title": "Хронология",
+      "description": "Даты, эпохи, последовательности событий, возраст персонажей и альтернативные исторические развилки."
+    },
+    {
+      "path": "world/geography",
+      "title": "География",
+      "description": "Территории, города, маршруты, климат, логистика и географические ограничения."
+    },
+    {
+      "path": "world/institutions",
+      "title": "Государство и институты",
+      "description": "Устройство власти, право, армия, службы, церковь и процедуры принятия решений."
+    },
+    {
+      "path": "world/factions",
+      "title": "Фракции",
+      "description": "Группы интересов, организации, цели, ресурсы, конфликты и отношения."
+    },
+    {
+      "path": "world/society",
+      "title": "Общество и повседневность",
+      "description": "Культура, сословия, религия, языки, образование, быт и социальная мобильность."
+    },
+    {
+      "path": "world/economy",
+      "title": "Экономика",
+      "description": "Производство, собственность, труд, деньги, снабжение, торговля и инфраструктурные зависимости."
+    },
+    {
+      "path": "world/technology",
+      "title": "Технологии",
+      "description": "Энергия, механизация, связь, транспорт, вооружение и технические ограничения."
+    },
+    {
+      "path": "narrative/premise",
+      "title": "Замысел и логлайн",
+      "description": "Логлайны, премиса, синопсисы, темы и обещание произведения аудитории."
+    },
+    {
+      "path": "narrative/characters",
+      "title": "Персонажи",
+      "description": "Биографии, цели, ограничения, отношения, знания и развитие персонажей."
+    },
+    {
+      "path": "narrative/story-arcs",
+      "title": "Сюжетные линии",
+      "description": "Длинные арки, конфликты, повороты и причинные связи между событиями."
+    },
+    {
+      "path": "narrative/episodes",
+      "title": "Выпуски и главы",
+      "description": "Истории как отдельные выпуски, главы, миссии или приключения."
+    },
+    {
+      "path": "narrative/scenes",
+      "title": "Сцены",
+      "description": "Конкретные сцены, действия, выборы, последствия и постановочные варианты."
+    },
+    {
+      "path": "narrative/dialogue",
+      "title": "Диалоги и голоса",
+      "description": "Диалоги, монологи, словарь персонажей, стиль речи и языковые версии."
+    },
+    {
+      "path": "art/art-direction",
+      "title": "Художественное направление",
+      "description": "Визуальные принципы, стиль, композиция, свет, материалы и правила качества."
+    },
+    {
+      "path": "art/concept-art",
+      "title": "Концепт-арт",
+      "description": "Исследовательские изображения и варианты общих художественных решений."
+    },
+    {
+      "path": "art/character-design",
+      "title": "Дизайн персонажей",
+      "description": "Внешность, силуэт, костюм, лица, позы и изменения облика персонажей."
+    },
+    {
+      "path": "art/environments",
+      "title": "Окружение",
+      "description": "Архитектура, интерьеры, городская среда, ландшафты, погода и освещение."
+    },
+    {
+      "path": "art/props",
+      "title": "Предметы и техника",
+      "description": "Оружие, машины, инструменты, транспорт, бытовые предметы и реквизит."
+    },
+    {
+      "path": "art/symbols",
+      "title": "Символика",
+      "description": "Эмблемы, гербы, логотипы, знаки, знамена и визуальная идентичность."
+    },
+    {
+      "path": "art/palettes",
+      "title": "Палитры",
+      "description": "Цветовые системы мира, эпох, фракций, локаций и отдельных продуктов."
+    },
+    {
+      "path": "art/typography",
+      "title": "Шрифты и надписи",
+      "description": "Шрифтовые решения, дореформенные знаки, орфография, вёрстка и надписи в среде."
+    },
+    {
+      "path": "art/maps",
+      "title": "Карты",
+      "description": "Географические, городские, тактические и сюжетные карты."
+    },
+    {
+      "path": "art/interface",
+      "title": "Интерфейсы",
+      "description": "Визуальные решения UI, HUD, титров, субтитров, карточек и информационных панелей."
+    },
+    {
+      "path": "audio/music",
+      "title": "Музыка",
+      "description": "Темы, мотивы, партитуры, музыкальные брифы и дорожки."
+    },
+    {
+      "path": "audio/sound-design",
+      "title": "Звуки и атмосферы",
+      "description": "Шумы механизмов, окружения, погоды, Foley и звуковые пространства."
+    },
+    {
+      "path": "audio/voices",
+      "title": "Голоса",
+      "description": "Кастинг, произношение, голосовые характеры, записи и синтез речи."
+    },
+    {
+      "path": "products/video-game",
+      "title": "Компьютерная игра",
+      "description": "GDD, механики, системы, квесты, прототипы и связь игры с общим каноном."
+    },
+    {
+      "path": "products/youtube",
+      "title": "Видео и YouTube",
+      "description": "Концепции выпусков, сценарии, сториборды, монтаж, озвучка, субтитры и обложки."
+    },
+    {
+      "path": "products/tabletop",
+      "title": "Настольная игра",
+      "description": "Правила, баланс, карточки, компоненты, макеты и результаты плейтестов."
+    },
+    {
+      "path": "products/books",
+      "title": "Книги",
+      "description": "План томов, рукопись, редактура, корректура, вёрстка, иллюстрации и переводы."
+    },
+    {
+      "path": "research/history",
+      "title": "История",
+      "description": "Исторические источники и проверки фактов, относящихся к реальной исходной эпохе."
+    },
+    {
+      "path": "research/visual-references",
+      "title": "Визуальные референсы",
+      "description": "Ссылки на архитектуру, одежду, материалы, типографику и работы для анализа."
+    },
+    {
+      "path": "research/technical-feasibility",
+      "title": "Технические исследования",
+      "description": "Проверки правдоподобия механизмов и производственной выполнимости продуктов."
+    },
+    {
+      "path": "community/fan-fiction",
+      "title": "Фанатские истории",
+      "description": "Ссылки на самостоятельные некоммерческие истории сообщества."
+    },
+    {
+      "path": "community/proposals",
+      "title": "Предложения сообщества",
+      "description": "Предложения новых историй, исправлений и расширений мира."
+    },
+    {
+      "path": "community/showcase",
+      "title": "Подборки сообщества",
+      "description": "Согласованные подборки и материалы для представления работ участников."
+    },
+    {
+      "path": "production/planning",
+      "title": "Планирование",
+      "description": "Этапы, задачи, зависимости, оценки, риски и очередность производства."
+    },
+    {
+      "path": "production/releases",
+      "title": "Выпуски",
+      "description": "Манифесты выпусков, состав, версии, кредиты и проверки готовности."
+    },
+    {
+      "path": "production/marketing",
+      "title": "Представление проекта",
+      "description": "Публичные описания, пресс-материалы, анонсы, планы коммуникации и материалы магазина."
+    },
+    {
+      "path": "legal",
+      "title": "Юридические редакции",
+      "description": "Черновики, ссылки на утверждённые редакции и архив условий; действующий LICENSE находится в корне."
+    }
+  ],
+  "required_files": [
+    "README.md",
+    "AGENTS.md",
+    "LICENSE",
+    "FAN_CONTENT_POLICY.md",
+    "CONTRIBUTING.md",
+    "CONTRIBUTOR_TERMS.md",
+    "studio/structure.json",
+    "studio/team.json",
+    "studio/WORKFLOW.md",
+    "studio/CANON_POLICY.md",
+    "studio/REPOSITORY_RULES.md",
+    "studio/AI_COLLABORATION.md",
+    "studio/ASSET_WORKFLOW.md",
+    "tools/validate_repo.py",
+    ".github/CODEOWNERS",
+    ".github/workflows/repository-checks.yml"
+  ],
+  "infrastructure_directories": [
+    "studio",
+    "studio/registers",
+    "studio/approvals",
+    "studio/migrations",
+    "studio/rollout",
+    "legal",
+    "legal/drafts",
+    "legal/canon",
+    "legal/archive",
+    "templates",
+    "tools",
+    "tools/tests",
+    ".github",
+    ".github/workflows",
+    ".github/ISSUE_TEMPLATE"
+  ],
+  "structural_policy": "Adding or changing content areas, lifecycle names, protected files or infrastructure requires a reviewed migration record; never silently reorganize."
+}

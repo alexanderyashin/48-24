@@ -1,0 +1,19 @@
+name: Вопрос о правах или разрешении
+description: Публичный запрос без договоров персональных и платёжных данных
+title: "[RIGHTS] "
+body:
+  - type: textarea
+    id: material
+    attributes:
+      label: Материал и планируемое использование
+      description: Ссылка или ID, формат, коммерческий характер и нужный объём разрешения
+    validations:
+      required: true
+  - type: textarea
+    id: rights
+    attributes:
+      label: Источники и известные ограничения
+      description: Не прикладывайте приватные договоры, подписи, адреса или документы личности
+  - type: markdown
+    attributes:
+      value: Ответ ИИ, реакция или молчание не считаются разрешением правообладателя.

@@ -1,0 +1,45 @@
+# Local OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+~$*
+
+# Python and local tool caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Secrets and private local material
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+private-local/
+local-cache/
+
+# Reproducible outputs and engine caches
+build/
+dist/
+node_modules/
+.godot/
+Library/
+Temp/
+Obj/
+Logs/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Large masters use the external asset register until storage is decided
+*.psb
+*.prproj
+*.aep
+*.mov
+*.mp4
+*.mkv

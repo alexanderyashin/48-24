@@ -1,0 +1,12 @@
+# Bootstrap owner verified through the connected GitHub account.
+# Add Ivan only after his exact GitHub login and repository write access are confirmed.
+# CODEOWNERS requests review; it does not enforce reviews without a ruleset.
+* @alexanderyashin
+/.github/ @alexanderyashin
+/AGENTS.md @alexanderyashin
+/LICENSE @alexanderyashin
+/FAN_CONTENT_POLICY.md @alexanderyashin
+/CONTRIBUTOR_TERMS.md @alexanderyashin
+/studio/ @alexanderyashin
+/legal/ @alexanderyashin
+/tools/ @alexanderyashin
