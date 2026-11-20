@@ -1,0 +1,17 @@
+# Становление советского государства / Formation of the Soviet state
+
+[РСФСР и СССР / Soviet Russia and USSR](../README.md) · [Historical baseline](../../README.md)
+
+**RU:** Тематическая группа источников и референсов за 1910–1940 годы; рубрики ниже являются контейнерами для будущих исторических материалов.
+
+**EN:** Thematic collection of 1910–1940 sources and references; the following categories are prepared for future historical materials.
+
+| Тематика / Topic |
+| --- |
+| [Октябрьская революция / October Revolution](october-revolution/README.md) |
+| [Гражданская война и интервенции / Civil war and interventions](civil-war-interventions/README.md) |
+| [Военный коммунизм / War communism](war-communism/README.md) |
+| [Новая экономическая политика / New Economic Policy](new-economic-policy/README.md) |
+| [Советский государственный аппарат / Soviet state apparatus](soviet-state-apparatus/README.md) |
+
+Материалы оформляются по [общему каталогу](../../_catalog/README.md). / Follow the [shared source catalog](../../_catalog/README.md).

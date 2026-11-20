@@ -1,0 +1,17 @@
+# Управленческие механизмы / Governance mechanisms
+
+[Государство и управление / State and government](../README.md) · [Historical baseline](../../README.md)
+
+**RU:** Тематическая группа источников и референсов за 1910–1940 годы; рубрики ниже являются контейнерами для будущих исторических материалов.
+
+**EN:** Thematic collection of 1910–1940 sources and references; the following categories are prepared for future historical materials.
+
+| Тематика / Topic |
+| --- |
+| [Выборы и представительство / Elections and representation](elections-representation/README.md) |
+| [Налоговая администрация / Tax administration](tax-administration/README.md) |
+| [Государственные закупки / Government procurement](government-procurement/README.md) |
+| [Государственное планирование / State planning](state-planning/README.md) |
+| [Чрезвычайные полномочия / Emergency powers](emergency-powers/README.md) |
+
+Материалы оформляются по [общему каталогу](../../_catalog/README.md). / Follow the [shared source catalog](../../_catalog/README.md).
