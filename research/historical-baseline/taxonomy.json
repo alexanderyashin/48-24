@@ -1,0 +1,2672 @@
+{
+  "schema_version": 1,
+  "label": "Historical baseline / Историческая база",
+  "period": {
+    "start": 1910,
+    "end": 1940,
+    "inclusive": true
+  },
+  "role": "organizational-taxonomy-not-historical-evidence",
+  "domains": [
+    {
+      "slug": "chronology",
+      "title_ru": "Хронология и периодизация",
+      "title_en": "Chronology and periodization",
+      "groups": [
+        {
+          "slug": "periods",
+          "title_ru": "Периоды и рубежи",
+          "title_en": "Periods and turning points",
+          "topics": [
+            {
+              "slug": "prewar-1910-1913",
+              "title_ru": "Предвоенные годы 1910–1913",
+              "title_en": "Prewar years 1910–1913"
+            },
+            {
+              "slug": "world-war-one",
+              "title_ru": "Первая мировая война",
+              "title_en": "First World War"
+            },
+            {
+              "slug": "revolutions-1917-1923",
+              "title_ru": "Революции и перевороты 1917–1923",
+              "title_en": "Revolutions and upheavals 1917–1923"
+            },
+            {
+              "slug": "interwar-1920s",
+              "title_ru": "Межвоенные 1920-е",
+              "title_en": "Interwar 1920s"
+            },
+            {
+              "slug": "interwar-1930s",
+              "title_ru": "Межвоенные 1930-е",
+              "title_en": "Interwar 1930s"
+            },
+            {
+              "slug": "war-outbreak-1939-1940",
+              "title_ru": "Начало Второй мировой войны",
+              "title_en": "Outbreak of the Second World War"
+            }
+          ]
+        },
+        {
+          "slug": "chronological-evidence",
+          "title_ru": "Хронологические источники",
+          "title_en": "Chronological evidence",
+          "topics": [
+            {
+              "slug": "day-by-day-chronicles",
+              "title_ru": "Хроники по дням",
+              "title_en": "Day-by-day chronicles"
+            },
+            {
+              "slug": "regional-timelines",
+              "title_ru": "Региональные хронологии",
+              "title_en": "Regional timelines"
+            },
+            {
+              "slug": "technology-timelines",
+              "title_ru": "Хронология технологий",
+              "title_en": "Technology timelines"
+            },
+            {
+              "slug": "economic-timelines",
+              "title_ru": "Хронология экономики",
+              "title_en": "Economic timelines"
+            },
+            {
+              "slug": "dated-primary-sources",
+              "title_ru": "Датированные первоисточники",
+              "title_en": "Dated primary sources"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "geography",
+      "title_ru": "География и территория",
+      "title_en": "Geography and territory",
+      "groups": [
+        {
+          "slug": "physical-geography",
+          "title_ru": "Физическая география",
+          "title_en": "Physical geography",
+          "topics": [
+            {
+              "slug": "terrain-and-relief",
+              "title_ru": "Рельеф и формы местности",
+              "title_en": "Terrain and relief"
+            },
+            {
+              "slug": "rivers-and-lakes",
+              "title_ru": "Реки и озёра",
+              "title_en": "Rivers and lakes"
+            },
+            {
+              "slug": "seas-and-coastlines",
+              "title_ru": "Моря и побережья",
+              "title_en": "Seas and coastlines"
+            },
+            {
+              "slug": "forests-steppes-tundra",
+              "title_ru": "Леса степи и тундра",
+              "title_en": "Forests steppes and tundra"
+            },
+            {
+              "slug": "natural-barriers",
+              "title_ru": "Природные препятствия",
+              "title_en": "Natural barriers"
+            }
+          ]
+        },
+        {
+          "slug": "human-geography",
+          "title_ru": "Политическая и хозяйственная география",
+          "title_en": "Human and economic geography",
+          "topics": [
+            {
+              "slug": "borders-1910-1940",
+              "title_ru": "Государственные границы",
+              "title_en": "State borders"
+            },
+            {
+              "slug": "historical-maps-atlases",
+              "title_ru": "Исторические карты и атласы",
+              "title_en": "Historical maps and atlases"
+            },
+            {
+              "slug": "settlement-patterns",
+              "title_ru": "Системы расселения",
+              "title_en": "Settlement patterns"
+            },
+            {
+              "slug": "industrial-regions",
+              "title_ru": "Промышленные районы",
+              "title_en": "Industrial regions"
+            },
+            {
+              "slug": "trade-corridors",
+              "title_ru": "Торговые коридоры",
+              "title_en": "Trade corridors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "climate-environment",
+      "title_ru": "Климат и окружающая среда",
+      "title_en": "Climate and environment",
+      "groups": [
+        {
+          "slug": "weather-seasons",
+          "title_ru": "Погода и сезонность",
+          "title_en": "Weather and seasons",
+          "topics": [
+            {
+              "slug": "winter-conditions",
+              "title_ru": "Зима морозы и снег",
+              "title_en": "Winter frost and snow"
+            },
+            {
+              "slug": "rain-mud-thaw",
+              "title_ru": "Дожди распутица и оттепель",
+              "title_en": "Rain mud and thaw"
+            },
+            {
+              "slug": "seasonal-daylight",
+              "title_ru": "Сезонный световой режим",
+              "title_en": "Seasonal daylight"
+            },
+            {
+              "slug": "meteorological-records",
+              "title_ru": "Метеорологические наблюдения",
+              "title_en": "Meteorological records"
+            },
+            {
+              "slug": "extreme-weather",
+              "title_ru": "Экстремальная погода",
+              "title_en": "Extreme weather"
+            }
+          ]
+        },
+        {
+          "slug": "human-environment",
+          "title_ru": "Человек и природа",
+          "title_en": "Human environmental impact",
+          "topics": [
+            {
+              "slug": "urban-smoke-smog",
+              "title_ru": "Городской дым и смог",
+              "title_en": "Urban smoke and smog"
+            },
+            {
+              "slug": "industrial-pollution",
+              "title_ru": "Промышленное загрязнение",
+              "title_en": "Industrial pollution"
+            },
+            {
+              "slug": "water-quality",
+              "title_ru": "Качество воды",
+              "title_en": "Water quality"
+            },
+            {
+              "slug": "deforestation",
+              "title_ru": "Вырубка лесов",
+              "title_en": "Deforestation"
+            },
+            {
+              "slug": "resource-scarcity",
+              "title_ru": "Дефицит природных ресурсов",
+              "title_en": "Natural resource scarcity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "population-migration",
+      "title_ru": "Население и миграция",
+      "title_en": "Population and migration",
+      "groups": [
+        {
+          "slug": "demography",
+          "title_ru": "Демография",
+          "title_en": "Demography",
+          "topics": [
+            {
+              "slug": "censuses",
+              "title_ru": "Переписи населения",
+              "title_en": "Population censuses"
+            },
+            {
+              "slug": "births-deaths",
+              "title_ru": "Рождаемость и смертность",
+              "title_en": "Births and deaths"
+            },
+            {
+              "slug": "urbanization",
+              "title_ru": "Урбанизация",
+              "title_en": "Urbanization"
+            },
+            {
+              "slug": "household-composition",
+              "title_ru": "Состав домохозяйств",
+              "title_en": "Household composition"
+            },
+            {
+              "slug": "life-expectancy",
+              "title_ru": "Ожидаемая продолжительность жизни",
+              "title_en": "Life expectancy"
+            }
+          ]
+        },
+        {
+          "slug": "mobility",
+          "title_ru": "Миграция и перемещения",
+          "title_en": "Migration and movement",
+          "topics": [
+            {
+              "slug": "internal-migration",
+              "title_ru": "Внутренняя миграция",
+              "title_en": "Internal migration"
+            },
+            {
+              "slug": "emigration-immigration",
+              "title_ru": "Эмиграция и иммиграция",
+              "title_en": "Emigration and immigration"
+            },
+            {
+              "slug": "refugees-displacement",
+              "title_ru": "Беженцы и переселенцы",
+              "title_en": "Refugees and displacement"
+            },
+            {
+              "slug": "diasporas",
+              "title_ru": "Диаспоры",
+              "title_en": "Diasporas"
+            },
+            {
+              "slug": "forced-resettlement",
+              "title_ru": "Принудительные переселения",
+              "title_en": "Forced resettlement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "state-government",
+      "title_ru": "Государство и управление",
+      "title_en": "State and government",
+      "groups": [
+        {
+          "slug": "institutions",
+          "title_ru": "Система государственной власти",
+          "title_en": "Institutions of government",
+          "topics": [
+            {
+              "slug": "monarchies-dynasties",
+              "title_ru": "Монархии и династии",
+              "title_en": "Monarchies and dynasties"
+            },
+            {
+              "slug": "parliaments-cabinets",
+              "title_ru": "Парламенты и правительства",
+              "title_en": "Parliaments and cabinets"
+            },
+            {
+              "slug": "bureaucracy-civil-service",
+              "title_ru": "Бюрократия и чиновничество",
+              "title_en": "Bureaucracy and civil service"
+            },
+            {
+              "slug": "regional-local-government",
+              "title_ru": "Региональное и местное управление",
+              "title_en": "Regional and local government"
+            },
+            {
+              "slug": "state-recordkeeping",
+              "title_ru": "Делопроизводство государства",
+              "title_en": "State recordkeeping"
+            }
+          ]
+        },
+        {
+          "slug": "governance-mechanisms",
+          "title_ru": "Управленческие механизмы",
+          "title_en": "Governance mechanisms",
+          "topics": [
+            {
+              "slug": "elections-representation",
+              "title_ru": "Выборы и представительство",
+              "title_en": "Elections and representation"
+            },
+            {
+              "slug": "tax-administration",
+              "title_ru": "Налоговая администрация",
+              "title_en": "Tax administration"
+            },
+            {
+              "slug": "government-procurement",
+              "title_ru": "Государственные закупки",
+              "title_en": "Government procurement"
+            },
+            {
+              "slug": "state-planning",
+              "title_ru": "Государственное планирование",
+              "title_en": "State planning"
+            },
+            {
+              "slug": "emergency-powers",
+              "title_ru": "Чрезвычайные полномочия",
+              "title_en": "Emergency powers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "political-life",
+      "title_ru": "Политика и идеологии",
+      "title_en": "Politics and ideologies",
+      "groups": [
+        {
+          "slug": "political-actors",
+          "title_ru": "Политические силы",
+          "title_en": "Political actors",
+          "topics": [
+            {
+              "slug": "political-parties",
+              "title_ru": "Политические партии",
+              "title_en": "Political parties"
+            },
+            {
+              "slug": "monarchism-conservatism",
+              "title_ru": "Монархизм и консерватизм",
+              "title_en": "Monarchism and conservatism"
+            },
+            {
+              "slug": "liberalism-reformism",
+              "title_ru": "Либерализм и реформизм",
+              "title_en": "Liberalism and reformism"
+            },
+            {
+              "slug": "socialism-communism",
+              "title_ru": "Социализм и коммунизм",
+              "title_en": "Socialism and communism"
+            },
+            {
+              "slug": "nationalism-fascism",
+              "title_ru": "Национализм и фашизм",
+              "title_en": "Nationalism and fascism"
+            }
+          ]
+        },
+        {
+          "slug": "political-practice",
+          "title_ru": "Политические практики",
+          "title_en": "Political practices",
+          "topics": [
+            {
+              "slug": "political-campaigns",
+              "title_ru": "Политические кампании",
+              "title_en": "Political campaigns"
+            },
+            {
+              "slug": "protests-demonstrations",
+              "title_ru": "Протесты и демонстрации",
+              "title_en": "Protests and demonstrations"
+            },
+            {
+              "slug": "revolutionary-networks",
+              "title_ru": "Революционные сети",
+              "title_en": "Revolutionary networks"
+            },
+            {
+              "slug": "political-exile",
+              "title_ru": "Политическая эмиграция",
+              "title_en": "Political exile"
+            },
+            {
+              "slug": "political-violence",
+              "title_ru": "Политическое насилие",
+              "title_en": "Political violence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "law-justice",
+      "title_ru": "Право и правосудие",
+      "title_en": "Law and justice",
+      "groups": [
+        {
+          "slug": "legal-systems",
+          "title_ru": "Отрасли права",
+          "title_en": "Branches of law",
+          "topics": [
+            {
+              "slug": "civil-property-law",
+              "title_ru": "Гражданское и имущественное право",
+              "title_en": "Civil and property law"
+            },
+            {
+              "slug": "criminal-law",
+              "title_ru": "Уголовное право",
+              "title_en": "Criminal law"
+            },
+            {
+              "slug": "labor-law",
+              "title_ru": "Трудовое право",
+              "title_en": "Labor law"
+            },
+            {
+              "slug": "family-inheritance-law",
+              "title_ru": "Семейное и наследственное право",
+              "title_en": "Family and inheritance law"
+            },
+            {
+              "slug": "nationality-citizenship",
+              "title_ru": "Подданство и гражданство",
+              "title_en": "Nationality and citizenship"
+            }
+          ]
+        },
+        {
+          "slug": "judicial-practice",
+          "title_ru": "Правоприменение",
+          "title_en": "Judicial practice",
+          "topics": [
+            {
+              "slug": "courts-trials",
+              "title_ru": "Суды и процессы",
+              "title_en": "Courts and trials"
+            },
+            {
+              "slug": "prisons-penal-labor",
+              "title_ru": "Тюрьмы и каторга",
+              "title_en": "Prisons and penal labor"
+            },
+            {
+              "slug": "legal-professions",
+              "title_ru": "Юридические профессии",
+              "title_en": "Legal professions"
+            },
+            {
+              "slug": "censorship-legislation",
+              "title_ru": "Законодательство о цензуре",
+              "title_en": "Censorship legislation"
+            },
+            {
+              "slug": "military-justice",
+              "title_ru": "Военная юстиция",
+              "title_en": "Military justice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "international-relations",
+      "title_ru": "Международные отношения",
+      "title_en": "International relations",
+      "groups": [
+        {
+          "slug": "diplomacy",
+          "title_ru": "Дипломатия",
+          "title_en": "Diplomacy",
+          "topics": [
+            {
+              "slug": "alliances-treaties",
+              "title_ru": "Союзы и договоры",
+              "title_en": "Alliances and treaties"
+            },
+            {
+              "slug": "embassies-consulates",
+              "title_ru": "Посольства и консульства",
+              "title_en": "Embassies and consulates"
+            },
+            {
+              "slug": "great-power-rivalries",
+              "title_ru": "Соперничество великих держав",
+              "title_en": "Great-power rivalries"
+            },
+            {
+              "slug": "league-of-nations",
+              "title_ru": "Лига Наций",
+              "title_en": "League of Nations"
+            },
+            {
+              "slug": "peace-conferences",
+              "title_ru": "Мирные конференции",
+              "title_en": "Peace conferences"
+            }
+          ]
+        },
+        {
+          "slug": "international-systems",
+          "title_ru": "Международные системы",
+          "title_en": "International systems",
+          "topics": [
+            {
+              "slug": "colonial-empires",
+              "title_ru": "Колониальные империи",
+              "title_en": "Colonial empires"
+            },
+            {
+              "slug": "protectorates-mandates",
+              "title_ru": "Протектораты и мандаты",
+              "title_en": "Protectorates and mandates"
+            },
+            {
+              "slug": "border-disputes",
+              "title_ru": "Пограничные споры",
+              "title_en": "Border disputes"
+            },
+            {
+              "slug": "sanctions-blockades",
+              "title_ru": "Санкции и блокады",
+              "title_en": "Sanctions and blockades"
+            },
+            {
+              "slug": "cross-border-humanitarianism",
+              "title_ru": "Международная гуманитарная помощь",
+              "title_en": "Cross-border humanitarianism"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "military-warfare",
+      "title_ru": "Армия и военное дело",
+      "title_en": "Military affairs and warfare",
+      "groups": [
+        {
+          "slug": "organization-doctrine",
+          "title_ru": "Организация вооружённых сил",
+          "title_en": "Organization and doctrine",
+          "topics": [
+            {
+              "slug": "command-staffs",
+              "title_ru": "Командование и штабы",
+              "title_en": "Command and general staffs"
+            },
+            {
+              "slug": "mobilization-conscription",
+              "title_ru": "Мобилизация и призыв",
+              "title_en": "Mobilization and conscription"
+            },
+            {
+              "slug": "training-tactics",
+              "title_ru": "Подготовка и тактика",
+              "title_en": "Training and tactics"
+            },
+            {
+              "slug": "military-logistics",
+              "title_ru": "Военное снабжение",
+              "title_en": "Military logistics"
+            },
+            {
+              "slug": "military-uniforms-ranks",
+              "title_ru": "Форма знаки различия и чины",
+              "title_en": "Uniforms insignia and ranks"
+            }
+          ]
+        },
+        {
+          "slug": "weapons-operations",
+          "title_ru": "Вооружение и операции",
+          "title_en": "Weapons and operations",
+          "topics": [
+            {
+              "slug": "infantry-artillery",
+              "title_ru": "Пехота и артиллерия",
+              "title_en": "Infantry and artillery"
+            },
+            {
+              "slug": "cavalry-armor",
+              "title_ru": "Кавалерия и бронетехника",
+              "title_en": "Cavalry and armor"
+            },
+            {
+              "slug": "naval-forces",
+              "title_ru": "Флот и корабли",
+              "title_en": "Naval forces"
+            },
+            {
+              "slug": "military-aviation",
+              "title_ru": "Военная авиация",
+              "title_en": "Military aviation"
+            },
+            {
+              "slug": "fortifications-chemical-warfare",
+              "title_ru": "Фортификация и химическое оружие",
+              "title_en": "Fortifications and chemical warfare"
+            },
+            {
+              "slug": "battlefield-medicine",
+              "title_ru": "Военная медицина",
+              "title_en": "Battlefield medicine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "security-intelligence",
+      "title_ru": "Безопасность и спецслужбы",
+      "title_en": "Security and intelligence",
+      "groups": [
+        {
+          "slug": "state-security",
+          "title_ru": "Государственная безопасность",
+          "title_en": "State security",
+          "topics": [
+            {
+              "slug": "police-gendarmerie",
+              "title_ru": "Полиция и жандармерия",
+              "title_en": "Police and gendarmerie"
+            },
+            {
+              "slug": "secret-police",
+              "title_ru": "Тайная полиция",
+              "title_en": "Secret police"
+            },
+            {
+              "slug": "foreign-intelligence",
+              "title_ru": "Внешняя разведка",
+              "title_en": "Foreign intelligence"
+            },
+            {
+              "slug": "counterintelligence",
+              "title_ru": "Контрразведка",
+              "title_en": "Counterintelligence"
+            },
+            {
+              "slug": "border-controls",
+              "title_ru": "Пограничный контроль",
+              "title_en": "Border controls"
+            }
+          ]
+        },
+        {
+          "slug": "crime-and-order",
+          "title_ru": "Преступность и порядок",
+          "title_en": "Crime and public order",
+          "topics": [
+            {
+              "slug": "organized-crime",
+              "title_ru": "Организованная преступность",
+              "title_en": "Organized crime"
+            },
+            {
+              "slug": "smuggling-black-markets",
+              "title_ru": "Контрабанда и чёрные рынки",
+              "title_en": "Smuggling and black markets"
+            },
+            {
+              "slug": "fraud-corruption",
+              "title_ru": "Мошенничество и коррупция",
+              "title_en": "Fraud and corruption"
+            },
+            {
+              "slug": "criminal-investigation",
+              "title_ru": "Криминалистика и расследования",
+              "title_en": "Criminal investigation"
+            },
+            {
+              "slug": "surveillance-practices",
+              "title_ru": "Практики наблюдения",
+              "title_en": "Surveillance practices"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "economy-finance",
+      "title_ru": "Экономика и финансы",
+      "title_en": "Economy and finance",
+      "groups": [
+        {
+          "slug": "macroeconomy",
+          "title_ru": "Макроэкономика",
+          "title_en": "Macroeconomy",
+          "topics": [
+            {
+              "slug": "economic-growth-output",
+              "title_ru": "Рост и объёмы производства",
+              "title_en": "Growth and output"
+            },
+            {
+              "slug": "business-cycles-crises",
+              "title_ru": "Циклы и экономические кризисы",
+              "title_en": "Business cycles and crises"
+            },
+            {
+              "slug": "inflation-prices",
+              "title_ru": "Инфляция и цены",
+              "title_en": "Inflation and prices"
+            },
+            {
+              "slug": "national-income-wealth",
+              "title_ru": "Национальный доход и богатство",
+              "title_en": "National income and wealth"
+            },
+            {
+              "slug": "war-economy",
+              "title_ru": "Военная экономика",
+              "title_en": "War economy"
+            }
+          ]
+        },
+        {
+          "slug": "money-finance",
+          "title_ru": "Деньги и финансовые институты",
+          "title_en": "Money and financial institutions",
+          "topics": [
+            {
+              "slug": "currencies-gold-standard",
+              "title_ru": "Валюты и золотой стандарт",
+              "title_en": "Currencies and gold standard"
+            },
+            {
+              "slug": "banks-credit",
+              "title_ru": "Банки и кредит",
+              "title_en": "Banks and credit"
+            },
+            {
+              "slug": "stock-markets-bonds",
+              "title_ru": "Биржи облигации и акции",
+              "title_en": "Stock markets bonds and shares"
+            },
+            {
+              "slug": "insurance",
+              "title_ru": "Страхование",
+              "title_en": "Insurance"
+            },
+            {
+              "slug": "public-budgets-debt",
+              "title_ru": "Бюджеты и государственный долг",
+              "title_en": "Public budgets and debt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "commerce-trade",
+      "title_ru": "Торговля и коммерция",
+      "title_en": "Commerce and trade",
+      "groups": [
+        {
+          "slug": "markets",
+          "title_ru": "Рынки и торговые форматы",
+          "title_en": "Markets and trading formats",
+          "topics": [
+            {
+              "slug": "retail-shops",
+              "title_ru": "Розничные магазины",
+              "title_en": "Retail shops"
+            },
+            {
+              "slug": "wholesale-merchants",
+              "title_ru": "Оптовики и купечество",
+              "title_en": "Wholesale and merchants"
+            },
+            {
+              "slug": "bazaars-fairs",
+              "title_ru": "Базары и ярмарки",
+              "title_en": "Bazaars and fairs"
+            },
+            {
+              "slug": "mail-order-catalogs",
+              "title_ru": "Торговля по каталогам",
+              "title_en": "Mail-order catalogs"
+            },
+            {
+              "slug": "consumer-goods-prices",
+              "title_ru": "Цены потребительских товаров",
+              "title_en": "Consumer goods prices"
+            }
+          ]
+        },
+        {
+          "slug": "trade-networks",
+          "title_ru": "Торговые сети",
+          "title_en": "Trade networks",
+          "topics": [
+            {
+              "slug": "foreign-trade",
+              "title_ru": "Внешняя торговля",
+              "title_en": "Foreign trade"
+            },
+            {
+              "slug": "tariffs-customs",
+              "title_ru": "Тарифы и таможня",
+              "title_en": "Tariffs and customs"
+            },
+            {
+              "slug": "commodity-exchanges",
+              "title_ru": "Товарные биржи",
+              "title_en": "Commodity exchanges"
+            },
+            {
+              "slug": "warehousing-distribution",
+              "title_ru": "Склады и дистрибуция",
+              "title_en": "Warehousing and distribution"
+            },
+            {
+              "slug": "trade-routes",
+              "title_ru": "Торговые маршруты",
+              "title_en": "Trade routes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "industry-manufacturing",
+      "title_ru": "Промышленность и производство",
+      "title_en": "Industry and manufacturing",
+      "groups": [
+        {
+          "slug": "industrial-sectors",
+          "title_ru": "Отрасли промышленности",
+          "title_en": "Industrial sectors",
+          "topics": [
+            {
+              "slug": "iron-steel-metallurgy",
+              "title_ru": "Чёрная металлургия",
+              "title_en": "Iron and steel metallurgy"
+            },
+            {
+              "slug": "machine-building",
+              "title_ru": "Машиностроение",
+              "title_en": "Machine building"
+            },
+            {
+              "slug": "textiles-garments",
+              "title_ru": "Текстильная и швейная промышленность",
+              "title_en": "Textiles and garments"
+            },
+            {
+              "slug": "chemicals-pharmaceuticals",
+              "title_ru": "Химия и фармацевтика",
+              "title_en": "Chemicals and pharmaceuticals"
+            },
+            {
+              "slug": "automotive-shipbuilding",
+              "title_ru": "Автостроение и судостроение",
+              "title_en": "Automotive and shipbuilding"
+            },
+            {
+              "slug": "aviation-industry",
+              "title_ru": "Авиастроение",
+              "title_en": "Aviation industry"
+            }
+          ]
+        },
+        {
+          "slug": "factory-organization",
+          "title_ru": "Устройство производства",
+          "title_en": "Factory organization",
+          "topics": [
+            {
+              "slug": "factories-workshops",
+              "title_ru": "Заводы и мастерские",
+              "title_en": "Factories and workshops"
+            },
+            {
+              "slug": "production-lines",
+              "title_ru": "Поточные линии",
+              "title_en": "Production lines"
+            },
+            {
+              "slug": "industrial-standards",
+              "title_ru": "Стандарты и взаимозаменяемость",
+              "title_en": "Industrial standards"
+            },
+            {
+              "slug": "quality-control",
+              "title_ru": "Контроль качества",
+              "title_en": "Quality control"
+            },
+            {
+              "slug": "industrial-accidents",
+              "title_ru": "Промышленные аварии",
+              "title_en": "Industrial accidents"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "mining-resources",
+      "title_ru": "Добыча и сырьё",
+      "title_en": "Mining and raw materials",
+      "groups": [
+        {
+          "slug": "extraction",
+          "title_ru": "Добывающие отрасли",
+          "title_en": "Extractive industries",
+          "topics": [
+            {
+              "slug": "coal-mining",
+              "title_ru": "Угледобыча",
+              "title_en": "Coal mining"
+            },
+            {
+              "slug": "oil-extraction",
+              "title_ru": "Добыча нефти",
+              "title_en": "Oil extraction"
+            },
+            {
+              "slug": "metal-ores",
+              "title_ru": "Рудники и металлы",
+              "title_en": "Metal ores"
+            },
+            {
+              "slug": "stone-clay-cement",
+              "title_ru": "Камень глина и цемент",
+              "title_en": "Stone clay and cement"
+            },
+            {
+              "slug": "timber-harvesting",
+              "title_ru": "Лесозаготовки",
+              "title_en": "Timber harvesting"
+            }
+          ]
+        },
+        {
+          "slug": "materials",
+          "title_ru": "Материалы и цепочки",
+          "title_en": "Materials and supply chains",
+          "topics": [
+            {
+              "slug": "iron-steel-alloys",
+              "title_ru": "Железо сталь и сплавы",
+              "title_en": "Iron steel and alloys"
+            },
+            {
+              "slug": "copper-brass-bronze",
+              "title_ru": "Медь латунь и бронза",
+              "title_en": "Copper brass and bronze"
+            },
+            {
+              "slug": "rubber-leather",
+              "title_ru": "Резина и кожа",
+              "title_en": "Rubber and leather"
+            },
+            {
+              "slug": "glass-ceramics",
+              "title_ru": "Стекло и керамика",
+              "title_en": "Glass and ceramics"
+            },
+            {
+              "slug": "material-shortages",
+              "title_ru": "Дефицит сырья",
+              "title_en": "Material shortages"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "agriculture-food",
+      "title_ru": "Сельское хозяйство и продовольствие",
+      "title_en": "Agriculture and food",
+      "groups": [
+        {
+          "slug": "agriculture",
+          "title_ru": "Сельскохозяйственное производство",
+          "title_en": "Agricultural production",
+          "topics": [
+            {
+              "slug": "land-tenure-reforms",
+              "title_ru": "Землевладение и реформы",
+              "title_en": "Land tenure and reforms"
+            },
+            {
+              "slug": "grain-crops",
+              "title_ru": "Зерновые культуры",
+              "title_en": "Grain crops"
+            },
+            {
+              "slug": "livestock-dairy",
+              "title_ru": "Скотоводство и молоко",
+              "title_en": "Livestock and dairy"
+            },
+            {
+              "slug": "farm-machinery",
+              "title_ru": "Сельхозмашины",
+              "title_en": "Farm machinery"
+            },
+            {
+              "slug": "rural-cooperatives",
+              "title_ru": "Сельские кооперативы",
+              "title_en": "Rural cooperatives"
+            }
+          ]
+        },
+        {
+          "slug": "food-systems",
+          "title_ru": "Продовольственная система",
+          "title_en": "Food systems",
+          "topics": [
+            {
+              "slug": "food-processing",
+              "title_ru": "Переработка продуктов",
+              "title_en": "Food processing"
+            },
+            {
+              "slug": "food-storage-preservation",
+              "title_ru": "Хранение и консервация",
+              "title_en": "Food storage and preservation"
+            },
+            {
+              "slug": "grain-trade-supply",
+              "title_ru": "Торговля зерном и снабжение",
+              "title_en": "Grain trade and supply"
+            },
+            {
+              "slug": "rationing-shortages",
+              "title_ru": "Карточки и дефицит продовольствия",
+              "title_en": "Rationing and food shortages"
+            },
+            {
+              "slug": "famine-nutrition",
+              "title_ru": "Голод и питание",
+              "title_en": "Famine and nutrition"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "infrastructure-utilities",
+      "title_ru": "Инфраструктура и коммунальное хозяйство",
+      "title_en": "Infrastructure and utilities",
+      "groups": [
+        {
+          "slug": "networks",
+          "title_ru": "Инженерные сети",
+          "title_en": "Engineering networks",
+          "topics": [
+            {
+              "slug": "water-supply",
+              "title_ru": "Водоснабжение",
+              "title_en": "Water supply"
+            },
+            {
+              "slug": "sewers-drainage",
+              "title_ru": "Канализация и водоотведение",
+              "title_en": "Sewers and drainage"
+            },
+            {
+              "slug": "gas-networks",
+              "title_ru": "Газовые сети",
+              "title_en": "Gas networks"
+            },
+            {
+              "slug": "electricity-grids",
+              "title_ru": "Электросети",
+              "title_en": "Electricity grids"
+            },
+            {
+              "slug": "postal-telegraph-lines",
+              "title_ru": "Почтово-телеграфная сеть",
+              "title_en": "Postal and telegraph lines"
+            }
+          ]
+        },
+        {
+          "slug": "public-works",
+          "title_ru": "Общественные сооружения",
+          "title_en": "Public works",
+          "topics": [
+            {
+              "slug": "roads-bridges",
+              "title_ru": "Дороги и мосты",
+              "title_en": "Roads and bridges"
+            },
+            {
+              "slug": "dams-canals",
+              "title_ru": "Плотины и каналы",
+              "title_en": "Dams and canals"
+            },
+            {
+              "slug": "street-lighting",
+              "title_ru": "Уличное освещение",
+              "title_en": "Street lighting"
+            },
+            {
+              "slug": "municipal-waste",
+              "title_ru": "Городские отходы",
+              "title_en": "Municipal waste"
+            },
+            {
+              "slug": "public-baths-laundries",
+              "title_ru": "Бани и прачечные",
+              "title_en": "Public baths and laundries"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "transport-logistics",
+      "title_ru": "Транспорт и логистика",
+      "title_en": "Transport and logistics",
+      "groups": [
+        {
+          "slug": "modes",
+          "title_ru": "Виды транспорта",
+          "title_en": "Transport modes",
+          "topics": [
+            {
+              "slug": "railways-locomotives",
+              "title_ru": "Железные дороги и локомотивы",
+              "title_en": "Railways and locomotives"
+            },
+            {
+              "slug": "trams-metros",
+              "title_ru": "Трамваи и метро",
+              "title_en": "Trams and metros"
+            },
+            {
+              "slug": "horse-transport",
+              "title_ru": "Гужевой транспорт",
+              "title_en": "Horse transport"
+            },
+            {
+              "slug": "motor-vehicles",
+              "title_ru": "Автомобили и грузовики",
+              "title_en": "Motor vehicles"
+            },
+            {
+              "slug": "river-sea-shipping",
+              "title_ru": "Речное и морское судоходство",
+              "title_en": "River and sea shipping"
+            },
+            {
+              "slug": "civil-aviation",
+              "title_ru": "Гражданская авиация",
+              "title_en": "Civil aviation"
+            }
+          ]
+        },
+        {
+          "slug": "operations",
+          "title_ru": "Эксплуатация и потоки",
+          "title_en": "Operations and flows",
+          "topics": [
+            {
+              "slug": "passenger-travel",
+              "title_ru": "Пассажирские перевозки",
+              "title_en": "Passenger travel"
+            },
+            {
+              "slug": "freight-handling",
+              "title_ru": "Грузоперевозки и перевалка",
+              "title_en": "Freight handling"
+            },
+            {
+              "slug": "stations-terminals",
+              "title_ru": "Вокзалы станции и терминалы",
+              "title_en": "Stations and terminals"
+            },
+            {
+              "slug": "tickets-timetables",
+              "title_ru": "Билеты и расписания",
+              "title_en": "Tickets and timetables"
+            },
+            {
+              "slug": "maintenance-depots",
+              "title_ru": "Ремонтные депо",
+              "title_en": "Maintenance depots"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "energy-fuels",
+      "title_ru": "Энергетика и топливо",
+      "title_en": "Energy and fuels",
+      "groups": [
+        {
+          "slug": "generation",
+          "title_ru": "Производство энергии",
+          "title_en": "Energy generation",
+          "topics": [
+            {
+              "slug": "steam-boilers",
+              "title_ru": "Паровые котлы",
+              "title_en": "Steam boilers"
+            },
+            {
+              "slug": "power-stations",
+              "title_ru": "Электростанции",
+              "title_en": "Power stations"
+            },
+            {
+              "slug": "hydropower",
+              "title_ru": "Гидроэнергетика",
+              "title_en": "Hydropower"
+            },
+            {
+              "slug": "internal-combustion-generators",
+              "title_ru": "Двигатели-генераторы",
+              "title_en": "Engine generators"
+            },
+            {
+              "slug": "industrial-heat",
+              "title_ru": "Промышленное тепло",
+              "title_en": "Industrial heat"
+            }
+          ]
+        },
+        {
+          "slug": "fuel-and-use",
+          "title_ru": "Топливо и энергопотребление",
+          "title_en": "Fuel and energy use",
+          "topics": [
+            {
+              "slug": "coal-coke",
+              "title_ru": "Уголь и кокс",
+              "title_en": "Coal and coke"
+            },
+            {
+              "slug": "firewood-charcoal",
+              "title_ru": "Дрова и древесный уголь",
+              "title_en": "Firewood and charcoal"
+            },
+            {
+              "slug": "kerosene-fuel-oil",
+              "title_ru": "Керосин и мазут",
+              "title_en": "Kerosene and fuel oil"
+            },
+            {
+              "slug": "domestic-stoves-heating",
+              "title_ru": "Домашние печи и отопление",
+              "title_en": "Domestic stoves and heating"
+            },
+            {
+              "slug": "fuel-prices-supply",
+              "title_ru": "Цены и снабжение топливом",
+              "title_en": "Fuel prices and supply"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "engineering-technology",
+      "title_ru": "Техника и инженерия",
+      "title_en": "Engineering and technology",
+      "groups": [
+        {
+          "slug": "mechanical-engineering",
+          "title_ru": "Механические технологии",
+          "title_en": "Mechanical engineering",
+          "topics": [
+            {
+              "slug": "steam-machinery",
+              "title_ru": "Паровые машины",
+              "title_en": "Steam machinery"
+            },
+            {
+              "slug": "gears-transmissions",
+              "title_ru": "Шестерни и трансмиссии",
+              "title_en": "Gears and transmissions"
+            },
+            {
+              "slug": "hydraulics-pneumatics",
+              "title_ru": "Гидравлика и пневматика",
+              "title_en": "Hydraulics and pneumatics"
+            },
+            {
+              "slug": "precision-instruments",
+              "title_ru": "Точные приборы",
+              "title_en": "Precision instruments"
+            },
+            {
+              "slug": "workshop-tools",
+              "title_ru": "Станки и инструменты",
+              "title_en": "Workshop tools"
+            }
+          ]
+        },
+        {
+          "slug": "electrical-and-information",
+          "title_ru": "Электрика и информационные технологии",
+          "title_en": "Electrical and information technology",
+          "topics": [
+            {
+              "slug": "electrical-motors",
+              "title_ru": "Электродвигатели",
+              "title_en": "Electric motors"
+            },
+            {
+              "slug": "telegraphy-telephony",
+              "title_ru": "Телеграф и телефон",
+              "title_en": "Telegraphy and telephony"
+            },
+            {
+              "slug": "radio-electronics",
+              "title_ru": "Радио и электроника",
+              "title_en": "Radio and electronics"
+            },
+            {
+              "slug": "photography-cinema-tech",
+              "title_ru": "Фото- и кинотехника",
+              "title_en": "Photography and cinema technology"
+            },
+            {
+              "slug": "mechanical-calculators",
+              "title_ru": "Счётные механизмы",
+              "title_en": "Mechanical calculators"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "science-research",
+      "title_ru": "Наука и исследования",
+      "title_en": "Science and research",
+      "groups": [
+        {
+          "slug": "disciplines",
+          "title_ru": "Научные дисциплины",
+          "title_en": "Scientific disciplines",
+          "topics": [
+            {
+              "slug": "mathematics-logic",
+              "title_ru": "Математика и логика",
+              "title_en": "Mathematics and logic"
+            },
+            {
+              "slug": "physics",
+              "title_ru": "Физика",
+              "title_en": "Physics"
+            },
+            {
+              "slug": "chemistry",
+              "title_ru": "Химия",
+              "title_en": "Chemistry"
+            },
+            {
+              "slug": "biology-genetics",
+              "title_ru": "Биология и генетика",
+              "title_en": "Biology and genetics"
+            },
+            {
+              "slug": "geology-astronomy",
+              "title_ru": "Геология и астрономия",
+              "title_en": "Geology and astronomy"
+            }
+          ]
+        },
+        {
+          "slug": "research-practice",
+          "title_ru": "Организация науки",
+          "title_en": "Research practice",
+          "topics": [
+            {
+              "slug": "laboratories-equipment",
+              "title_ru": "Лаборатории и оборудование",
+              "title_en": "Laboratories and equipment"
+            },
+            {
+              "slug": "academies-societies",
+              "title_ru": "Академии и научные общества",
+              "title_en": "Academies and learned societies"
+            },
+            {
+              "slug": "scientific-publications",
+              "title_ru": "Научные публикации",
+              "title_en": "Scientific publications"
+            },
+            {
+              "slug": "patents-inventions",
+              "title_ru": "Патенты и изобретения",
+              "title_en": "Patents and inventions"
+            },
+            {
+              "slug": "research-funding",
+              "title_ru": "Финансирование науки",
+              "title_en": "Research funding"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "medicine-health",
+      "title_ru": "Медицина и здоровье",
+      "title_en": "Medicine and health",
+      "groups": [
+        {
+          "slug": "clinical-medicine",
+          "title_ru": "Медицинская практика",
+          "title_en": "Clinical practice",
+          "topics": [
+            {
+              "slug": "hospitals-clinics",
+              "title_ru": "Больницы и клиники",
+              "title_en": "Hospitals and clinics"
+            },
+            {
+              "slug": "surgery-anesthesia",
+              "title_ru": "Хирургия и анестезия",
+              "title_en": "Surgery and anesthesia"
+            },
+            {
+              "slug": "pharmacy-drugs",
+              "title_ru": "Аптеки и лекарства",
+              "title_en": "Pharmacy and medicines"
+            },
+            {
+              "slug": "dentistry",
+              "title_ru": "Стоматология",
+              "title_en": "Dentistry"
+            },
+            {
+              "slug": "mental-health",
+              "title_ru": "Психиатрия и психическое здоровье",
+              "title_en": "Psychiatry and mental health"
+            }
+          ]
+        },
+        {
+          "slug": "public-health",
+          "title_ru": "Общественное здоровье",
+          "title_en": "Public health",
+          "topics": [
+            {
+              "slug": "epidemics-infectious-disease",
+              "title_ru": "Эпидемии и инфекции",
+              "title_en": "Epidemics and infectious diseases"
+            },
+            {
+              "slug": "maternal-child-health",
+              "title_ru": "Материнство и детское здоровье",
+              "title_en": "Maternal and child health"
+            },
+            {
+              "slug": "sanitation-hygiene",
+              "title_ru": "Санитария и гигиена",
+              "title_en": "Sanitation and hygiene"
+            },
+            {
+              "slug": "vaccination-health-campaigns",
+              "title_ru": "Вакцинация и кампании здоровья",
+              "title_en": "Vaccination and health campaigns"
+            },
+            {
+              "slug": "occupational-diseases",
+              "title_ru": "Профессиональные заболевания",
+              "title_en": "Occupational diseases"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "education-knowledge",
+      "title_ru": "Образование и знания",
+      "title_en": "Education and knowledge",
+      "groups": [
+        {
+          "slug": "school-systems",
+          "title_ru": "Система образования",
+          "title_en": "School systems",
+          "topics": [
+            {
+              "slug": "primary-schools",
+              "title_ru": "Начальная школа",
+              "title_en": "Primary schools"
+            },
+            {
+              "slug": "secondary-gymnasiums",
+              "title_ru": "Средняя школа и гимназии",
+              "title_en": "Secondary schools and gymnasiums"
+            },
+            {
+              "slug": "universities",
+              "title_ru": "Университеты",
+              "title_en": "Universities"
+            },
+            {
+              "slug": "vocational-technical-schools",
+              "title_ru": "Ремесленные и технические училища",
+              "title_en": "Vocational and technical schools"
+            },
+            {
+              "slug": "women-education",
+              "title_ru": "Женское образование",
+              "title_en": "Women's education"
+            }
+          ]
+        },
+        {
+          "slug": "knowledge-access",
+          "title_ru": "Распространение знаний",
+          "title_en": "Access to knowledge",
+          "topics": [
+            {
+              "slug": "literacy-rates",
+              "title_ru": "Грамотность",
+              "title_en": "Literacy rates"
+            },
+            {
+              "slug": "libraries-reading-rooms",
+              "title_ru": "Библиотеки и читальни",
+              "title_en": "Libraries and reading rooms"
+            },
+            {
+              "slug": "textbooks-curricula",
+              "title_ru": "Учебники и программы",
+              "title_en": "Textbooks and curricula"
+            },
+            {
+              "slug": "popular-science",
+              "title_ru": "Популярная наука",
+              "title_en": "Popular science"
+            },
+            {
+              "slug": "adult-education",
+              "title_ru": "Образование взрослых",
+              "title_en": "Adult education"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "social-structure",
+      "title_ru": "Социальная структура",
+      "title_en": "Social structure",
+      "groups": [
+        {
+          "slug": "classes-estates",
+          "title_ru": "Классы и сословия",
+          "title_en": "Classes and estates",
+          "topics": [
+            {
+              "slug": "aristocracy-nobility",
+              "title_ru": "Аристократия и дворянство",
+              "title_en": "Aristocracy and nobility"
+            },
+            {
+              "slug": "bourgeoisie-merchants",
+              "title_ru": "Буржуазия и купечество",
+              "title_en": "Bourgeoisie and merchants"
+            },
+            {
+              "slug": "workers-proletariat",
+              "title_ru": "Рабочие и пролетариат",
+              "title_en": "Workers and proletariat"
+            },
+            {
+              "slug": "peasantry",
+              "title_ru": "Крестьянство",
+              "title_en": "Peasantry"
+            },
+            {
+              "slug": "intelligentsia-professions",
+              "title_ru": "Интеллигенция",
+              "title_en": "Intelligentsia"
+            }
+          ]
+        },
+        {
+          "slug": "inequality-welfare",
+          "title_ru": "Неравенство и благосостояние",
+          "title_en": "Inequality and welfare",
+          "topics": [
+            {
+              "slug": "poverty-homelessness",
+              "title_ru": "Бедность и бездомность",
+              "title_en": "Poverty and homelessness"
+            },
+            {
+              "slug": "social-mobility",
+              "title_ru": "Социальная мобильность",
+              "title_en": "Social mobility"
+            },
+            {
+              "slug": "gender-roles",
+              "title_ru": "Гендерные роли",
+              "title_en": "Gender roles"
+            },
+            {
+              "slug": "disability-aging",
+              "title_ru": "Инвалидность и старость",
+              "title_en": "Disability and aging"
+            },
+            {
+              "slug": "charity-mutual-aid",
+              "title_ru": "Благотворительность и взаимопомощь",
+              "title_en": "Charity and mutual aid"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "labor-professions",
+      "title_ru": "Труд и профессии",
+      "title_en": "Labor and professions",
+      "groups": [
+        {
+          "slug": "employment",
+          "title_ru": "Рынок труда",
+          "title_en": "Employment",
+          "topics": [
+            {
+              "slug": "wages-work-hours",
+              "title_ru": "Заработки и рабочее время",
+              "title_en": "Wages and work hours"
+            },
+            {
+              "slug": "unemployment",
+              "title_ru": "Безработица",
+              "title_en": "Unemployment"
+            },
+            {
+              "slug": "trade-unions-strikes",
+              "title_ru": "Профсоюзы и забастовки",
+              "title_en": "Trade unions and strikes"
+            },
+            {
+              "slug": "women-child-labor",
+              "title_ru": "Женский и детский труд",
+              "title_en": "Women and child labor"
+            },
+            {
+              "slug": "worker-migration",
+              "title_ru": "Миграция рабочих",
+              "title_en": "Worker migration"
+            }
+          ]
+        },
+        {
+          "slug": "working-conditions",
+          "title_ru": "Условия работы",
+          "title_en": "Working conditions",
+          "topics": [
+            {
+              "slug": "crafts-apprenticeships",
+              "title_ru": "Ремёсла и ученичество",
+              "title_en": "Crafts and apprenticeships"
+            },
+            {
+              "slug": "factory-shopfloor",
+              "title_ru": "Фабричный труд",
+              "title_en": "Factory shop floor"
+            },
+            {
+              "slug": "office-clerical-work",
+              "title_ru": "Конторский труд",
+              "title_en": "Office and clerical work"
+            },
+            {
+              "slug": "domestic-service",
+              "title_ru": "Домашняя прислуга",
+              "title_en": "Domestic service"
+            },
+            {
+              "slug": "workplace-safety",
+              "title_ru": "Охрана труда",
+              "title_en": "Workplace safety"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "religion-belief",
+      "title_ru": "Религия и мировоззрение",
+      "title_en": "Religion and belief",
+      "groups": [
+        {
+          "slug": "religious-traditions",
+          "title_ru": "Религиозные традиции",
+          "title_en": "Religious traditions",
+          "topics": [
+            {
+              "slug": "orthodoxy",
+              "title_ru": "Православие",
+              "title_en": "Eastern Orthodoxy"
+            },
+            {
+              "slug": "catholic-protestant",
+              "title_ru": "Католицизм и протестантизм",
+              "title_en": "Catholicism and Protestantism"
+            },
+            {
+              "slug": "judaism",
+              "title_ru": "Иудаизм",
+              "title_en": "Judaism"
+            },
+            {
+              "slug": "islam",
+              "title_ru": "Ислам",
+              "title_en": "Islam"
+            },
+            {
+              "slug": "buddhism-other",
+              "title_ru": "Буддизм и другие традиции",
+              "title_en": "Buddhism and other traditions"
+            }
+          ]
+        },
+        {
+          "slug": "religion-society",
+          "title_ru": "Религия в обществе",
+          "title_en": "Religion and society",
+          "topics": [
+            {
+              "slug": "church-state-relations",
+              "title_ru": "Церковь и государство",
+              "title_en": "Church-state relations"
+            },
+            {
+              "slug": "clergy-monasteries",
+              "title_ru": "Духовенство и монастыри",
+              "title_en": "Clergy and monasteries"
+            },
+            {
+              "slug": "rituals-festivals",
+              "title_ru": "Обряды и праздники",
+              "title_en": "Rituals and festivals"
+            },
+            {
+              "slug": "popular-superstitions",
+              "title_ru": "Народные поверья",
+              "title_en": "Popular beliefs and superstitions"
+            },
+            {
+              "slug": "secularization-atheism",
+              "title_ru": "Секуляризация и атеизм",
+              "title_en": "Secularization and atheism"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "media-communication",
+      "title_ru": "Пресса и коммуникации",
+      "title_en": "Media and communication",
+      "groups": [
+        {
+          "slug": "mass-media",
+          "title_ru": "Массовые медиа",
+          "title_en": "Mass media",
+          "topics": [
+            {
+              "slug": "newspapers-periodicals",
+              "title_ru": "Газеты и журналы",
+              "title_en": "Newspapers and periodicals"
+            },
+            {
+              "slug": "book-publishing",
+              "title_ru": "Книгоиздание",
+              "title_en": "Book publishing"
+            },
+            {
+              "slug": "radio-broadcasting",
+              "title_ru": "Радиовещание",
+              "title_en": "Radio broadcasting"
+            },
+            {
+              "slug": "news-agencies",
+              "title_ru": "Информационные агентства",
+              "title_en": "News agencies"
+            },
+            {
+              "slug": "newsreels",
+              "title_ru": "Кинохроника",
+              "title_en": "Newsreels"
+            }
+          ]
+        },
+        {
+          "slug": "public-communication",
+          "title_ru": "Публичная коммуникация",
+          "title_en": "Public communication",
+          "topics": [
+            {
+              "slug": "advertising-posters",
+              "title_ru": "Реклама и плакаты",
+              "title_en": "Advertising and posters"
+            },
+            {
+              "slug": "political-propaganda",
+              "title_ru": "Политическая пропаганда",
+              "title_en": "Political propaganda"
+            },
+            {
+              "slug": "postal-correspondence",
+              "title_ru": "Почта и переписка",
+              "title_en": "Postal correspondence"
+            },
+            {
+              "slug": "public-signage",
+              "title_ru": "Вывески и объявления",
+              "title_en": "Public signage"
+            },
+            {
+              "slug": "rumors-public-opinion",
+              "title_ru": "Слухи и общественное мнение",
+              "title_en": "Rumors and public opinion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "arts-culture",
+      "title_ru": "Культура и искусство",
+      "title_en": "Arts and culture",
+      "groups": [
+        {
+          "slug": "creative-fields",
+          "title_ru": "Виды искусства",
+          "title_en": "Artistic fields",
+          "topics": [
+            {
+              "slug": "literature-poetry",
+              "title_ru": "Литература и поэзия",
+              "title_en": "Literature and poetry"
+            },
+            {
+              "slug": "painting-sculpture",
+              "title_ru": "Живопись и скульптура",
+              "title_en": "Painting and sculpture"
+            },
+            {
+              "slug": "theatre-opera",
+              "title_ru": "Театр и опера",
+              "title_en": "Theatre and opera"
+            },
+            {
+              "slug": "music-dance",
+              "title_ru": "Музыка и танец",
+              "title_en": "Music and dance"
+            },
+            {
+              "slug": "cinema-entertainment",
+              "title_ru": "Кино и развлечения",
+              "title_en": "Cinema and entertainment"
+            }
+          ]
+        },
+        {
+          "slug": "cultural-life",
+          "title_ru": "Культурная жизнь",
+          "title_en": "Cultural life",
+          "topics": [
+            {
+              "slug": "artistic-movements",
+              "title_ru": "Художественные направления",
+              "title_en": "Artistic movements"
+            },
+            {
+              "slug": "museums-exhibitions",
+              "title_ru": "Музеи и выставки",
+              "title_en": "Museums and exhibitions"
+            },
+            {
+              "slug": "festivals-holidays",
+              "title_ru": "Фестивали и праздники",
+              "title_en": "Festivals and holidays"
+            },
+            {
+              "slug": "sports-physical-culture",
+              "title_ru": "Спорт и физкультура",
+              "title_en": "Sports and physical culture"
+            },
+            {
+              "slug": "clubs-societies",
+              "title_ru": "Клубы и общества",
+              "title_en": "Clubs and societies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "architecture-urbanism",
+      "title_ru": "Архитектура и градостроительство",
+      "title_en": "Architecture and urbanism",
+      "groups": [
+        {
+          "slug": "building-types",
+          "title_ru": "Типология зданий",
+          "title_en": "Building typologies",
+          "topics": [
+            {
+              "slug": "palaces-mansions",
+              "title_ru": "Дворцы и особняки",
+              "title_en": "Palaces and mansions"
+            },
+            {
+              "slug": "tenements-worker-housing",
+              "title_ru": "Доходные дома и рабочее жильё",
+              "title_en": "Tenements and worker housing"
+            },
+            {
+              "slug": "factories-depots",
+              "title_ru": "Фабрики и депо",
+              "title_en": "Factories and depots"
+            },
+            {
+              "slug": "ministries-courts",
+              "title_ru": "Министерства и суды",
+              "title_en": "Ministries and courts"
+            },
+            {
+              "slug": "churches-cathedrals",
+              "title_ru": "Храмы и соборы",
+              "title_en": "Churches and cathedrals"
+            },
+            {
+              "slug": "stations-public-buildings",
+              "title_ru": "Вокзалы и общественные здания",
+              "title_en": "Stations and public buildings"
+            }
+          ]
+        },
+        {
+          "slug": "urban-form",
+          "title_ru": "Городская среда",
+          "title_en": "Urban form",
+          "topics": [
+            {
+              "slug": "street-planning",
+              "title_ru": "Планировка улиц",
+              "title_en": "Street planning"
+            },
+            {
+              "slug": "wealthy-poor-districts",
+              "title_ru": "Богатые и бедные кварталы",
+              "title_en": "Wealthy and poor districts"
+            },
+            {
+              "slug": "courtyards-passageways",
+              "title_ru": "Дворы и проходы",
+              "title_en": "Courtyards and passageways"
+            },
+            {
+              "slug": "interiors-decoration",
+              "title_ru": "Интерьеры и отделка",
+              "title_en": "Interiors and decoration"
+            },
+            {
+              "slug": "construction-materials",
+              "title_ru": "Строительные материалы",
+              "title_en": "Construction materials"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "everyday-life",
+      "title_ru": "Повседневность и быт",
+      "title_en": "Everyday life",
+      "groups": [
+        {
+          "slug": "home-life",
+          "title_ru": "Дом и домашнее хозяйство",
+          "title_en": "Home life",
+          "topics": [
+            {
+              "slug": "domestic-interiors",
+              "title_ru": "Домашние интерьеры",
+              "title_en": "Domestic interiors"
+            },
+            {
+              "slug": "cooking-kitchens",
+              "title_ru": "Кухня и приготовление пищи",
+              "title_en": "Cooking and kitchens"
+            },
+            {
+              "slug": "heating-lighting",
+              "title_ru": "Отопление и освещение",
+              "title_en": "Heating and lighting"
+            },
+            {
+              "slug": "washing-cleaning",
+              "title_ru": "Стирка и уборка",
+              "title_en": "Washing and cleaning"
+            },
+            {
+              "slug": "housing-costs-rent",
+              "title_ru": "Аренда и стоимость жилья",
+              "title_en": "Housing costs and rent"
+            }
+          ]
+        },
+        {
+          "slug": "personal-life",
+          "title_ru": "Частная жизнь",
+          "title_en": "Personal life",
+          "topics": [
+            {
+              "slug": "clothing-fashion",
+              "title_ru": "Одежда и мода",
+              "title_en": "Clothing and fashion"
+            },
+            {
+              "slug": "food-drink-menus",
+              "title_ru": "Еда напитки и меню",
+              "title_en": "Food drink and menus"
+            },
+            {
+              "slug": "family-childhood",
+              "title_ru": "Семья и детство",
+              "title_en": "Family and childhood"
+            },
+            {
+              "slug": "etiquette-manners",
+              "title_ru": "Этикет и манеры",
+              "title_en": "Etiquette and manners"
+            },
+            {
+              "slug": "leisure-hobbies",
+              "title_ru": "Досуг и увлечения",
+              "title_en": "Leisure and hobbies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "visual-material-culture",
+      "title_ru": "Визуальная и материальная культура",
+      "title_en": "Visual and material culture",
+      "groups": [
+        {
+          "slug": "printed-materials",
+          "title_ru": "Печатные объекты",
+          "title_en": "Printed artifacts",
+          "topics": [
+            {
+              "slug": "typography-orthography",
+              "title_ru": "Шрифты и орфография",
+              "title_en": "Typography and orthography"
+            },
+            {
+              "slug": "banknotes-coins",
+              "title_ru": "Банкноты и монеты",
+              "title_en": "Banknotes and coins"
+            },
+            {
+              "slug": "tickets-documents",
+              "title_ru": "Билеты и документы",
+              "title_en": "Tickets and documents"
+            },
+            {
+              "slug": "packaging-labels",
+              "title_ru": "Упаковка и этикетки",
+              "title_en": "Packaging and labels"
+            },
+            {
+              "slug": "technical-catalogs",
+              "title_ru": "Технические каталоги",
+              "title_en": "Technical catalogs"
+            }
+          ]
+        },
+        {
+          "slug": "physical-artifacts",
+          "title_ru": "Предметы и визуальные знаки",
+          "title_en": "Physical artifacts and symbols",
+          "topics": [
+            {
+              "slug": "furniture-fixtures",
+              "title_ru": "Мебель и фурнитура",
+              "title_en": "Furniture and fixtures"
+            },
+            {
+              "slug": "household-objects",
+              "title_ru": "Предметы быта",
+              "title_en": "Household objects"
+            },
+            {
+              "slug": "heraldry-flags-emblems",
+              "title_ru": "Гербы флаги и эмблемы",
+              "title_en": "Heraldry flags and emblems"
+            },
+            {
+              "slug": "uniforms-insignia",
+              "title_ru": "Униформа и знаки",
+              "title_en": "Uniforms and insignia"
+            },
+            {
+              "slug": "period-photography",
+              "title_ru": "Историческая фотография",
+              "title_en": "Period photography"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "crises-disasters",
+      "title_ru": "Кризисы и катастрофы",
+      "title_en": "Crises and disasters",
+      "groups": [
+        {
+          "slug": "natural-public-health",
+          "title_ru": "Природные и санитарные катастрофы",
+          "title_en": "Natural and health disasters",
+          "topics": [
+            {
+              "slug": "floods",
+              "title_ru": "Наводнения",
+              "title_en": "Floods"
+            },
+            {
+              "slug": "fires",
+              "title_ru": "Пожары",
+              "title_en": "Fires"
+            },
+            {
+              "slug": "drought-famine",
+              "title_ru": "Засухи и голод",
+              "title_en": "Droughts and famine"
+            },
+            {
+              "slug": "epidemics-pandemics",
+              "title_ru": "Эпидемии и пандемии",
+              "title_en": "Epidemics and pandemics"
+            },
+            {
+              "slug": "severe-winters",
+              "title_ru": "Суровые зимы",
+              "title_en": "Severe winters"
+            }
+          ]
+        },
+        {
+          "slug": "societal-crises",
+          "title_ru": "Общественные потрясения",
+          "title_en": "Social crises",
+          "topics": [
+            {
+              "slug": "revolutions-civil-wars",
+              "title_ru": "Революции и гражданские войны",
+              "title_en": "Revolutions and civil wars"
+            },
+            {
+              "slug": "depressions-bank-failures",
+              "title_ru": "Депрессии и крахи банков",
+              "title_en": "Depressions and bank failures"
+            },
+            {
+              "slug": "wartime-displacement",
+              "title_ru": "Военное перемещение населения",
+              "title_en": "Wartime displacement"
+            },
+            {
+              "slug": "reconstruction-relief",
+              "title_ru": "Восстановление и помощь",
+              "title_en": "Reconstruction and relief"
+            },
+            {
+              "slug": "supply-infrastructure-collapse",
+              "title_ru": "Срыв снабжения и инфраструктуры",
+              "title_en": "Supply and infrastructure collapse"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "russian-empire",
+      "title_ru": "Российская империя",
+      "title_en": "Russian Empire",
+      "groups": [
+        {
+          "slug": "imperial-institutions",
+          "title_ru": "Имперские институты 1910–1917",
+          "title_en": "Imperial institutions 1910–1917",
+          "topics": [
+            {
+              "slug": "romanov-court",
+              "title_ru": "Романовы и двор",
+              "title_en": "Romanovs and imperial court"
+            },
+            {
+              "slug": "state-duma-council",
+              "title_ru": "Государственная дума и Государственный совет",
+              "title_en": "State Duma and State Council"
+            },
+            {
+              "slug": "ministries-officialdom",
+              "title_ru": "Министерства и чиновничество",
+              "title_en": "Ministries and officialdom"
+            },
+            {
+              "slug": "zemstvos-municipalities",
+              "title_ru": "Земства и городские думы",
+              "title_en": "Zemstvos and municipalities"
+            },
+            {
+              "slug": "imperial-police-okhrana",
+              "title_ru": "Полиция и охранка",
+              "title_en": "Imperial police and Okhrana"
+            }
+          ]
+        },
+        {
+          "slug": "society-economy",
+          "title_ru": "Общество и хозяйство империи",
+          "title_en": "Society and economy of the empire",
+          "topics": [
+            {
+              "slug": "stolypin-agrarian-reform",
+              "title_ru": "Столыпинская аграрная реформа",
+              "title_en": "Stolypin agrarian reform"
+            },
+            {
+              "slug": "imperial-industry-finance",
+              "title_ru": "Промышленность и финансы империи",
+              "title_en": "Imperial industry and finance"
+            },
+            {
+              "slug": "imperial-army-navy",
+              "title_ru": "Императорская армия и флот",
+              "title_en": "Imperial army and navy"
+            },
+            {
+              "slug": "imperial-cities",
+              "title_ru": "Города Российской империи",
+              "title_en": "Cities of the Russian Empire"
+            },
+            {
+              "slug": "borderlands-nationalities",
+              "title_ru": "Окраины и национальности",
+              "title_en": "Borderlands and nationalities"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "soviet-union",
+      "title_ru": "РСФСР и СССР",
+      "title_en": "Soviet Russia and USSR",
+      "groups": [
+        {
+          "slug": "state-transformation",
+          "title_ru": "Становление советского государства",
+          "title_en": "Formation of the Soviet state",
+          "topics": [
+            {
+              "slug": "october-revolution",
+              "title_ru": "Октябрьская революция",
+              "title_en": "October Revolution"
+            },
+            {
+              "slug": "civil-war-interventions",
+              "title_ru": "Гражданская война и интервенции",
+              "title_en": "Civil war and interventions"
+            },
+            {
+              "slug": "war-communism",
+              "title_ru": "Военный коммунизм",
+              "title_en": "War communism"
+            },
+            {
+              "slug": "new-economic-policy",
+              "title_ru": "Новая экономическая политика",
+              "title_en": "New Economic Policy"
+            },
+            {
+              "slug": "soviet-state-apparatus",
+              "title_ru": "Советский государственный аппарат",
+              "title_en": "Soviet state apparatus"
+            }
+          ]
+        },
+        {
+          "slug": "society-production",
+          "title_ru": "Советское общество и хозяйство",
+          "title_en": "Soviet society and production",
+          "topics": [
+            {
+              "slug": "five-year-plans",
+              "title_ru": "Пятилетки",
+              "title_en": "Five-year plans"
+            },
+            {
+              "slug": "collectivization",
+              "title_ru": "Коллективизация",
+              "title_en": "Collectivization"
+            },
+            {
+              "slug": "industrialization",
+              "title_ru": "Индустриализация",
+              "title_en": "Industrialization"
+            },
+            {
+              "slug": "soviet-everyday-life",
+              "title_ru": "Советский повседневный быт",
+              "title_en": "Soviet everyday life"
+            },
+            {
+              "slug": "repression-gulag",
+              "title_ru": "Репрессии и ГУЛАГ",
+              "title_en": "Repression and Gulag"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "regional-comparisons",
+      "title_ru": "Страны и сравнительная история",
+      "title_en": "Countries and comparative history",
+      "groups": [
+        {
+          "slug": "europe",
+          "title_ru": "Европа",
+          "title_en": "Europe",
+          "topics": [
+            {
+              "slug": "germany-weimar-third-reich",
+              "title_ru": "Германия Веймар и Третий рейх",
+              "title_en": "Germany Weimar and Third Reich"
+            },
+            {
+              "slug": "austria-hungary-successors",
+              "title_ru": "Австро-Венгрия и государства-наследники",
+              "title_en": "Austria-Hungary and successor states"
+            },
+            {
+              "slug": "poland-baltics-finland",
+              "title_ru": "Польша Балтия и Финляндия",
+              "title_en": "Poland Baltics and Finland"
+            },
+            {
+              "slug": "britain-france",
+              "title_ru": "Великобритания и Франция",
+              "title_en": "Britain and France"
+            },
+            {
+              "slug": "italy-balkans-scandinavia",
+              "title_ru": "Италия Балканы и Скандинавия",
+              "title_en": "Italy Balkans and Scandinavia"
+            }
+          ]
+        },
+        {
+          "slug": "outside-europe",
+          "title_ru": "Мир вне Европы",
+          "title_en": "World outside Europe",
+          "topics": [
+            {
+              "slug": "ottoman-turkey-middle-east",
+              "title_ru": "Османская империя Турция и Ближний Восток",
+              "title_en": "Ottoman Empire Turkey and Middle East"
+            },
+            {
+              "slug": "east-asia",
+              "title_ru": "Китай Япония и Восточная Азия",
+              "title_en": "China Japan and East Asia"
+            },
+            {
+              "slug": "north-america",
+              "title_ru": "США и Канада",
+              "title_en": "United States and Canada"
+            },
+            {
+              "slug": "latin-america",
+              "title_ru": "Латинская Америка",
+              "title_en": "Latin America"
+            },
+            {
+              "slug": "africa-south-asia",
+              "title_ru": "Африка и Южная Азия",
+              "title_en": "Africa and South Asia"
+            },
+            {
+              "slug": "southeast-asia",
+              "title_en": "Southeast Asia"
+            },
+            {
+              "slug": "oceania",
+              "title_en": "Oceania and the Pacific"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "people-biographies",
+      "title_ru": "Люди и биографии",
+      "title_en": "People and biographies",
+      "groups": [
+        {
+          "slug": "elites",
+          "title_ru": "Элиты и публичные фигуры",
+          "title_en": "Elites and public figures",
+          "topics": [
+            {
+              "slug": "rulers-politicians",
+              "title_ru": "Правители и политики",
+              "title_en": "Rulers and politicians"
+            },
+            {
+              "slug": "generals-admirals",
+              "title_ru": "Генералы и адмиралы",
+              "title_en": "Generals and admirals"
+            },
+            {
+              "slug": "industrialists-financiers",
+              "title_ru": "Промышленники и финансисты",
+              "title_en": "Industrialists and financiers"
+            },
+            {
+              "slug": "scientists-inventors",
+              "title_ru": "Учёные и изобретатели",
+              "title_en": "Scientists and inventors"
+            },
+            {
+              "slug": "writers-artists",
+              "title_ru": "Писатели и художники",
+              "title_en": "Writers and artists"
+            }
+          ]
+        },
+        {
+          "slug": "social-voices",
+          "title_ru": "Голоса эпохи",
+          "title_en": "Voices of the period",
+          "topics": [
+            {
+              "slug": "workers-peasants",
+              "title_ru": "Рабочие и крестьяне",
+              "title_en": "Workers and peasants"
+            },
+            {
+              "slug": "women-activists",
+              "title_ru": "Женщины и активистки",
+              "title_en": "Women and activists"
+            },
+            {
+              "slug": "children-youth",
+              "title_ru": "Дети и молодёжь",
+              "title_en": "Children and youth"
+            },
+            {
+              "slug": "migrants-refugees",
+              "title_ru": "Мигранты и беженцы",
+              "title_en": "Migrants and refugees"
+            },
+            {
+              "slug": "diaries-oral-histories",
+              "title_ru": "Дневники и устные свидетельства",
+              "title_en": "Diaries and oral histories"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "statistics-data",
+      "title_ru": "Статистика и измерения",
+      "title_en": "Statistics and measurements",
+      "groups": [
+        {
+          "slug": "social-economic-data",
+          "title_ru": "Социально-экономические данные",
+          "title_en": "Socioeconomic data",
+          "topics": [
+            {
+              "slug": "historical-prices",
+              "title_ru": "Исторические цены",
+              "title_en": "Historical prices"
+            },
+            {
+              "slug": "wage-series",
+              "title_ru": "Ряды заработных плат",
+              "title_en": "Wage series"
+            },
+            {
+              "slug": "production-statistics",
+              "title_ru": "Статистика производства",
+              "title_en": "Production statistics"
+            },
+            {
+              "slug": "trade-statistics",
+              "title_ru": "Статистика торговли",
+              "title_en": "Trade statistics"
+            },
+            {
+              "slug": "population-tables",
+              "title_ru": "Таблицы населения",
+              "title_en": "Population tables"
+            }
+          ]
+        },
+        {
+          "slug": "technical-measurement",
+          "title_ru": "Технические измерения",
+          "title_en": "Technical measurements",
+          "topics": [
+            {
+              "slug": "technical-specifications",
+              "title_ru": "Технические спецификации",
+              "title_en": "Technical specifications"
+            },
+            {
+              "slug": "energy-consumption",
+              "title_ru": "Энергопотребление",
+              "title_en": "Energy consumption"
+            },
+            {
+              "slug": "transport-timetables",
+              "title_ru": "Транспортные расписания",
+              "title_en": "Transport timetables"
+            },
+            {
+              "slug": "meteorological-series",
+              "title_ru": "Метеорологические ряды",
+              "title_en": "Meteorological series"
+            },
+            {
+              "slug": "currency-units-conversion",
+              "title_ru": "Валюты меры и единицы",
+              "title_en": "Currencies measures and units"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "languages-ethnography",
+      "title_ru": "Языки и этнография",
+      "title_en": "Languages and ethnography",
+      "groups": [
+        {
+          "slug": "languages",
+          "title_ru": "Языки и письменность",
+          "title_en": "Languages and writing",
+          "topics": [
+            {
+              "slug": "russian-pre-reform-script",
+              "title_ru": "Дореформенная русская письменность",
+              "title_en": "Pre-reform Russian writing"
+            },
+            {
+              "slug": "russian-1918-reform",
+              "title_ru": "Орфографическая реформа 1918 года",
+              "title_en": "Russian orthographic reform of 1918"
+            },
+            {
+              "slug": "regional-languages-dialects",
+              "title_ru": "Региональные языки и диалекты",
+              "title_en": "Regional languages and dialects"
+            },
+            {
+              "slug": "foreign-language-use",
+              "title_ru": "Использование иностранных языков",
+              "title_en": "Foreign language use"
+            },
+            {
+              "slug": "naming-titles-address",
+              "title_ru": "Имена титулы и обращения",
+              "title_en": "Names titles and forms of address"
+            }
+          ]
+        },
+        {
+          "slug": "ethnography",
+          "title_ru": "Этнография и идентичности",
+          "title_en": "Ethnography and identities",
+          "topics": [
+            {
+              "slug": "ethnic-cultural-groups",
+              "title_ru": "Этнокультурные группы",
+              "title_en": "Ethnocultural groups"
+            },
+            {
+              "slug": "folk-costumes-crafts",
+              "title_ru": "Народные костюмы и ремёсла",
+              "title_en": "Folk costumes and crafts"
+            },
+            {
+              "slug": "regional-customs",
+              "title_ru": "Региональные обычаи",
+              "title_en": "Regional customs"
+            },
+            {
+              "slug": "folklore-oral-traditions",
+              "title_ru": "Фольклор и устные традиции",
+              "title_en": "Folklore and oral traditions"
+            },
+            {
+              "slug": "identity-assimilation",
+              "title_ru": "Идентичность и ассимиляция",
+              "title_en": "Identity and assimilation"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
