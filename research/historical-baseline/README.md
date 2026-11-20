@@ -1,66 +1,85 @@
-# Historical baseline / Историческая база 1910–1940
+# Historical baseline: source inventory, 1910–1940
 
-**Цель (RU).** Системная библиотека исторических фактов, документов, визуальных референсов, технических описаний, фото, карт, статистики и каталогов за 1910–1940 годы включительно. История Российской империи и СССР — существенная часть коллекции, но сравнительная история остального мира также включена.
+This area prepares a documented historical research corpus for the Russian Empire, its successor jurisdictions and the wider world. The current stage records **sources and planned extractions only**. It contains no completed historical baseline, approved historical claims or fictional canon.
 
-**Purpose (EN).** A systematic library of historical facts, records, visual references, technical documentation, photographs, maps, statistics, and catalogs from 1910 through 1940 inclusive. The Russian Empire and USSR are major subjects, alongside international comparisons.
+The source inventory and all new research tables are in English, as explicitly requested for this task. Earlier bilingual taxonomy descriptions remain where they were already present.
 
-## Каталог предметных областей / Subject taxonomy
+## Start here
 
-| Раздел / Domain | Групп / Groups | Рубрик / Topics |
-| --- | ---: | ---: |
-| [Хронология и периодизация / Chronology and periodization](chronology/README.md) | 2 | 11 |
-| [География и территория / Geography and territory](geography/README.md) | 2 | 10 |
-| [Климат и окружающая среда / Climate and environment](climate-environment/README.md) | 2 | 10 |
-| [Население и миграция / Population and migration](population-migration/README.md) | 2 | 10 |
-| [Государство и управление / State and government](state-government/README.md) | 2 | 10 |
-| [Политика и идеологии / Politics and ideologies](political-life/README.md) | 2 | 10 |
-| [Право и правосудие / Law and justice](law-justice/README.md) | 2 | 10 |
-| [Международные отношения / International relations](international-relations/README.md) | 2 | 10 |
-| [Армия и военное дело / Military affairs and warfare](military-warfare/README.md) | 2 | 11 |
-| [Безопасность и спецслужбы / Security and intelligence](security-intelligence/README.md) | 2 | 10 |
-| [Экономика и финансы / Economy and finance](economy-finance/README.md) | 2 | 10 |
-| [Торговля и коммерция / Commerce and trade](commerce-trade/README.md) | 2 | 10 |
-| [Промышленность и производство / Industry and manufacturing](industry-manufacturing/README.md) | 2 | 11 |
-| [Добыча и сырьё / Mining and raw materials](mining-resources/README.md) | 2 | 10 |
-| [Сельское хозяйство и продовольствие / Agriculture and food](agriculture-food/README.md) | 2 | 10 |
-| [Инфраструктура и коммунальное хозяйство / Infrastructure and utilities](infrastructure-utilities/README.md) | 2 | 10 |
-| [Транспорт и логистика / Transport and logistics](transport-logistics/README.md) | 2 | 11 |
-| [Энергетика и топливо / Energy and fuels](energy-fuels/README.md) | 2 | 10 |
-| [Техника и инженерия / Engineering and technology](engineering-technology/README.md) | 2 | 10 |
-| [Наука и исследования / Science and research](science-research/README.md) | 2 | 10 |
-| [Медицина и здоровье / Medicine and health](medicine-health/README.md) | 2 | 10 |
-| [Образование и знания / Education and knowledge](education-knowledge/README.md) | 2 | 10 |
-| [Социальная структура / Social structure](social-structure/README.md) | 2 | 10 |
-| [Труд и профессии / Labor and professions](labor-professions/README.md) | 2 | 10 |
-| [Религия и мировоззрение / Religion and belief](religion-belief/README.md) | 2 | 10 |
-| [Пресса и коммуникации / Media and communication](media-communication/README.md) | 2 | 10 |
-| [Культура и искусство / Arts and culture](arts-culture/README.md) | 2 | 10 |
-| [Архитектура и градостроительство / Architecture and urbanism](architecture-urbanism/README.md) | 2 | 11 |
-| [Повседневность и быт / Everyday life](everyday-life/README.md) | 2 | 10 |
-| [Визуальная и материальная культура / Visual and material culture](visual-material-culture/README.md) | 2 | 10 |
-| [Кризисы и катастрофы / Crises and disasters](crises-disasters/README.md) | 2 | 10 |
-| [Российская империя / Russian Empire](russian-empire/README.md) | 2 | 10 |
-| [РСФСР и СССР / Soviet Russia and USSR](soviet-union/README.md) | 2 | 10 |
-| [Страны и сравнительная история / Countries and comparative history](regional-comparisons/README.md) | 2 | 10 |
-| [Люди и биографии / People and biographies](people-biographies/README.md) | 2 | 10 |
-| [Статистика и измерения / Statistics and measurements](statistics-data/README.md) | 2 | 10 |
-| [Языки и этнография / Languages and ethnography](languages-ethnography/README.md) | 2 | 10 |
+| Document | Purpose |
+| --- | --- |
+| [Source registry](_catalog/sources.csv) | Bibliography, authority, scope, access, rights and verification for each distinct source |
+| [Source-to-topic map](_catalog/source-topic-map.csv) | Planned source uses with locators and remaining work |
+| [Source plan index](_catalog/source-plan-index.csv) | Source-first navigation: every source and all its destination topics |
+| [Topic coverage](_catalog/coverage.csv) | Plans for all registered topics; counts describe planning, not verified historical coverage |
+| [Current inventory status](_catalog/catalog-status.json) | Generated totals, source roles and coverage qualifications |
+| [Research gaps](_catalog/research-gaps.csv) | Explicit unresolved depth, geographic, access and item-selection requirements |
+| [Research protocol](_catalog/research-protocol.md) | Admission criteria, limitations and the next extraction stage |
+| [Evidence log](_catalog/evidence-log.csv) | URLs, dates and scope of the checks actually made |
+| [Search log](_catalog/search-log.csv) | Recorded search queries and selection decisions |
+| [Data dictionary](_catalog/data-dictionary.csv) | Table fields, types, nulls and interpretation |
 
-## Навигация и классификация / Navigation and classification
+## Subject navigation
 
-- **RU:** Сначала предметная область → тематическая группа → узкая рубрика. В каждой папке есть `README.md` на русском и английском. Единственный экземпляр источника хранится в наиболее подходящей рубрике; смежные темы ссылаются на ID, а не копируют файлы.
-- **EN:** Navigate domain → thematic group → specific topic. Every folder has a bilingual `README.md`. Store each source once in its best-fit topic; use IDs and cross-references rather than duplicates.
-- **RU:** Дата, регион, тип источника, язык и степень достоверности задаются метаданными; физические папки по каждому году/стране не создаются. Документы вне диапазона допускаются только как контекст с явным обозначением.
-- **EN:** Date, region, source type, language, and evidentiary status are metadata dimensions; do not duplicate the directory tree by year or country. Out-of-range material is contextual only and must be marked as such.
-- **RU:** Если объём внутри конкретной рубрики вырастет, подпапки `documents/`, `photos/`, `maps/`, `data/`, `notes/` добавляются по потребности с собственными `README.md`.
-- **EN:** Add optional `documents/`, `photos/`, `maps/`, `data/`, or `notes/` subfolders within topics only as needed; every new folder gets a `README.md`.
+Each domain, group and individual topic has an English `source-plan.csv`. These are generated views of the shared registry and mapping table. Edit the central tables, then regenerate; source metadata has one authoritative home.
 
-## Достоверность и права / Evidence and rights
+| Domain | Domain source plan |
+| --- | --- |
+| [Chronology and periodization](chronology/README.md) | [CSV](chronology/source-plan.csv) |
+| [Geography and territory](geography/README.md) | [CSV](geography/source-plan.csv) |
+| [Climate and environment](climate-environment/README.md) | [CSV](climate-environment/source-plan.csv) |
+| [Population and migration](population-migration/README.md) | [CSV](population-migration/source-plan.csv) |
+| [State and government](state-government/README.md) | [CSV](state-government/source-plan.csv) |
+| [Politics and ideologies](political-life/README.md) | [CSV](political-life/source-plan.csv) |
+| [Law and justice](law-justice/README.md) | [CSV](law-justice/source-plan.csv) |
+| [International relations](international-relations/README.md) | [CSV](international-relations/source-plan.csv) |
+| [Military affairs and warfare](military-warfare/README.md) | [CSV](military-warfare/source-plan.csv) |
+| [Security and intelligence](security-intelligence/README.md) | [CSV](security-intelligence/source-plan.csv) |
+| [Economy and finance](economy-finance/README.md) | [CSV](economy-finance/source-plan.csv) |
+| [Commerce and trade](commerce-trade/README.md) | [CSV](commerce-trade/source-plan.csv) |
+| [Industry and manufacturing](industry-manufacturing/README.md) | [CSV](industry-manufacturing/source-plan.csv) |
+| [Mining and raw materials](mining-resources/README.md) | [CSV](mining-resources/source-plan.csv) |
+| [Agriculture and food](agriculture-food/README.md) | [CSV](agriculture-food/source-plan.csv) |
+| [Infrastructure and utilities](infrastructure-utilities/README.md) | [CSV](infrastructure-utilities/source-plan.csv) |
+| [Transport and logistics](transport-logistics/README.md) | [CSV](transport-logistics/source-plan.csv) |
+| [Energy and fuels](energy-fuels/README.md) | [CSV](energy-fuels/source-plan.csv) |
+| [Engineering and technology](engineering-technology/README.md) | [CSV](engineering-technology/source-plan.csv) |
+| [Science and research](science-research/README.md) | [CSV](science-research/source-plan.csv) |
+| [Medicine and health](medicine-health/README.md) | [CSV](medicine-health/source-plan.csv) |
+| [Education and knowledge](education-knowledge/README.md) | [CSV](education-knowledge/source-plan.csv) |
+| [Social structure](social-structure/README.md) | [CSV](social-structure/source-plan.csv) |
+| [Labor and professions](labor-professions/README.md) | [CSV](labor-professions/source-plan.csv) |
+| [Religion and belief](religion-belief/README.md) | [CSV](religion-belief/source-plan.csv) |
+| [Media and communication](media-communication/README.md) | [CSV](media-communication/source-plan.csv) |
+| [Arts and culture](arts-culture/README.md) | [CSV](arts-culture/source-plan.csv) |
+| [Architecture and urbanism](architecture-urbanism/README.md) | [CSV](architecture-urbanism/source-plan.csv) |
+| [Everyday life](everyday-life/README.md) | [CSV](everyday-life/source-plan.csv) |
+| [Visual and material culture](visual-material-culture/README.md) | [CSV](visual-material-culture/source-plan.csv) |
+| [Crises and disasters](crises-disasters/README.md) | [CSV](crises-disasters/source-plan.csv) |
+| [Russian Empire](russian-empire/README.md) | [CSV](russian-empire/source-plan.csv) |
+| [Soviet Russia and USSR](soviet-union/README.md) | [CSV](soviet-union/source-plan.csv) |
+| [Countries and comparative history](regional-comparisons/README.md) | [CSV](regional-comparisons/source-plan.csv) |
+| [People and biographies](people-biographies/README.md) | [CSV](people-biographies/source-plan.csv) |
+| [Statistics and measurements](statistics-data/README.md) | [CSV](statistics-data/source-plan.csv) |
+| [Languages and ethnography](languages-ethnography/README.md) | [CSV](languages-ethnography/source-plan.csv) |
 
-Материал **не становится фактом вымышленного мира** из-за присутствия в этой библиотеке. Не смешивать источник, транскрипцию/перевод, проверенный факт, интерпретацию и творческую гипотезу. Для утверждённых исследовательских выводов используется существующий `research/history/{drafts,canon,archive}`; принятие художественного канона требует отдельного решения.
+## Reading the inventory correctly
 
-Presence here **does not establish fictional canon**. Keep the original source, transcription/translation, verified claim, interpretation, and creative hypothesis distinct. Use existing `research/history/{drafts,canon,archive}` for reviewed research records; fictional canon requires a separate decision.
+The date window concerns the historical subject, not the publication date of a modern research book. Apply the actual jurisdiction and document date; the umbrella Russian scope must not turn every record after 1917 into an Imperial Russian record. Exact legal transitions, border changes and calendar conversions require source-level checking during extraction.
 
-Ссылки разрешены при наличии корректной атрибуции; загрузка фотографий/сканов — только после проверки прав. Каждый опубликованный бинарный ресурс требует смежного `<filename>.<ext>.asset.json` и SHA-256. Крупные или неразрешённые оригиналы остаются во внешнем источнике. / Links require proper attribution; upload photos or scans only after verifying rights. Every committed binary asset needs an adjacent `.asset.json` and SHA-256; large or uncleared originals remain external.
+An authoritative catalogue verifies that a source or item exists and describes its provenance. It does not verify every statement in that source. A museum object establishes an attested example; it does not by itself establish mass production, a regulation or common usage. A standard describes a specification; adoption and actual manufacture require separate evidence.
 
-**Рабочие инструменты / Workflow:** [каталог и шаблоны / Catalog and templates](_catalog/README.md) · [правила ресурсов / Asset workflow](../../studio/ASSET_WORKFLOW.md) · [исследования / Research](../README.md).
+The bibliography covers every taxonomy topic but is not claimed to exhaust all relevant scholarship, countries, archives or objects. Open gaps and row-level `remaining_work` fields preserve that distinction. All extraction statuses remain `not-started` and all human review statuses remain `pending`.
+
+## Maintenance
+
+See the [catalogue instructions](_catalog/README.md) and [machine-readable taxonomy](taxonomy.json). Southeast Asia and Oceania have dedicated topics so these geographic areas can be investigated explicitly.
+
+From the repository root:
+
+```bash
+python research/historical-baseline/_catalog/manage_catalog.py
+python research/historical-baseline/_catalog/manage_catalog.py --check
+```
+
+Only original bibliographic descriptions, research plans and links are stored in this pass. Any later import of photographs, scans, audio or other third-party files must follow the [asset workflow](../../studio/ASSET_WORKFLOW.md) and the recorded item-specific rights.

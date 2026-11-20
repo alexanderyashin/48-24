@@ -1,0 +1,246 @@
+{
+  "schema_version": 2,
+  "encoding": "UTF-8",
+  "csv_dialect": "RFC 4180 quoting; LF record terminators",
+  "date_format": "YYYY-MM-DD for verification dates",
+  "null_representation": "Empty field; descriptive uncertainty belongs in the associated notes field.",
+  "period": {
+    "start": 1910,
+    "end": 1940,
+    "inclusive": true
+  },
+  "metadata_language": "English",
+  "tables": {
+    "sources.csv": {
+      "fields": [
+        "source_id",
+        "title",
+        "creator",
+        "publisher_or_custodian",
+        "publication_date",
+        "source_type",
+        "canonical_url",
+        "verification_url",
+        "persistent_identifier",
+        "coverage_start",
+        "coverage_end",
+        "period_coverage_notes",
+        "geographic_coverage",
+        "languages",
+        "authority_basis",
+        "reliability_scope",
+        "limitations",
+        "access_status",
+        "full_text_status",
+        "license_status",
+        "license_url",
+        "license_scope",
+        "rights_notes",
+        "verified_on",
+        "verification_method",
+        "verification_status",
+        "what_to_extract",
+        "needs_item_selection",
+        "source_role",
+        "admission_status",
+        "human_review_status"
+      ],
+      "primary_key": "source_id",
+      "required": [
+        "source_id",
+        "title",
+        "creator",
+        "publisher_or_custodian",
+        "publication_date",
+        "source_type",
+        "canonical_url",
+        "verification_url",
+        "period_coverage_notes",
+        "geographic_coverage",
+        "languages",
+        "authority_basis",
+        "reliability_scope",
+        "limitations",
+        "access_status",
+        "full_text_status",
+        "license_status",
+        "license_scope",
+        "rights_notes",
+        "verified_on",
+        "verification_method",
+        "verification_status",
+        "what_to_extract",
+        "needs_item_selection",
+        "source_role",
+        "admission_status",
+        "human_review_status"
+      ]
+    },
+    "source-topic-map.csv": {
+      "fields": [
+        "mapping_id",
+        "topic_path",
+        "source_id",
+        "source_locator",
+        "planned_extraction",
+        "expected_material",
+        "geographic_focus",
+        "period_focus",
+        "mapping_basis",
+        "extraction_status",
+        "priority",
+        "remaining_work"
+      ],
+      "primary_key": "mapping_id",
+      "required": [
+        "mapping_id",
+        "topic_path",
+        "source_id",
+        "source_locator",
+        "planned_extraction",
+        "expected_material",
+        "geographic_focus",
+        "period_focus",
+        "mapping_basis",
+        "extraction_status",
+        "priority",
+        "remaining_work"
+      ]
+    },
+    "evidence-log.csv": {
+      "fields": [
+        "evidence_id",
+        "source_id",
+        "checked_url",
+        "check_type",
+        "observed_evidence",
+        "checked_on",
+        "tool_reference"
+      ],
+      "primary_key": "evidence_id",
+      "required": [
+        "evidence_id",
+        "source_id",
+        "checked_url",
+        "check_type",
+        "observed_evidence",
+        "checked_on"
+      ]
+    },
+    "research-gaps.csv": {
+      "fields": [
+        "gap_id",
+        "topic_path",
+        "gap_type",
+        "missing_evidence",
+        "recommended_search",
+        "priority",
+        "status"
+      ],
+      "primary_key": "gap_id",
+      "required": [
+        "gap_id",
+        "topic_path",
+        "gap_type",
+        "missing_evidence",
+        "recommended_search",
+        "priority",
+        "status"
+      ]
+    },
+    "search-log.csv": {
+      "fields": [
+        "search_id",
+        "batch_id",
+        "action_type",
+        "query",
+        "query_representation",
+        "searched_on",
+        "search_engine",
+        "result_urls_json",
+        "selected_source_ids",
+        "decision",
+        "notes",
+        "tool_reference"
+      ],
+      "primary_key": "search_id",
+      "required": [
+        "search_id",
+        "batch_id",
+        "action_type",
+        "query",
+        "query_representation",
+        "searched_on",
+        "search_engine",
+        "result_urls_json",
+        "decision",
+        "notes"
+      ]
+    },
+    "source-id-aliases.csv": {
+      "fields": [
+        "retired_source_id",
+        "canonical_source_id",
+        "reason",
+        "recorded_on"
+      ],
+      "primary_key": "retired_source_id",
+      "required": [
+        "retired_source_id",
+        "canonical_source_id",
+        "reason",
+        "recorded_on"
+      ]
+    }
+  },
+  "derived_tables": {
+    "source-plan.csv": [
+      "mapping_id",
+      "topic_path",
+      "source_id",
+      "title",
+      "canonical_url",
+      "source_type",
+      "source_role",
+      "admission_status",
+      "source_locator",
+      "planned_extraction",
+      "expected_material",
+      "geographic_focus",
+      "period_focus",
+      "mapping_basis",
+      "verification_status",
+      "access_status",
+      "license_status",
+      "extraction_status",
+      "priority",
+      "remaining_work"
+    ],
+    "coverage.csv": [
+      "topic_path",
+      "domain_title",
+      "group_title",
+      "topic_title",
+      "unique_source_count",
+      "specific_source_count",
+      "discovery_source_count",
+      "scholarly_source_count",
+      "primary_source_count",
+      "scientific_data_source_count",
+      "method_source_count",
+      "open_gap_count",
+      "research_status"
+    ],
+    "source-plan-index.csv": [
+      "source_id",
+      "title",
+      "canonical_url",
+      "mapped_topic_count",
+      "topic_paths_json",
+      "evidence_check_count",
+      "source_role",
+      "admission_status",
+      "human_review_status"
+    ]
+  }
+}

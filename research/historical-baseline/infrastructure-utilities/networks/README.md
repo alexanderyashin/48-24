@@ -15,3 +15,7 @@
 | [Почтово-телеграфная сеть / Postal and telegraph lines](postal-telegraph-lines/README.md) |
 
 Материалы оформляются по [общему каталогу](../../_catalog/README.md). / Follow the [shared source catalog](../../_catalog/README.md).
+
+## Source inventory
+
+[English source plan](source-plan.csv) · [Shared source registry](../../_catalog/sources.csv). This table records proposed extractions; factual extraction has not started.

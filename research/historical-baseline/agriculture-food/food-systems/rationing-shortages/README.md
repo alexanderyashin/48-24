@@ -13,3 +13,7 @@
 When adding material use the [source catalog](../../../_catalog/README.md): assign each source one primary location and link the rest by ID and tags. Images require verified usage rights and an adjacent `.asset.json` record.
 
 Исследовательская полка не утверждает канон мира. / A research shelf does not establish fictional-world canon.
+
+## Source inventory
+
+[English source plan](source-plan.csv) · [Shared source registry](../../../_catalog/sources.csv). This table records proposed extractions; factual extraction has not started.

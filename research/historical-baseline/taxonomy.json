@@ -2442,6 +2442,14 @@
               "slug": "africa-south-asia",
               "title_ru": "Африка и Южная Азия",
               "title_en": "Africa and South Asia"
+            },
+            {
+              "slug": "southeast-asia",
+              "title_en": "Southeast Asia"
+            },
+            {
+              "slug": "oceania",
+              "title_en": "Oceania and the Pacific"
             }
           ]
         }

@@ -1,44 +1,15 @@
-# Карточка исторического источника / Historical source card template
+# Tabular source-record template guidance
 
-**RU:** Скопируйте поля в отдельный Markdown-файл в нужной предметной рубрике. Оставляйте неизвестные поля как `unknown`, не выдумывайте данные. Сверяйте ID с реестром. Вставляйте ссылки на конкретные страницы и изображения.
+Use a new row in [sources.csv](sources.csv), following [data-dictionary.csv](data-dictionary.csv). This replaces the earlier bilingual standalone source-card template for the present English-only, tabular research phase.
 
-**EN:** Copy these fields into a separate Markdown file in the appropriate topic. Mark unknowns as `unknown` rather than inventing values. Check IDs against the register. Cite exact pages and images.
+| Record block | Required content |
+| --- | --- |
+| Identity | Stable `source_id`, title, creator, publisher/custodian, publication date, type, canonical and verification URLs |
+| Scope | Historical years when known, period qualifications, geography, source languages and proposed use |
+| Assessment | Authority basis, reliability scope, limits, verification date/method/status |
+| Access and rights | Access/full-text status, licence status and scope, licence URL if established, rights notes |
+| Workflow | Source role, admission status, item-selection requirement and human-review status |
 
-```yaml
-id: HBS-000001
-title_ru: ""
-title_en: ""
-kind: primary-document
-source_creator: unknown
-source_title: unknown
-source_date: unknown
-period_start: 1910
-period_end: 1940
-geography: []
-languages: []
-topic_tags: []
-origin_url: unknown
-archive_institution: unknown
-archive_call_number: unknown
-access_date: unknown
-rights_status: pending
-evidence_status: unreviewed
-reviewer: unassigned
-notes_ru: ""
-notes_en: ""
-related_ids: []
-```
+Add separate rows in [evidence-log.csv](evidence-log.csv) for the checks and in [source-topic-map.csv](source-topic-map.csv) for each planned topic use. Store page or item locators in the mapping, and unresolved requirements in `remaining_work` and the gap register. Do not add a historical-facts section to a source-planning record.
 
-## Аутентичные фрагменты / Authentic excerpts
-
-Ссылка на страницу, инвентарный номер, язык оригинала, транскрипция, перевод, особенности публикации и пропуски. / Page link, shelfmark, original language, transcription, translation, publication peculiarities, and omissions.
-
-## Установленные сведения / Supported claims
-
-Отдельно: точное утверждение, подтверждающий фрагмент/страница, контекст, альтернативные версии и ограничения. / Separately: exact claim, supporting passage/page, context, competing accounts, and limitations.
-
-## Интерпретации и применение / Interpretation and use
-
-Отдельно: исследовательский вывод, гипотеза для 48/24, открытые вопросы, ссылки на `world/`. / Separately: research interpretation, 48/24 creative hypothesis, open questions, and `world/` links.
-
-**Внимание / Important:** примерный ID в шаблоне не зарезервирован. / The example ID is not reserved.
+An unknown optional identifier, licence URL or numeric coverage bound remains empty. Required descriptive fields should explain what is known and what is unresolved. Check the registry before reserving a new ID; example IDs are not reservations.
