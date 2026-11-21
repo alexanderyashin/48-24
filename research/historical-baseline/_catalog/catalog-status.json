@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "research_stage": "source-discovery-and-extraction-planning",
+  "historical_fact_extraction_started": false,
+  "metadata_language": "English",
+  "scope_start": 1910,
+  "scope_end": 1940,
+  "last_source_check": "2026-11-20",
+  "source_count": 307,
+  "source_role_counts": {
+    "discovery-index": 9,
+    "edited-primary-source": 5,
+    "method-support": 1,
+    "primary-document-or-object": 65,
+    "reference-collection-or-series": 48,
+    "scholarly-analysis": 166,
+    "scientific-data": 13
+  },
+  "admission_status_counts": {
+    "accepted-for-source-planning": 249,
+    "discovery-route-only": 57,
+    "method-support-only": 1
+  },
+  "domain_count": 37,
+  "group_count": 74,
+  "topic_count": 377,
+  "topic_count_with_source_plan": 377,
+  "topic_count_with_only_discovery_routes": 0,
+  "topic_count_with_only_method_support": 1,
+  "mapping_count": 1159,
+  "evidence_check_count": 356,
+  "logged_query_count": 370,
+  "research_log_record_count": 452,
+  "open_gap_count": 169,
+  "folder_source_plan_count": 488,
+  "human_review_status": "pending",
+  "exhaustive_bibliography_claim": false,
+  "unknown_reuse_licence_count": 253
+}

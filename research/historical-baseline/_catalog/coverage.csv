@@ -1,0 +1,378 @@
+topic_path,domain_title,group_title,topic_title,unique_source_count,specific_source_count,discovery_source_count,scholarly_source_count,primary_source_count,scientific_data_source_count,method_source_count,open_gap_count,research_status
+agriculture-food/agriculture/farm-machinery,Agriculture and food,Agricultural production,Farm machinery,3,2,1,1,1,0,0,1,source-plan-recorded; extraction-not-started
+agriculture-food/agriculture/grain-crops,Agriculture and food,Agricultural production,Grain crops,5,3,2,3,0,0,0,0,source-plan-recorded; extraction-not-started
+agriculture-food/agriculture/land-tenure-reforms,Agriculture and food,Agricultural production,Land tenure and reforms,6,5,1,5,0,0,0,0,source-plan-recorded; extraction-not-started
+agriculture-food/agriculture/livestock-dairy,Agriculture and food,Agricultural production,Livestock and dairy,4,2,2,2,0,0,0,0,source-plan-recorded; extraction-not-started
+agriculture-food/agriculture/rural-cooperatives,Agriculture and food,Agricultural production,Rural cooperatives,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+agriculture-food/food-systems/famine-nutrition,Agriculture and food,Food systems,Famine and nutrition,1,1,0,1,0,0,0,1,source-plan-recorded; extraction-not-started
+agriculture-food/food-systems/food-processing,Agriculture and food,Food systems,Food processing,2,2,0,1,1,0,0,1,source-plan-recorded; extraction-not-started
+agriculture-food/food-systems/food-storage-preservation,Agriculture and food,Food systems,Food storage and preservation,1,1,0,0,1,0,0,1,source-plan-recorded; extraction-not-started
+agriculture-food/food-systems/grain-trade-supply,Agriculture and food,Food systems,Grain trade and supply,4,4,0,3,1,0,0,0,source-plan-recorded; extraction-not-started
+agriculture-food/food-systems/rationing-shortages,Agriculture and food,Food systems,Rationing and food shortages,4,4,0,4,0,0,0,0,source-plan-recorded; extraction-not-started
+architecture-urbanism/building-types/churches-cathedrals,Architecture and urbanism,Building typologies,Churches and cathedrals,3,2,1,1,1,0,0,0,source-plan-recorded; extraction-not-started
+architecture-urbanism/building-types/factories-depots,Architecture and urbanism,Building typologies,Factories and depots,2,1,1,0,1,0,0,0,source-plan-recorded; extraction-not-started
+architecture-urbanism/building-types/ministries-courts,Architecture and urbanism,Building typologies,Ministries and courts,2,1,1,1,0,0,0,1,source-plan-recorded; extraction-not-started
+architecture-urbanism/building-types/palaces-mansions,Architecture and urbanism,Building typologies,Palaces and mansions,2,1,1,1,0,0,0,1,source-plan-recorded; extraction-not-started
+architecture-urbanism/building-types/stations-public-buildings,Architecture and urbanism,Building typologies,Stations and public buildings,4,2,2,2,0,0,0,0,source-plan-recorded; extraction-not-started
+architecture-urbanism/building-types/tenements-worker-housing,Architecture and urbanism,Building typologies,Tenements and worker housing,4,3,1,3,0,0,0,0,source-plan-recorded; extraction-not-started
+architecture-urbanism/urban-form/construction-materials,Architecture and urbanism,Urban form,Construction materials,2,1,1,1,0,0,0,1,source-plan-recorded; extraction-not-started
+architecture-urbanism/urban-form/courtyards-passageways,Architecture and urbanism,Urban form,Courtyards and passageways,2,1,1,0,1,0,0,1,source-plan-recorded; extraction-not-started
+architecture-urbanism/urban-form/interiors-decoration,Architecture and urbanism,Urban form,Interiors and decoration,4,3,1,3,0,0,0,0,source-plan-recorded; extraction-not-started
+architecture-urbanism/urban-form/street-planning,Architecture and urbanism,Urban form,Street planning,3,2,1,2,0,0,0,0,source-plan-recorded; extraction-not-started
+architecture-urbanism/urban-form/wealthy-poor-districts,Architecture and urbanism,Urban form,Wealthy and poor districts,1,1,0,1,0,0,0,0,source-plan-recorded; extraction-not-started
+arts-culture/creative-fields/cinema-entertainment,Arts and culture,Artistic fields,Cinema and entertainment,3,3,0,2,1,0,0,0,source-plan-recorded; extraction-not-started
+arts-culture/creative-fields/literature-poetry,Arts and culture,Artistic fields,Literature and poetry,3,3,0,2,1,0,0,0,source-plan-recorded; extraction-not-started
+arts-culture/creative-fields/music-dance,Arts and culture,Artistic fields,Music and dance,6,5,1,4,1,0,0,0,source-plan-recorded; extraction-not-started
+arts-culture/creative-fields/painting-sculpture,Arts and culture,Artistic fields,Painting and sculpture,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+arts-culture/creative-fields/theatre-opera,Arts and culture,Artistic fields,Theatre and opera,4,4,0,3,1,0,0,0,source-plan-recorded; extraction-not-started
+arts-culture/cultural-life/artistic-movements,Arts and culture,Cultural life,Artistic movements,7,7,0,7,0,0,0,0,source-plan-recorded; extraction-not-started
+arts-culture/cultural-life/clubs-societies,Arts and culture,Cultural life,Clubs and societies,5,5,0,5,0,0,0,0,source-plan-recorded; extraction-not-started
+arts-culture/cultural-life/festivals-holidays,Arts and culture,Cultural life,Festivals and holidays,2,2,0,1,1,0,0,0,source-plan-recorded; extraction-not-started
+arts-culture/cultural-life/museums-exhibitions,Arts and culture,Cultural life,Museums and exhibitions,3,3,0,3,0,0,0,0,source-plan-recorded; extraction-not-started
+arts-culture/cultural-life/sports-physical-culture,Arts and culture,Cultural life,Sports and physical culture,1,1,0,1,0,0,0,1,source-plan-recorded; extraction-not-started
+chronology/chronological-evidence/dated-primary-sources,Chronology and periodization,Chronological evidence,Dated primary sources,6,3,3,0,3,0,0,0,source-plan-recorded; extraction-not-started
+chronology/chronological-evidence/day-by-day-chronicles,Chronology and periodization,Chronological evidence,Day-by-day chronicles,3,1,2,0,1,0,0,1,source-plan-recorded; extraction-not-started
+chronology/chronological-evidence/economic-timelines,Chronology and periodization,Chronological evidence,Economic timelines,3,2,1,1,0,1,0,0,source-plan-recorded; extraction-not-started
+chronology/chronological-evidence/regional-timelines,Chronology and periodization,Chronological evidence,Regional timelines,4,2,2,2,0,0,0,0,source-plan-recorded; extraction-not-started
+chronology/chronological-evidence/technology-timelines,Chronology and periodization,Chronological evidence,Technology timelines,2,1,1,1,0,0,0,0,source-plan-recorded; extraction-not-started
+chronology/periods/interwar-1920s,Chronology and periodization,Periods and turning points,Interwar 1920s,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+chronology/periods/interwar-1930s,Chronology and periodization,Periods and turning points,Interwar 1930s,3,3,0,3,0,0,0,0,source-plan-recorded; extraction-not-started
+chronology/periods/prewar-1910-1913,Chronology and periodization,Periods and turning points,Prewar years 1910–1913,1,1,0,1,0,0,0,0,source-plan-recorded; extraction-not-started
+chronology/periods/revolutions-1917-1923,Chronology and periodization,Periods and turning points,Revolutions and upheavals 1917–1923,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+chronology/periods/war-outbreak-1939-1940,Chronology and periodization,Periods and turning points,Outbreak of the Second World War,3,3,0,2,1,0,0,0,source-plan-recorded; extraction-not-started
+chronology/periods/world-war-one,Chronology and periodization,Periods and turning points,First World War,4,3,1,3,0,0,0,0,source-plan-recorded; extraction-not-started
+climate-environment/human-environment/deforestation,Climate and environment,Human environmental impact,Deforestation,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+climate-environment/human-environment/industrial-pollution,Climate and environment,Human environmental impact,Industrial pollution,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+climate-environment/human-environment/resource-scarcity,Climate and environment,Human environmental impact,Natural resource scarcity,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+climate-environment/human-environment/urban-smoke-smog,Climate and environment,Human environmental impact,Urban smoke and smog,3,2,1,2,0,0,0,1,source-plan-recorded; extraction-not-started
+climate-environment/human-environment/water-quality,Climate and environment,Human environmental impact,Water quality,3,2,1,2,0,0,0,1,source-plan-recorded; extraction-not-started
+climate-environment/weather-seasons/extreme-weather,Climate and environment,Weather and seasons,Extreme weather,2,2,0,0,0,2,0,1,source-plan-recorded; extraction-not-started
+climate-environment/weather-seasons/meteorological-records,Climate and environment,Weather and seasons,Meteorological records,3,3,0,0,0,3,0,1,source-plan-recorded; extraction-not-started
+climate-environment/weather-seasons/rain-mud-thaw,Climate and environment,Weather and seasons,Rain mud and thaw,3,3,0,0,0,3,0,1,source-plan-recorded; extraction-not-started
+climate-environment/weather-seasons/seasonal-daylight,Climate and environment,Weather and seasons,Seasonal daylight,1,0,0,0,0,0,1,1,method-support-only; calculation-input-review-required
+climate-environment/weather-seasons/winter-conditions,Climate and environment,Weather and seasons,Winter frost and snow,3,3,0,0,0,3,0,1,source-plan-recorded; extraction-not-started
+commerce-trade/markets/bazaars-fairs,Commerce and trade,Markets and trading formats,Bazaars and fairs,1,1,0,1,0,0,0,0,source-plan-recorded; extraction-not-started
+commerce-trade/markets/consumer-goods-prices,Commerce and trade,Markets and trading formats,Consumer goods prices,4,4,0,2,2,0,0,0,source-plan-recorded; extraction-not-started
+commerce-trade/markets/mail-order-catalogs,Commerce and trade,Markets and trading formats,Mail-order catalogs,2,1,1,0,1,0,0,1,source-plan-recorded; extraction-not-started
+commerce-trade/markets/retail-shops,Commerce and trade,Markets and trading formats,Retail shops,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+commerce-trade/markets/wholesale-merchants,Commerce and trade,Markets and trading formats,Wholesale and merchants,1,1,0,1,0,0,0,1,source-plan-recorded; extraction-not-started
+commerce-trade/trade-networks/commodity-exchanges,Commerce and trade,Trade networks,Commodity exchanges,3,1,2,0,1,0,0,1,source-plan-recorded; extraction-not-started
+commerce-trade/trade-networks/foreign-trade,Commerce and trade,Trade networks,Foreign trade,7,5,2,4,0,1,0,0,source-plan-recorded; extraction-not-started
+commerce-trade/trade-networks/tariffs-customs,Commerce and trade,Trade networks,Tariffs and customs,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+commerce-trade/trade-networks/trade-routes,Commerce and trade,Trade networks,Trade routes,3,2,1,0,1,1,0,0,source-plan-recorded; extraction-not-started
+commerce-trade/trade-networks/warehousing-distribution,Commerce and trade,Trade networks,Warehousing and distribution,5,5,0,4,1,0,0,1,source-plan-recorded; extraction-not-started
+crises-disasters/natural-public-health/drought-famine,Crises and disasters,Natural and health disasters,Droughts and famine,3,3,0,2,0,1,0,1,source-plan-recorded; extraction-not-started
+crises-disasters/natural-public-health/epidemics-pandemics,Crises and disasters,Natural and health disasters,Epidemics and pandemics,2,2,0,1,1,0,0,1,source-plan-recorded; extraction-not-started
+crises-disasters/natural-public-health/fires,Crises and disasters,Natural and health disasters,Fires,2,1,1,0,1,0,0,1,source-plan-recorded; extraction-not-started
+crises-disasters/natural-public-health/floods,Crises and disasters,Natural and health disasters,Floods,2,2,0,1,0,1,0,1,source-plan-recorded; extraction-not-started
+crises-disasters/natural-public-health/severe-winters,Crises and disasters,Natural and health disasters,Severe winters,2,2,0,0,0,2,0,1,source-plan-recorded; extraction-not-started
+crises-disasters/societal-crises/depressions-bank-failures,Crises and disasters,Social crises,Depressions and bank failures,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+crises-disasters/societal-crises/reconstruction-relief,Crises and disasters,Social crises,Reconstruction and relief,3,3,0,3,0,0,0,1,source-plan-recorded; extraction-not-started
+crises-disasters/societal-crises/revolutions-civil-wars,Crises and disasters,Social crises,Revolutions and civil wars,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+crises-disasters/societal-crises/supply-infrastructure-collapse,Crises and disasters,Social crises,Supply and infrastructure collapse,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+crises-disasters/societal-crises/wartime-displacement,Crises and disasters,Social crises,Wartime displacement,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+economy-finance/macroeconomy/business-cycles-crises,Economy and finance,Macroeconomy,Business cycles and crises,4,4,0,2,0,2,0,0,source-plan-recorded; extraction-not-started
+economy-finance/macroeconomy/economic-growth-output,Economy and finance,Macroeconomy,Growth and output,5,5,0,4,0,1,0,0,source-plan-recorded; extraction-not-started
+economy-finance/macroeconomy/inflation-prices,Economy and finance,Macroeconomy,Inflation and prices,4,3,1,1,0,2,0,0,source-plan-recorded; extraction-not-started
+economy-finance/macroeconomy/national-income-wealth,Economy and finance,Macroeconomy,National income and wealth,3,3,0,2,0,1,0,0,source-plan-recorded; extraction-not-started
+economy-finance/macroeconomy/war-economy,Economy and finance,Macroeconomy,War economy,3,3,0,3,0,0,0,0,source-plan-recorded; extraction-not-started
+economy-finance/money-finance/banks-credit,Economy and finance,Money and financial institutions,Banks and credit,4,4,0,2,0,2,0,0,source-plan-recorded; extraction-not-started
+economy-finance/money-finance/currencies-gold-standard,Economy and finance,Money and financial institutions,Currencies and gold standard,3,3,0,2,0,1,0,0,source-plan-recorded; extraction-not-started
+economy-finance/money-finance/insurance,Economy and finance,Money and financial institutions,Insurance,2,2,0,1,1,0,0,0,source-plan-recorded; extraction-not-started
+economy-finance/money-finance/public-budgets-debt,Economy and finance,Money and financial institutions,Public budgets and debt,5,4,1,2,1,1,0,0,source-plan-recorded; extraction-not-started
+economy-finance/money-finance/stock-markets-bonds,Economy and finance,Money and financial institutions,Stock markets bonds and shares,1,1,0,0,0,1,0,0,source-plan-recorded; extraction-not-started
+education-knowledge/knowledge-access/adult-education,Education and knowledge,Access to knowledge,Adult education,3,3,0,3,0,0,0,0,source-plan-recorded; extraction-not-started
+education-knowledge/knowledge-access/libraries-reading-rooms,Education and knowledge,Access to knowledge,Libraries and reading rooms,1,1,0,1,0,0,0,1,source-plan-recorded; extraction-not-started
+education-knowledge/knowledge-access/literacy-rates,Education and knowledge,Access to knowledge,Literacy rates,3,3,0,2,1,0,0,0,source-plan-recorded; extraction-not-started
+education-knowledge/knowledge-access/popular-science,Education and knowledge,Access to knowledge,Popular science,1,1,0,1,0,0,0,0,source-plan-recorded; extraction-not-started
+education-knowledge/knowledge-access/textbooks-curricula,Education and knowledge,Access to knowledge,Textbooks and curricula,3,3,0,3,0,0,0,0,source-plan-recorded; extraction-not-started
+education-knowledge/school-systems/primary-schools,Education and knowledge,School systems,Primary schools,4,4,0,3,1,0,0,0,source-plan-recorded; extraction-not-started
+education-knowledge/school-systems/secondary-gymnasiums,Education and knowledge,School systems,Secondary schools and gymnasiums,2,2,0,1,1,0,0,1,source-plan-recorded; extraction-not-started
+education-knowledge/school-systems/universities,Education and knowledge,School systems,Universities,2,2,0,1,1,0,0,0,source-plan-recorded; extraction-not-started
+education-knowledge/school-systems/vocational-technical-schools,Education and knowledge,School systems,Vocational and technical schools,1,1,0,1,0,0,0,0,source-plan-recorded; extraction-not-started
+education-knowledge/school-systems/women-education,Education and knowledge,School systems,Women's education,2,2,0,1,1,0,0,0,source-plan-recorded; extraction-not-started
+energy-fuels/fuel-and-use/coal-coke,Energy and fuels,Fuel and energy use,Coal and coke,3,3,0,1,2,0,0,0,source-plan-recorded; extraction-not-started
+energy-fuels/fuel-and-use/domestic-stoves-heating,Energy and fuels,Fuel and energy use,Domestic stoves and heating,3,2,1,0,2,0,0,1,source-plan-recorded; extraction-not-started
+energy-fuels/fuel-and-use/firewood-charcoal,Energy and fuels,Fuel and energy use,Firewood and charcoal,1,1,0,1,0,0,0,1,source-plan-recorded; extraction-not-started
+energy-fuels/fuel-and-use/fuel-prices-supply,Energy and fuels,Fuel and energy use,Fuel prices and supply,5,2,3,1,1,0,0,0,source-plan-recorded; extraction-not-started
+energy-fuels/fuel-and-use/kerosene-fuel-oil,Energy and fuels,Fuel and energy use,Kerosene and fuel oil,3,1,2,0,1,0,0,0,source-plan-recorded; extraction-not-started
+energy-fuels/generation/hydropower,Energy and fuels,Energy generation,Hydropower,2,2,0,1,1,0,0,0,source-plan-recorded; extraction-not-started
+energy-fuels/generation/industrial-heat,Energy and fuels,Energy generation,Industrial heat,3,2,1,2,0,0,0,1,source-plan-recorded; extraction-not-started
+energy-fuels/generation/internal-combustion-generators,Energy and fuels,Energy generation,Engine generators,3,1,2,0,1,0,0,1,source-plan-recorded; extraction-not-started
+energy-fuels/generation/power-stations,Energy and fuels,Energy generation,Power stations,4,4,0,2,2,0,0,0,source-plan-recorded; extraction-not-started
+energy-fuels/generation/steam-boilers,Energy and fuels,Energy generation,Steam boilers,2,1,1,0,1,0,0,0,source-plan-recorded; extraction-not-started
+engineering-technology/electrical-and-information/electrical-motors,Engineering and technology,Electrical and information technology,Electric motors,3,2,1,2,0,0,0,1,source-plan-recorded; extraction-not-started
+engineering-technology/electrical-and-information/mechanical-calculators,Engineering and technology,Electrical and information technology,Mechanical calculators,1,1,0,0,1,0,0,1,source-plan-recorded; extraction-not-started
+engineering-technology/electrical-and-information/photography-cinema-tech,Engineering and technology,Electrical and information technology,Photography and cinema technology,1,1,0,0,1,0,0,1,source-plan-recorded; extraction-not-started
+engineering-technology/electrical-and-information/radio-electronics,Engineering and technology,Electrical and information technology,Radio and electronics,4,2,2,1,1,0,0,1,source-plan-recorded; extraction-not-started
+engineering-technology/electrical-and-information/telegraphy-telephony,Engineering and technology,Electrical and information technology,Telegraphy and telephony,2,1,1,1,0,0,0,1,source-plan-recorded; extraction-not-started
+engineering-technology/mechanical-engineering/gears-transmissions,Engineering and technology,Mechanical engineering,Gears and transmissions,4,2,2,0,2,0,0,1,source-plan-recorded; extraction-not-started
+engineering-technology/mechanical-engineering/hydraulics-pneumatics,Engineering and technology,Mechanical engineering,Hydraulics and pneumatics,1,1,0,0,1,0,0,1,source-plan-recorded; extraction-not-started
+engineering-technology/mechanical-engineering/precision-instruments,Engineering and technology,Mechanical engineering,Precision instruments,5,4,1,0,4,0,0,0,source-plan-recorded; extraction-not-started
+engineering-technology/mechanical-engineering/steam-machinery,Engineering and technology,Mechanical engineering,Steam machinery,2,1,1,0,1,0,0,1,source-plan-recorded; extraction-not-started
+engineering-technology/mechanical-engineering/workshop-tools,Engineering and technology,Mechanical engineering,Workshop tools,4,2,2,0,2,0,0,1,source-plan-recorded; extraction-not-started
+everyday-life/home-life/cooking-kitchens,Everyday life,Home life,Cooking and kitchens,3,2,1,2,0,0,0,0,source-plan-recorded; extraction-not-started
+everyday-life/home-life/domestic-interiors,Everyday life,Home life,Domestic interiors,3,1,2,1,0,0,0,0,source-plan-recorded; extraction-not-started
+everyday-life/home-life/heating-lighting,Everyday life,Home life,Heating and lighting,2,1,1,0,1,0,0,0,source-plan-recorded; extraction-not-started
+everyday-life/home-life/housing-costs-rent,Everyday life,Home life,Housing costs and rent,1,1,0,1,0,0,0,0,source-plan-recorded; extraction-not-started
+everyday-life/home-life/washing-cleaning,Everyday life,Home life,Washing and cleaning,4,3,1,2,1,0,0,0,source-plan-recorded; extraction-not-started
+everyday-life/personal-life/clothing-fashion,Everyday life,Personal life,Clothing and fashion,7,7,0,3,4,0,0,1,source-plan-recorded; extraction-not-started
+everyday-life/personal-life/etiquette-manners,Everyday life,Personal life,Etiquette and manners,4,3,1,3,0,0,0,0,source-plan-recorded; extraction-not-started
+everyday-life/personal-life/family-childhood,Everyday life,Personal life,Family and childhood,7,7,0,7,0,0,0,0,source-plan-recorded; extraction-not-started
+everyday-life/personal-life/food-drink-menus,Everyday life,Personal life,Food drink and menus,3,1,2,1,0,0,0,1,source-plan-recorded; extraction-not-started
+everyday-life/personal-life/leisure-hobbies,Everyday life,Personal life,Leisure and hobbies,3,2,1,2,0,0,0,1,source-plan-recorded; extraction-not-started
+geography/human-geography/borders-1910-1940,Geography and territory,Human and economic geography,State borders,3,2,1,1,1,0,0,1,source-plan-recorded; extraction-not-started
+geography/human-geography/historical-maps-atlases,Geography and territory,Human and economic geography,Historical maps and atlases,3,1,2,0,1,0,0,1,source-plan-recorded; extraction-not-started
+geography/human-geography/industrial-regions,Geography and territory,Human and economic geography,Industrial regions,2,2,0,1,1,0,0,1,source-plan-recorded; extraction-not-started
+geography/human-geography/settlement-patterns,Geography and territory,Human and economic geography,Settlement patterns,2,2,0,0,2,0,0,1,source-plan-recorded; extraction-not-started
+geography/human-geography/trade-corridors,Geography and territory,Human and economic geography,Trade corridors,2,1,1,1,0,0,0,1,source-plan-recorded; extraction-not-started
+geography/physical-geography/forests-steppes-tundra,Geography and territory,Physical geography,Forests steppes and tundra,2,1,1,0,1,0,0,1,source-plan-recorded; extraction-not-started
+geography/physical-geography/natural-barriers,Geography and territory,Physical geography,Natural barriers,2,1,1,0,1,0,0,1,source-plan-recorded; extraction-not-started
+geography/physical-geography/rivers-and-lakes,Geography and territory,Physical geography,Rivers and lakes,2,1,1,0,1,0,0,1,source-plan-recorded; extraction-not-started
+geography/physical-geography/seas-and-coastlines,Geography and territory,Physical geography,Seas and coastlines,2,1,1,0,1,0,0,1,source-plan-recorded; extraction-not-started
+geography/physical-geography/terrain-and-relief,Geography and territory,Physical geography,Terrain and relief,2,1,1,0,1,0,0,1,source-plan-recorded; extraction-not-started
+industry-manufacturing/factory-organization/factories-workshops,Industry and manufacturing,Factory organization,Factories and workshops,6,5,1,3,2,0,0,0,source-plan-recorded; extraction-not-started
+industry-manufacturing/factory-organization/industrial-accidents,Industry and manufacturing,Factory organization,Industrial accidents,4,3,1,0,3,0,0,1,source-plan-recorded; extraction-not-started
+industry-manufacturing/factory-organization/industrial-standards,Industry and manufacturing,Factory organization,Industrial standards,4,2,2,0,2,0,0,1,source-plan-recorded; extraction-not-started
+industry-manufacturing/factory-organization/production-lines,Industry and manufacturing,Factory organization,Production lines,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+industry-manufacturing/factory-organization/quality-control,Industry and manufacturing,Factory organization,Quality control,7,5,2,1,4,0,0,1,source-plan-recorded; extraction-not-started
+industry-manufacturing/industrial-sectors/automotive-shipbuilding,Industry and manufacturing,Industrial sectors,Automotive and shipbuilding,4,3,1,2,1,0,0,0,source-plan-recorded; extraction-not-started
+industry-manufacturing/industrial-sectors/aviation-industry,Industry and manufacturing,Industrial sectors,Aviation industry,2,1,1,1,0,0,0,0,source-plan-recorded; extraction-not-started
+industry-manufacturing/industrial-sectors/chemicals-pharmaceuticals,Industry and manufacturing,Industrial sectors,Chemicals and pharmaceuticals,1,1,0,1,0,0,0,1,source-plan-recorded; extraction-not-started
+industry-manufacturing/industrial-sectors/iron-steel-metallurgy,Industry and manufacturing,Industrial sectors,Iron and steel metallurgy,2,2,0,1,1,0,0,0,source-plan-recorded; extraction-not-started
+industry-manufacturing/industrial-sectors/machine-building,Industry and manufacturing,Industrial sectors,Machine building,4,4,0,3,1,0,0,0,source-plan-recorded; extraction-not-started
+industry-manufacturing/industrial-sectors/textiles-garments,Industry and manufacturing,Industrial sectors,Textiles and garments,4,2,2,1,1,0,0,1,source-plan-recorded; extraction-not-started
+infrastructure-utilities/networks/electricity-grids,Infrastructure and utilities,Engineering networks,Electricity grids,3,3,0,2,1,0,0,0,source-plan-recorded; extraction-not-started
+infrastructure-utilities/networks/gas-networks,Infrastructure and utilities,Engineering networks,Gas networks,1,1,0,0,1,0,0,1,source-plan-recorded; extraction-not-started
+infrastructure-utilities/networks/postal-telegraph-lines,Infrastructure and utilities,Engineering networks,Postal and telegraph lines,2,1,1,1,0,0,0,1,source-plan-recorded; extraction-not-started
+infrastructure-utilities/networks/sewers-drainage,Infrastructure and utilities,Engineering networks,Sewers and drainage,1,1,0,1,0,0,0,1,source-plan-recorded; extraction-not-started
+infrastructure-utilities/networks/water-supply,Infrastructure and utilities,Engineering networks,Water supply,2,1,1,1,0,0,0,1,source-plan-recorded; extraction-not-started
+infrastructure-utilities/public-works/dams-canals,Infrastructure and utilities,Public works,Dams and canals,1,1,0,0,1,0,0,1,source-plan-recorded; extraction-not-started
+infrastructure-utilities/public-works/municipal-waste,Infrastructure and utilities,Public works,Municipal waste,1,1,0,1,0,0,0,1,source-plan-recorded; extraction-not-started
+infrastructure-utilities/public-works/public-baths-laundries,Infrastructure and utilities,Public works,Public baths and laundries,2,2,0,1,1,0,0,1,source-plan-recorded; extraction-not-started
+infrastructure-utilities/public-works/roads-bridges,Infrastructure and utilities,Public works,Roads and bridges,1,1,0,1,0,0,0,1,source-plan-recorded; extraction-not-started
+infrastructure-utilities/public-works/street-lighting,Infrastructure and utilities,Public works,Street lighting,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+international-relations/diplomacy/alliances-treaties,International relations,Diplomacy,Alliances and treaties,8,3,5,2,1,0,0,0,source-plan-recorded; extraction-not-started
+international-relations/diplomacy/embassies-consulates,International relations,Diplomacy,Embassies and consulates,4,3,1,2,1,0,0,0,source-plan-recorded; extraction-not-started
+international-relations/diplomacy/great-power-rivalries,International relations,Diplomacy,Great-power rivalries,4,3,1,3,0,0,0,0,source-plan-recorded; extraction-not-started
+international-relations/diplomacy/league-of-nations,International relations,Diplomacy,League of Nations,4,2,2,2,0,0,0,0,source-plan-recorded; extraction-not-started
+international-relations/diplomacy/peace-conferences,International relations,Diplomacy,Peace conferences,3,2,1,2,0,0,0,0,source-plan-recorded; extraction-not-started
+international-relations/international-systems/border-disputes,International relations,International systems,Border disputes,7,4,3,3,1,0,0,0,source-plan-recorded; extraction-not-started
+international-relations/international-systems/colonial-empires,International relations,International systems,Colonial empires,4,3,1,2,1,0,0,0,source-plan-recorded; extraction-not-started
+international-relations/international-systems/cross-border-humanitarianism,International relations,International systems,Cross-border humanitarianism,3,2,1,1,1,0,0,0,source-plan-recorded; extraction-not-started
+international-relations/international-systems/protectorates-mandates,International relations,International systems,Protectorates and mandates,3,1,2,1,0,0,0,0,source-plan-recorded; extraction-not-started
+international-relations/international-systems/sanctions-blockades,International relations,International systems,Sanctions and blockades,5,2,3,2,0,0,0,0,source-plan-recorded; extraction-not-started
+labor-professions/employment/trade-unions-strikes,Labor and professions,Employment,Trade unions and strikes,5,5,0,5,0,0,0,0,source-plan-recorded; extraction-not-started
+labor-professions/employment/unemployment,Labor and professions,Employment,Unemployment,1,1,0,1,0,0,0,0,source-plan-recorded; extraction-not-started
+labor-professions/employment/wages-work-hours,Labor and professions,Employment,Wages and work hours,3,3,0,3,0,0,0,1,source-plan-recorded; extraction-not-started
+labor-professions/employment/women-child-labor,Labor and professions,Employment,Women and child labor,6,6,0,6,0,0,0,1,source-plan-recorded; extraction-not-started
+labor-professions/employment/worker-migration,Labor and professions,Employment,Worker migration,5,5,0,5,0,0,0,0,source-plan-recorded; extraction-not-started
+labor-professions/working-conditions/crafts-apprenticeships,Labor and professions,Working conditions,Crafts and apprenticeships,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+labor-professions/working-conditions/domestic-service,Labor and professions,Working conditions,Domestic service,1,1,0,1,0,0,0,1,source-plan-recorded; extraction-not-started
+labor-professions/working-conditions/factory-shopfloor,Labor and professions,Working conditions,Factory shop floor,6,6,0,6,0,0,0,0,source-plan-recorded; extraction-not-started
+labor-professions/working-conditions/office-clerical-work,Labor and professions,Working conditions,Office and clerical work,2,1,1,1,0,0,0,0,source-plan-recorded; extraction-not-started
+labor-professions/working-conditions/workplace-safety,Labor and professions,Working conditions,Workplace safety,2,1,1,0,1,0,0,1,source-plan-recorded; extraction-not-started
+languages-ethnography/ethnography/ethnic-cultural-groups,Languages and ethnography,Ethnography and identities,Ethnocultural groups,5,3,2,3,0,0,0,0,source-plan-recorded; extraction-not-started
+languages-ethnography/ethnography/folk-costumes-crafts,Languages and ethnography,Ethnography and identities,Folk costumes and crafts,3,1,2,0,1,0,0,1,source-plan-recorded; extraction-not-started
+languages-ethnography/ethnography/folklore-oral-traditions,Languages and ethnography,Ethnography and identities,Folklore and oral traditions,4,3,1,2,1,0,0,0,source-plan-recorded; extraction-not-started
+languages-ethnography/ethnography/identity-assimilation,Languages and ethnography,Ethnography and identities,Identity and assimilation,5,5,0,5,0,0,0,0,source-plan-recorded; extraction-not-started
+languages-ethnography/ethnography/regional-customs,Languages and ethnography,Ethnography and identities,Regional customs,4,2,2,2,0,0,0,0,source-plan-recorded; extraction-not-started
+languages-ethnography/languages/foreign-language-use,Languages and ethnography,Languages and writing,Foreign language use,3,3,0,1,1,1,0,0,source-plan-recorded; extraction-not-started
+languages-ethnography/languages/naming-titles-address,Languages and ethnography,Languages and writing,Names titles and forms of address,3,3,0,2,0,1,0,0,source-plan-recorded; extraction-not-started
+languages-ethnography/languages/regional-languages-dialects,Languages and ethnography,Languages and writing,Regional languages and dialects,3,3,0,2,0,1,0,1,source-plan-recorded; extraction-not-started
+languages-ethnography/languages/russian-1918-reform,Languages and ethnography,Languages and writing,Russian orthographic reform of 1918,2,2,0,1,0,1,0,0,source-plan-recorded; extraction-not-started
+languages-ethnography/languages/russian-pre-reform-script,Languages and ethnography,Languages and writing,Pre-reform Russian writing,2,2,0,1,0,1,0,1,source-plan-recorded; extraction-not-started
+law-justice/judicial-practice/censorship-legislation,Law and justice,Judicial practice,Censorship legislation,5,2,3,1,1,0,0,1,source-plan-recorded; extraction-not-started
+law-justice/judicial-practice/courts-trials,Law and justice,Judicial practice,Courts and trials,4,3,1,2,1,0,0,0,source-plan-recorded; extraction-not-started
+law-justice/judicial-practice/legal-professions,Law and justice,Judicial practice,Legal professions,3,3,0,3,0,0,0,0,source-plan-recorded; extraction-not-started
+law-justice/judicial-practice/military-justice,Law and justice,Judicial practice,Military justice,5,3,2,2,1,0,0,1,source-plan-recorded; extraction-not-started
+law-justice/judicial-practice/prisons-penal-labor,Law and justice,Judicial practice,Prisons and penal labor,3,3,0,2,1,0,0,0,source-plan-recorded; extraction-not-started
+law-justice/legal-systems/civil-property-law,Law and justice,Branches of law,Civil and property law,6,6,0,2,4,0,0,0,source-plan-recorded; extraction-not-started
+law-justice/legal-systems/criminal-law,Law and justice,Branches of law,Criminal law,4,3,1,2,1,0,0,0,source-plan-recorded; extraction-not-started
+law-justice/legal-systems/family-inheritance-law,Law and justice,Branches of law,Family and inheritance law,4,4,0,1,3,0,0,1,source-plan-recorded; extraction-not-started
+law-justice/legal-systems/labor-law,Law and justice,Branches of law,Labor law,2,1,1,0,1,0,0,0,source-plan-recorded; extraction-not-started
+law-justice/legal-systems/nationality-citizenship,Law and justice,Branches of law,Nationality and citizenship,6,4,2,3,1,0,0,0,source-plan-recorded; extraction-not-started
+media-communication/mass-media/book-publishing,Media and communication,Mass media,Book publishing,3,3,0,3,0,0,0,0,source-plan-recorded; extraction-not-started
+media-communication/mass-media/news-agencies,Media and communication,Mass media,News agencies,1,1,0,1,0,0,0,0,source-plan-recorded; extraction-not-started
+media-communication/mass-media/newspapers-periodicals,Media and communication,Mass media,Newspapers and periodicals,2,1,1,1,0,0,0,1,source-plan-recorded; extraction-not-started
+media-communication/mass-media/newsreels,Media and communication,Mass media,Newsreels,2,1,1,0,1,0,0,1,source-plan-recorded; extraction-not-started
+media-communication/mass-media/radio-broadcasting,Media and communication,Mass media,Radio broadcasting,3,3,0,3,0,0,0,0,source-plan-recorded; extraction-not-started
+media-communication/public-communication/advertising-posters,Media and communication,Public communication,Advertising and posters,3,1,2,1,0,0,0,0,source-plan-recorded; extraction-not-started
+media-communication/public-communication/political-propaganda,Media and communication,Public communication,Political propaganda,6,6,0,6,0,0,0,0,source-plan-recorded; extraction-not-started
+media-communication/public-communication/postal-correspondence,Media and communication,Public communication,Postal correspondence,2,1,1,1,0,0,0,0,source-plan-recorded; extraction-not-started
+media-communication/public-communication/public-signage,Media and communication,Public communication,Public signage,4,1,3,1,0,0,0,1,source-plan-recorded; extraction-not-started
+media-communication/public-communication/rumors-public-opinion,Media and communication,Public communication,Rumors and public opinion,4,3,1,3,0,0,0,0,source-plan-recorded; extraction-not-started
+medicine-health/clinical-medicine/dentistry,Medicine and health,Clinical practice,Dentistry,3,1,2,0,1,0,0,1,source-plan-recorded; extraction-not-started
+medicine-health/clinical-medicine/hospitals-clinics,Medicine and health,Clinical practice,Hospitals and clinics,4,4,0,3,1,0,0,1,source-plan-recorded; extraction-not-started
+medicine-health/clinical-medicine/mental-health,Medicine and health,Clinical practice,Psychiatry and mental health,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+medicine-health/clinical-medicine/pharmacy-drugs,Medicine and health,Clinical practice,Pharmacy and medicines,1,1,0,0,1,0,0,1,source-plan-recorded; extraction-not-started
+medicine-health/clinical-medicine/surgery-anesthesia,Medicine and health,Clinical practice,Surgery and anesthesia,1,1,0,0,1,0,0,1,source-plan-recorded; extraction-not-started
+medicine-health/public-health/epidemics-infectious-disease,Medicine and health,Public health,Epidemics and infectious diseases,3,3,0,2,1,0,0,1,source-plan-recorded; extraction-not-started
+medicine-health/public-health/maternal-child-health,Medicine and health,Public health,Maternal and child health,2,1,1,1,0,0,0,1,source-plan-recorded; extraction-not-started
+medicine-health/public-health/occupational-diseases,Medicine and health,Public health,Occupational diseases,2,1,1,1,0,0,0,1,source-plan-recorded; extraction-not-started
+medicine-health/public-health/sanitation-hygiene,Medicine and health,Public health,Sanitation and hygiene,3,3,0,2,1,0,0,1,source-plan-recorded; extraction-not-started
+medicine-health/public-health/vaccination-health-campaigns,Medicine and health,Public health,Vaccination and health campaigns,2,1,1,1,0,0,0,1,source-plan-recorded; extraction-not-started
+military-warfare/organization-doctrine/command-staffs,Military affairs and warfare,Organization and doctrine,Command and general staffs,7,6,1,6,0,0,0,0,source-plan-recorded; extraction-not-started
+military-warfare/organization-doctrine/military-logistics,Military affairs and warfare,Organization and doctrine,Military logistics,6,4,2,4,0,0,0,0,source-plan-recorded; extraction-not-started
+military-warfare/organization-doctrine/military-uniforms-ranks,Military affairs and warfare,Organization and doctrine,Uniforms insignia and ranks,2,2,0,1,1,0,0,1,source-plan-recorded; extraction-not-started
+military-warfare/organization-doctrine/mobilization-conscription,Military affairs and warfare,Organization and doctrine,Mobilization and conscription,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+military-warfare/organization-doctrine/training-tactics,Military affairs and warfare,Organization and doctrine,Training and tactics,6,4,2,4,0,0,0,0,source-plan-recorded; extraction-not-started
+military-warfare/weapons-operations/battlefield-medicine,Military affairs and warfare,Weapons and operations,Battlefield medicine,3,2,1,2,0,0,0,0,source-plan-recorded; extraction-not-started
+military-warfare/weapons-operations/cavalry-armor,Military affairs and warfare,Weapons and operations,Cavalry and armor,3,3,0,3,0,0,0,0,source-plan-recorded; extraction-not-started
+military-warfare/weapons-operations/fortifications-chemical-warfare,Military affairs and warfare,Weapons and operations,Fortifications and chemical warfare,3,2,1,2,0,0,0,1,source-plan-recorded; extraction-not-started
+military-warfare/weapons-operations/infantry-artillery,Military affairs and warfare,Weapons and operations,Infantry and artillery,3,3,0,3,0,0,0,0,source-plan-recorded; extraction-not-started
+military-warfare/weapons-operations/military-aviation,Military affairs and warfare,Weapons and operations,Military aviation,4,3,1,3,0,0,0,0,source-plan-recorded; extraction-not-started
+military-warfare/weapons-operations/naval-forces,Military affairs and warfare,Weapons and operations,Naval forces,5,3,2,3,0,0,0,0,source-plan-recorded; extraction-not-started
+mining-resources/extraction/coal-mining,Mining and raw materials,Extractive industries,Coal mining,2,1,1,0,1,0,0,1,source-plan-recorded; extraction-not-started
+mining-resources/extraction/metal-ores,Mining and raw materials,Extractive industries,Metal ores,3,2,1,0,1,1,0,0,source-plan-recorded; extraction-not-started
+mining-resources/extraction/oil-extraction,Mining and raw materials,Extractive industries,Oil extraction,3,1,2,0,1,0,0,1,source-plan-recorded; extraction-not-started
+mining-resources/extraction/stone-clay-cement,Mining and raw materials,Extractive industries,Stone clay and cement,2,1,1,0,0,1,0,0,source-plan-recorded; extraction-not-started
+mining-resources/extraction/timber-harvesting,Mining and raw materials,Extractive industries,Timber harvesting,2,1,1,0,1,0,0,1,source-plan-recorded; extraction-not-started
+mining-resources/materials/copper-brass-bronze,Mining and raw materials,Materials and supply chains,Copper brass and bronze,4,2,2,0,1,1,0,0,source-plan-recorded; extraction-not-started
+mining-resources/materials/glass-ceramics,Mining and raw materials,Materials and supply chains,Glass and ceramics,3,1,2,0,1,0,0,1,source-plan-recorded; extraction-not-started
+mining-resources/materials/iron-steel-alloys,Mining and raw materials,Materials and supply chains,Iron steel and alloys,3,1,2,0,1,0,0,1,source-plan-recorded; extraction-not-started
+mining-resources/materials/material-shortages,Mining and raw materials,Materials and supply chains,Material shortages,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+mining-resources/materials/rubber-leather,Mining and raw materials,Materials and supply chains,Rubber and leather,3,1,2,0,1,0,0,1,source-plan-recorded; extraction-not-started
+people-biographies/elites/generals-admirals,People and biographies,Elites and public figures,Generals and admirals,3,1,2,1,0,0,0,0,source-plan-recorded; extraction-not-started
+people-biographies/elites/industrialists-financiers,People and biographies,Elites and public figures,Industrialists and financiers,3,1,2,1,0,0,0,0,source-plan-recorded; extraction-not-started
+people-biographies/elites/rulers-politicians,People and biographies,Elites and public figures,Rulers and politicians,3,1,2,1,0,0,0,1,source-plan-recorded; extraction-not-started
+people-biographies/elites/scientists-inventors,People and biographies,Elites and public figures,Scientists and inventors,3,1,2,1,0,0,0,0,source-plan-recorded; extraction-not-started
+people-biographies/elites/writers-artists,People and biographies,Elites and public figures,Writers and artists,6,4,2,4,0,0,0,0,source-plan-recorded; extraction-not-started
+people-biographies/social-voices/children-youth,People and biographies,Voices of the period,Children and youth,1,1,0,1,0,0,0,0,source-plan-recorded; extraction-not-started
+people-biographies/social-voices/diaries-oral-histories,People and biographies,Voices of the period,Diaries and oral histories,3,1,2,1,0,0,0,0,source-plan-recorded; extraction-not-started
+people-biographies/social-voices/migrants-refugees,People and biographies,Voices of the period,Migrants and refugees,2,1,1,1,0,0,0,1,source-plan-recorded; extraction-not-started
+people-biographies/social-voices/women-activists,People and biographies,Voices of the period,Women and activists,3,2,1,2,0,0,0,0,source-plan-recorded; extraction-not-started
+people-biographies/social-voices/workers-peasants,People and biographies,Voices of the period,Workers and peasants,5,3,2,3,0,0,0,0,source-plan-recorded; extraction-not-started
+political-life/political-actors/liberalism-reformism,Politics and ideologies,Political actors,Liberalism and reformism,5,5,0,5,0,0,0,0,source-plan-recorded; extraction-not-started
+political-life/political-actors/monarchism-conservatism,Politics and ideologies,Political actors,Monarchism and conservatism,4,4,0,4,0,0,0,0,source-plan-recorded; extraction-not-started
+political-life/political-actors/nationalism-fascism,Politics and ideologies,Political actors,Nationalism and fascism,4,3,1,3,0,0,0,0,source-plan-recorded; extraction-not-started
+political-life/political-actors/political-parties,Politics and ideologies,Political actors,Political parties,6,6,0,6,0,0,0,0,source-plan-recorded; extraction-not-started
+political-life/political-actors/socialism-communism,Politics and ideologies,Political actors,Socialism and communism,2,2,0,1,1,0,0,0,source-plan-recorded; extraction-not-started
+political-life/political-practice/political-campaigns,Politics and ideologies,Political practices,Political campaigns,6,5,1,5,0,0,0,0,source-plan-recorded; extraction-not-started
+political-life/political-practice/political-exile,Politics and ideologies,Political practices,Political exile,4,2,2,2,0,0,0,0,source-plan-recorded; extraction-not-started
+political-life/political-practice/political-violence,Politics and ideologies,Political practices,Political violence,7,7,0,6,1,0,0,0,source-plan-recorded; extraction-not-started
+political-life/political-practice/protests-demonstrations,Politics and ideologies,Political practices,Protests and demonstrations,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+political-life/political-practice/revolutionary-networks,Politics and ideologies,Political practices,Revolutionary networks,3,2,1,1,1,0,0,0,source-plan-recorded; extraction-not-started
+population-migration/demography/births-deaths,Population and migration,Demography,Births and deaths,4,3,1,2,0,1,0,1,source-plan-recorded; extraction-not-started
+population-migration/demography/censuses,Population and migration,Demography,Population censuses,4,4,0,1,1,2,0,1,source-plan-recorded; extraction-not-started
+population-migration/demography/household-composition,Population and migration,Demography,Household composition,2,2,0,0,0,2,0,1,source-plan-recorded; extraction-not-started
+population-migration/demography/life-expectancy,Population and migration,Demography,Life expectancy,3,3,0,2,0,1,0,1,source-plan-recorded; extraction-not-started
+population-migration/demography/urbanization,Population and migration,Demography,Urbanization,4,4,0,1,1,2,0,1,source-plan-recorded; extraction-not-started
+population-migration/mobility/diasporas,Population and migration,Migration and movement,Diasporas,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+population-migration/mobility/emigration-immigration,Population and migration,Migration and movement,Emigration and immigration,2,2,0,1,0,1,0,1,source-plan-recorded; extraction-not-started
+population-migration/mobility/forced-resettlement,Population and migration,Migration and movement,Forced resettlement,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+population-migration/mobility/internal-migration,Population and migration,Migration and movement,Internal migration,2,2,0,1,0,1,0,1,source-plan-recorded; extraction-not-started
+population-migration/mobility/refugees-displacement,Population and migration,Migration and movement,Refugees and displacement,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+regional-comparisons/europe/austria-hungary-successors,Countries and comparative history,Europe,Austria-Hungary and successor states,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+regional-comparisons/europe/britain-france,Countries and comparative history,Europe,Britain and France,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+regional-comparisons/europe/germany-weimar-third-reich,Countries and comparative history,Europe,Germany Weimar and Third Reich,1,1,0,1,0,0,0,1,source-plan-recorded; extraction-not-started
+regional-comparisons/europe/italy-balkans-scandinavia,Countries and comparative history,Europe,Italy Balkans and Scandinavia,3,3,0,3,0,0,0,1,source-plan-recorded; extraction-not-started
+regional-comparisons/europe/poland-baltics-finland,Countries and comparative history,Europe,Poland Baltics and Finland,3,3,0,3,0,0,0,1,source-plan-recorded; extraction-not-started
+regional-comparisons/outside-europe/africa-south-asia,Countries and comparative history,World outside Europe,Africa and South Asia,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+regional-comparisons/outside-europe/east-asia,Countries and comparative history,World outside Europe,China Japan and East Asia,4,4,0,4,0,0,0,1,source-plan-recorded; extraction-not-started
+regional-comparisons/outside-europe/latin-america,Countries and comparative history,World outside Europe,Latin America,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+regional-comparisons/outside-europe/north-america,Countries and comparative history,World outside Europe,United States and Canada,3,3,0,2,1,0,0,1,source-plan-recorded; extraction-not-started
+regional-comparisons/outside-europe/oceania,Countries and comparative history,World outside Europe,Oceania and the Pacific,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+regional-comparisons/outside-europe/ottoman-turkey-middle-east,Countries and comparative history,World outside Europe,Ottoman Empire Turkey and Middle East,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+regional-comparisons/outside-europe/southeast-asia,Countries and comparative history,World outside Europe,Southeast Asia,1,1,0,1,0,0,0,1,source-plan-recorded; extraction-not-started
+religion-belief/religion-society/church-state-relations,Religion and belief,Religion and society,Church-state relations,5,5,0,5,0,0,0,0,source-plan-recorded; extraction-not-started
+religion-belief/religion-society/clergy-monasteries,Religion and belief,Religion and society,Clergy and monasteries,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+religion-belief/religion-society/popular-superstitions,Religion and belief,Religion and society,Popular beliefs and superstitions,1,1,0,1,0,0,0,1,source-plan-recorded; extraction-not-started
+religion-belief/religion-society/rituals-festivals,Religion and belief,Religion and society,Rituals and festivals,4,3,1,3,0,0,0,0,source-plan-recorded; extraction-not-started
+religion-belief/religion-society/secularization-atheism,Religion and belief,Religion and society,Secularization and atheism,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+religion-belief/religious-traditions/buddhism-other,Religion and belief,Religious traditions,Buddhism and other traditions,1,1,0,1,0,0,0,1,source-plan-recorded; extraction-not-started
+religion-belief/religious-traditions/catholic-protestant,Religion and belief,Religious traditions,Catholicism and Protestantism,3,3,0,3,0,0,0,0,source-plan-recorded; extraction-not-started
+religion-belief/religious-traditions/islam,Religion and belief,Religious traditions,Islam,1,1,0,1,0,0,0,1,source-plan-recorded; extraction-not-started
+religion-belief/religious-traditions/judaism,Religion and belief,Religious traditions,Judaism,1,1,0,1,0,0,0,0,source-plan-recorded; extraction-not-started
+religion-belief/religious-traditions/orthodoxy,Religion and belief,Religious traditions,Eastern Orthodoxy,1,1,0,1,0,0,0,0,source-plan-recorded; extraction-not-started
+russian-empire/imperial-institutions/imperial-police-okhrana,Russian Empire,Imperial institutions 1910–1917,Imperial police and Okhrana,2,1,1,1,0,0,0,0,source-plan-recorded; extraction-not-started
+russian-empire/imperial-institutions/ministries-officialdom,Russian Empire,Imperial institutions 1910–1917,Ministries and officialdom,3,2,1,1,1,0,0,0,source-plan-recorded; extraction-not-started
+russian-empire/imperial-institutions/romanov-court,Russian Empire,Imperial institutions 1910–1917,Romanovs and imperial court,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+russian-empire/imperial-institutions/state-duma-council,Russian Empire,Imperial institutions 1910–1917,State Duma and State Council,2,1,1,1,0,0,0,0,source-plan-recorded; extraction-not-started
+russian-empire/imperial-institutions/zemstvos-municipalities,Russian Empire,Imperial institutions 1910–1917,Zemstvos and municipalities,2,1,1,1,0,0,0,0,source-plan-recorded; extraction-not-started
+russian-empire/society-economy/borderlands-nationalities,Russian Empire,Society and economy of the empire,Borderlands and nationalities,4,4,0,4,0,0,0,0,source-plan-recorded; extraction-not-started
+russian-empire/society-economy/imperial-army-navy,Russian Empire,Society and economy of the empire,Imperial army and navy,5,3,2,3,0,0,0,0,source-plan-recorded; extraction-not-started
+russian-empire/society-economy/imperial-cities,Russian Empire,Society and economy of the empire,Cities of the Russian Empire,1,1,0,1,0,0,0,0,source-plan-recorded; extraction-not-started
+russian-empire/society-economy/imperial-industry-finance,Russian Empire,Society and economy of the empire,Imperial industry and finance,2,1,1,1,0,0,0,0,source-plan-recorded; extraction-not-started
+russian-empire/society-economy/stolypin-agrarian-reform,Russian Empire,Society and economy of the empire,Stolypin agrarian reform,2,2,0,1,1,0,0,0,source-plan-recorded; extraction-not-started
+science-research/disciplines/biology-genetics,Science and research,Scientific disciplines,Biology and genetics,3,3,0,3,0,0,0,1,source-plan-recorded; extraction-not-started
+science-research/disciplines/chemistry,Science and research,Scientific disciplines,Chemistry,1,1,0,1,0,0,0,1,source-plan-recorded; extraction-not-started
+science-research/disciplines/geology-astronomy,Science and research,Scientific disciplines,Geology and astronomy,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+science-research/disciplines/mathematics-logic,Science and research,Scientific disciplines,Mathematics and logic,1,1,0,1,0,0,0,1,source-plan-recorded; extraction-not-started
+science-research/disciplines/physics,Science and research,Scientific disciplines,Physics,2,2,0,1,1,0,0,1,source-plan-recorded; extraction-not-started
+science-research/research-practice/academies-societies,Science and research,Research practice,Academies and learned societies,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+science-research/research-practice/laboratories-equipment,Science and research,Research practice,Laboratories and equipment,2,2,0,1,1,0,0,1,source-plan-recorded; extraction-not-started
+science-research/research-practice/patents-inventions,Science and research,Research practice,Patents and inventions,2,1,1,0,1,0,0,1,source-plan-recorded; extraction-not-started
+science-research/research-practice/research-funding,Science and research,Research practice,Research funding,2,1,1,1,0,0,0,1,source-plan-recorded; extraction-not-started
+science-research/research-practice/scientific-publications,Science and research,Research practice,Scientific publications,3,3,0,2,1,0,0,1,source-plan-recorded; extraction-not-started
+security-intelligence/crime-and-order/criminal-investigation,Security and intelligence,Crime and public order,Criminal investigation,1,1,0,1,0,0,0,0,source-plan-recorded; extraction-not-started
+security-intelligence/crime-and-order/fraud-corruption,Security and intelligence,Crime and public order,Fraud and corruption,1,1,0,1,0,0,0,0,source-plan-recorded; extraction-not-started
+security-intelligence/crime-and-order/organized-crime,Security and intelligence,Crime and public order,Organized crime,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+security-intelligence/crime-and-order/smuggling-black-markets,Security and intelligence,Crime and public order,Smuggling and black markets,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+security-intelligence/crime-and-order/surveillance-practices,Security and intelligence,Crime and public order,Surveillance practices,4,2,2,2,0,0,0,0,source-plan-recorded; extraction-not-started
+security-intelligence/state-security/border-controls,Security and intelligence,State security,Border controls,5,4,1,4,0,0,0,0,source-plan-recorded; extraction-not-started
+security-intelligence/state-security/counterintelligence,Security and intelligence,State security,Counterintelligence,4,2,2,1,1,0,0,0,source-plan-recorded; extraction-not-started
+security-intelligence/state-security/foreign-intelligence,Security and intelligence,State security,Foreign intelligence,4,2,2,1,1,0,0,0,source-plan-recorded; extraction-not-started
+security-intelligence/state-security/police-gendarmerie,Security and intelligence,State security,Police and gendarmerie,3,2,1,2,0,0,0,0,source-plan-recorded; extraction-not-started
+security-intelligence/state-security/secret-police,Security and intelligence,State security,Secret police,6,4,2,3,1,0,0,0,source-plan-recorded; extraction-not-started
+social-structure/classes-estates/aristocracy-nobility,Social structure,Classes and estates,Aristocracy and nobility,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+social-structure/classes-estates/bourgeoisie-merchants,Social structure,Classes and estates,Bourgeoisie and merchants,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+social-structure/classes-estates/intelligentsia-professions,Social structure,Classes and estates,Intelligentsia,1,1,0,1,0,0,0,0,source-plan-recorded; extraction-not-started
+social-structure/classes-estates/peasantry,Social structure,Classes and estates,Peasantry,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+social-structure/classes-estates/workers-proletariat,Social structure,Classes and estates,Workers and proletariat,6,6,0,6,0,0,0,0,source-plan-recorded; extraction-not-started
+social-structure/inequality-welfare/charity-mutual-aid,Social structure,Inequality and welfare,Charity and mutual aid,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+social-structure/inequality-welfare/disability-aging,Social structure,Inequality and welfare,Disability and aging,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+social-structure/inequality-welfare/gender-roles,Social structure,Inequality and welfare,Gender roles,7,7,0,7,0,0,0,0,source-plan-recorded; extraction-not-started
+social-structure/inequality-welfare/poverty-homelessness,Social structure,Inequality and welfare,Poverty and homelessness,3,2,1,2,0,0,0,0,source-plan-recorded; extraction-not-started
+social-structure/inequality-welfare/social-mobility,Social structure,Inequality and welfare,Social mobility,3,3,0,3,0,0,0,0,source-plan-recorded; extraction-not-started
+soviet-union/society-production/collectivization,Soviet Russia and USSR,Soviet society and production,Collectivization,2,1,1,1,0,0,0,0,source-plan-recorded; extraction-not-started
+soviet-union/society-production/five-year-plans,Soviet Russia and USSR,Soviet society and production,Five-year plans,3,2,1,2,0,0,0,0,source-plan-recorded; extraction-not-started
+soviet-union/society-production/industrialization,Soviet Russia and USSR,Soviet society and production,Industrialization,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+soviet-union/society-production/repression-gulag,Soviet Russia and USSR,Soviet society and production,Repression and Gulag,4,4,0,3,1,0,0,0,source-plan-recorded; extraction-not-started
+soviet-union/society-production/soviet-everyday-life,Soviet Russia and USSR,Soviet society and production,Soviet everyday life,1,1,0,1,0,0,0,0,source-plan-recorded; extraction-not-started
+soviet-union/state-transformation/civil-war-interventions,Soviet Russia and USSR,Formation of the Soviet state,Civil war and interventions,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+soviet-union/state-transformation/new-economic-policy,Soviet Russia and USSR,Formation of the Soviet state,New Economic Policy,5,4,1,2,2,0,0,0,source-plan-recorded; extraction-not-started
+soviet-union/state-transformation/october-revolution,Soviet Russia and USSR,Formation of the Soviet state,October Revolution,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+soviet-union/state-transformation/soviet-state-apparatus,Soviet Russia and USSR,Formation of the Soviet state,Soviet state apparatus,9,8,1,5,3,0,0,0,source-plan-recorded; extraction-not-started
+soviet-union/state-transformation/war-communism,Soviet Russia and USSR,Formation of the Soviet state,War communism,2,2,0,2,0,0,0,0,source-plan-recorded; extraction-not-started
+state-government/governance-mechanisms/elections-representation,State and government,Governance mechanisms,Elections and representation,7,4,3,2,2,0,0,0,source-plan-recorded; extraction-not-started
+state-government/governance-mechanisms/emergency-powers,State and government,Governance mechanisms,Emergency powers,5,4,1,4,0,0,0,0,source-plan-recorded; extraction-not-started
+state-government/governance-mechanisms/government-procurement,State and government,Governance mechanisms,Government procurement,8,5,3,4,1,0,0,1,source-plan-recorded; extraction-not-started
+state-government/governance-mechanisms/state-planning,State and government,Governance mechanisms,State planning,4,3,1,3,0,0,0,0,source-plan-recorded; extraction-not-started
+state-government/governance-mechanisms/tax-administration,State and government,Governance mechanisms,Tax administration,7,3,4,1,2,0,0,1,source-plan-recorded; extraction-not-started
+state-government/institutions/bureaucracy-civil-service,State and government,Institutions of government,Bureaucracy and civil service,6,3,3,2,1,0,0,0,source-plan-recorded; extraction-not-started
+state-government/institutions/monarchies-dynasties,State and government,Institutions of government,Monarchies and dynasties,3,3,0,3,0,0,0,0,source-plan-recorded; extraction-not-started
+state-government/institutions/parliaments-cabinets,State and government,Institutions of government,Parliaments and cabinets,8,4,4,3,1,0,0,0,source-plan-recorded; extraction-not-started
+state-government/institutions/regional-local-government,State and government,Institutions of government,Regional and local government,6,5,1,3,2,0,0,0,source-plan-recorded; extraction-not-started
+state-government/institutions/state-recordkeeping,State and government,Institutions of government,State recordkeeping,8,3,5,2,1,0,0,1,source-plan-recorded; extraction-not-started
+statistics-data/social-economic-data/historical-prices,Statistics and measurements,Socioeconomic data,Historical prices,4,1,3,0,0,1,0,0,source-plan-recorded; extraction-not-started
+statistics-data/social-economic-data/population-tables,Statistics and measurements,Socioeconomic data,Population tables,4,2,2,0,1,1,0,0,source-plan-recorded; extraction-not-started
+statistics-data/social-economic-data/production-statistics,Statistics and measurements,Socioeconomic data,Production statistics,10,5,5,2,2,1,0,0,source-plan-recorded; extraction-not-started
+statistics-data/social-economic-data/trade-statistics,Statistics and measurements,Socioeconomic data,Trade statistics,6,2,4,0,1,1,0,1,source-plan-recorded; extraction-not-started
+statistics-data/social-economic-data/wage-series,Statistics and measurements,Socioeconomic data,Wage series,3,1,2,0,1,0,0,1,source-plan-recorded; extraction-not-started
+statistics-data/technical-measurement/currency-units-conversion,Statistics and measurements,Technical measurements,Currencies measures and units,3,2,1,0,2,0,0,1,source-plan-recorded; extraction-not-started
+statistics-data/technical-measurement/energy-consumption,Statistics and measurements,Technical measurements,Energy consumption,3,3,0,1,2,0,0,0,source-plan-recorded; extraction-not-started
+statistics-data/technical-measurement/meteorological-series,Statistics and measurements,Technical measurements,Meteorological series,1,1,0,0,0,1,0,1,source-plan-recorded; extraction-not-started
+statistics-data/technical-measurement/technical-specifications,Statistics and measurements,Technical measurements,Technical specifications,9,4,5,0,4,0,0,0,source-plan-recorded; extraction-not-started
+statistics-data/technical-measurement/transport-timetables,Statistics and measurements,Technical measurements,Transport timetables,1,1,0,0,1,0,0,0,source-plan-recorded; extraction-not-started
+transport-logistics/modes/civil-aviation,Transport and logistics,Transport modes,Civil aviation,2,1,1,1,0,0,0,1,source-plan-recorded; extraction-not-started
+transport-logistics/modes/horse-transport,Transport and logistics,Transport modes,Horse transport,1,1,0,0,1,0,0,1,source-plan-recorded; extraction-not-started
+transport-logistics/modes/motor-vehicles,Transport and logistics,Transport modes,Motor vehicles,1,1,0,1,0,0,0,0,source-plan-recorded; extraction-not-started
+transport-logistics/modes/railways-locomotives,Transport and logistics,Transport modes,Railways and locomotives,5,4,1,3,1,0,0,0,source-plan-recorded; extraction-not-started
+transport-logistics/modes/river-sea-shipping,Transport and logistics,Transport modes,River and sea shipping,3,1,2,0,1,0,0,1,source-plan-recorded; extraction-not-started
+transport-logistics/modes/trams-metros,Transport and logistics,Transport modes,Trams and metros,1,1,0,0,1,0,0,1,source-plan-recorded; extraction-not-started
+transport-logistics/operations/freight-handling,Transport and logistics,Operations and flows,Freight handling,2,2,0,0,2,0,0,1,source-plan-recorded; extraction-not-started
+transport-logistics/operations/maintenance-depots,Transport and logistics,Operations and flows,Maintenance depots,2,2,0,2,0,0,0,1,source-plan-recorded; extraction-not-started
+transport-logistics/operations/passenger-travel,Transport and logistics,Operations and flows,Passenger travel,1,1,0,0,1,0,0,1,source-plan-recorded; extraction-not-started
+transport-logistics/operations/stations-terminals,Transport and logistics,Operations and flows,Stations and terminals,1,1,0,0,1,0,0,1,source-plan-recorded; extraction-not-started
+transport-logistics/operations/tickets-timetables,Transport and logistics,Operations and flows,Tickets and timetables,1,1,0,0,1,0,0,1,source-plan-recorded; extraction-not-started
+visual-material-culture/physical-artifacts/furniture-fixtures,Visual and material culture,Physical artifacts and symbols,Furniture and fixtures,2,1,1,0,1,0,0,0,source-plan-recorded; extraction-not-started
+visual-material-culture/physical-artifacts/heraldry-flags-emblems,Visual and material culture,Physical artifacts and symbols,Heraldry flags and emblems,3,3,0,1,2,0,0,0,source-plan-recorded; extraction-not-started
+visual-material-culture/physical-artifacts/household-objects,Visual and material culture,Physical artifacts and symbols,Household objects,6,4,2,2,2,0,0,1,source-plan-recorded; extraction-not-started
+visual-material-culture/physical-artifacts/period-photography,Visual and material culture,Physical artifacts and symbols,Period photography,6,2,4,0,2,0,0,0,source-plan-recorded; extraction-not-started
+visual-material-culture/physical-artifacts/uniforms-insignia,Visual and material culture,Physical artifacts and symbols,Uniforms and insignia,4,3,1,0,3,0,0,1,source-plan-recorded; extraction-not-started
+visual-material-culture/printed-materials/banknotes-coins,Visual and material culture,Printed artifacts,Banknotes and coins,1,1,0,0,1,0,0,1,source-plan-recorded; extraction-not-started
+visual-material-culture/printed-materials/packaging-labels,Visual and material culture,Printed artifacts,Packaging and labels,2,1,1,0,1,0,0,1,source-plan-recorded; extraction-not-started
+visual-material-culture/printed-materials/technical-catalogs,Visual and material culture,Printed artifacts,Technical catalogs,2,1,1,1,0,0,0,0,source-plan-recorded; extraction-not-started
+visual-material-culture/printed-materials/tickets-documents,Visual and material culture,Printed artifacts,Tickets and documents,1,1,0,0,1,0,0,0,source-plan-recorded; extraction-not-started
+visual-material-culture/printed-materials/typography-orthography,Visual and material culture,Printed artifacts,Typography and orthography,6,4,2,2,2,0,0,0,source-plan-recorded; extraction-not-started
