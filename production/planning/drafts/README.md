@@ -13,3 +13,28 @@
 ## Управление проектом / Project management
 
 - [Project Management Log](project-management/README.md) — решения, открытые вопросы, выполненная работа, дорожная карта и сессии / decisions, open issues, work log, roadmap and sessions.
+
+<!-- NAVIGATION:START -->
+## Навигация / Navigation
+
+> Автоматический указатель; текст раздела выше редактируется вручную. / Generated links; edit the section text above normally.
+
+[Главная / Home](../../../README.md) › [production](../../README.md) › [planning](../README.md) › [drafts](README.md)
+
+[По задаче / By task](../../../studio/NAVIGATION.md) · [Карта / Map](../../../studio/REPOSITORY_MAP.md) · [Материалы / Content](../../../studio/CONTENT_CATALOG.md) · [Шаблоны / Templates](../../../templates/README.md)
+
+**Разработка / Drafts:** новые материалы начинают здесь; согласование отдельно. / Start new material here; approval is a separate decision.
+
+[drafts](README.md) · [canon](../canon/README.md) · [archive](../archive/README.md)
+
+### Подразделы / Subfolders
+
+- [Журнал управления проектом / Project Management Log](project-management/README.md) — `project-management/`.
+
+### Файлы рядом / Files here
+
+- [Первые этапы работы студии](launch-roadmap-v0-1.md) — `launch-roadmap-v0-1.md`.
+
+Контекст для ИИ / AI reading list: `python tools/navigate.py context production/planning/drafts`
+
+<!-- NAVIGATION:END -->

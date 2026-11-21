@@ -36,3 +36,23 @@ gh api --method POST repos/alexanderyashin/48-24/rulesets --input studio/rollout
 - [GitHub — CODEOWNERS и границы review](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners).
 
 Поля и поведение сверены с первичной документацией 2026-11-19.
+
+<!-- NAVIGATION:START -->
+## Навигация / Navigation
+
+> Автоматический указатель; текст раздела выше редактируется вручную. / Generated links; edit the section text above normally.
+
+[Главная / Home](../../README.md) › [studio](../README.md) › [rollout](README.md)
+
+[По задаче / By task](../NAVIGATION.md) · [Карта / Map](../REPOSITORY_MAP.md) · [Материалы / Content](../CONTENT_CATALOG.md) · [Шаблоны / Templates](../../templates/README.md)
+
+### Файлы рядом / Files here
+
+- [Состояние организационного rollout](STATUS.md) — `STATUS.md`.
+- [Проверка стартового состояния](VALIDATION.md) — `VALIDATION.md`.
+- [main-protection-bootstrap.json](main-protection-bootstrap.json) — `main-protection-bootstrap.json`.
+- [main-protection-two-authors.json](main-protection-two-authors.json) — `main-protection-two-authors.json`.
+
+Контекст для ИИ / AI reading list: `python tools/navigate.py context studio/rollout`
+
+<!-- NAVIGATION:END -->

@@ -11,3 +11,21 @@ python3 -m unittest discover -s tools/tests -p 'test_*.py' -v
 ```
 
 Новый тест нужен при изменении существенного правила валидатора или исправлении воспроизводимой ошибки. Изменение одного README само по себе не требует нового теста.
+
+<!-- NAVIGATION:START -->
+## Навигация / Navigation
+
+> Автоматический указатель; текст раздела выше редактируется вручную. / Generated links; edit the section text above normally.
+
+[Главная / Home](../../README.md) › [tools](../README.md) › [tests](README.md)
+
+[По задаче / By task](../../studio/NAVIGATION.md) · [Карта / Map](../../studio/REPOSITORY_MAP.md) · [Материалы / Content](../../studio/CONTENT_CATALOG.md) · [Шаблоны / Templates](../../templates/README.md)
+
+### Файлы рядом / Files here
+
+- [test_navigate.py](test_navigate.py) — `test_navigate.py`.
+- [test_validate_repo.py](test_validate_repo.py) — `test_validate_repo.py`.
+
+Контекст для ИИ / AI reading list: `python tools/navigate.py context tools/tests`
+
+<!-- NAVIGATION:END -->

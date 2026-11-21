@@ -43,5 +43,7 @@ jobs:
           fi
       - name: Check the proposed repository
         run: python3 tools/validate_repo.py --root .
+      - name: Check navigation freshness
+        run: python3 tools/navigate.py check
       - name: Verify guard failure cases
         run: python3 -m unittest discover -s tools/tests -p 'test_*.py' -v

@@ -1,3 +1,16 @@
+---
+id: "PM-WORK-LOG-001"
+title: "Выполненная работа / Work Log"
+status: "draft"
+version: "0.1.0"
+owner: "alexanderyashin"
+reviewers: []
+updated: "2026-11-19"
+language: "ru-en"
+source: "Existing project log at 23d18f172cfee87129695c082f4846c1a00734e6"
+ai_assistance: "ChatGPT: technical addition of required metadata only; historical body preserved; human review pending."
+---
+
 # Выполненная работа / Work Log
 
 ## Русский

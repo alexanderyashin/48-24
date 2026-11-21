@@ -16,3 +16,36 @@
 - [military-logistics](./military-logistics/README.md)
 - [police-and-security](./police-and-security/README.md)
 - [intelligence](./intelligence/README.md)
+
+<!-- NAVIGATION:START -->
+## Навигация / Navigation
+
+> Автоматический указатель; текст раздела выше редактируется вручную. / Generated links; edit the section text above normally.
+
+[Главная / Home](../../../README.md) › [world](../../README.md) › [institutions](../README.md) › [drafts](README.md)
+
+[По задаче / By task](../../../studio/NAVIGATION.md) · [Карта / Map](../../../studio/REPOSITORY_MAP.md) · [Материалы / Content](../../../studio/CONTENT_CATALOG.md) · [Шаблоны / Templates](../../../templates/README.md)
+
+**Разработка / Drafts:** новые материалы начинают здесь; согласование отдельно. / Start new material here; approval is a separate decision.
+
+[drafts](README.md) · [canon](../canon/README.md) · [archive](../archive/README.md)
+
+### Подразделы / Subfolders
+
+- [Разведка и контрразведка / Intelligence and counterintelligence](intelligence/README.md) — `intelligence/`.
+- [Военное снабжение / Military logistics](military-logistics/README.md) — `military-logistics/`.
+- [Военная организация / Military organization](military-organization/README.md) — `military-organization/`.
+- [Полиция и безопасность / Police and security](police-and-security/README.md) — `police-and-security/`.
+
+### Файлы рядом / Files here
+
+- [Международная система](international-system-v0-1.md) — `international-system-v0-1.md`.
+- [Государство и институты](state-and-institutions-v0-1.md) — `state-and-institutions-v0-1.md`.
+
+### Подходящие формы / Relevant forms
+
+[world-entry.md](../../../templates/world-entry.md) · [world-object.md](../../../templates/world-object.md)
+
+Контекст для ИИ / AI reading list: `python tools/navigate.py context world/institutions/drafts`
+
+<!-- NAVIGATION:END -->

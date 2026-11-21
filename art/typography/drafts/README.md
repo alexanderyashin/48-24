@@ -9,3 +9,29 @@
 Для изображений, шрифтов, аудио и других бинарных материалов храните исходник и производные рядом или связывайте их в паспорте ресурса. Доступность файла в интернете не доказывает право на его публикацию здесь.
 
 [Область](../README.md) · [Правила канона](../../../studio/CANON_POLICY.md) · [Шаблоны](../../../templates/README.md).
+
+<!-- NAVIGATION:START -->
+## Навигация / Navigation
+
+> Автоматический указатель; текст раздела выше редактируется вручную. / Generated links; edit the section text above normally.
+
+[Главная / Home](../../../README.md) › [art](../../README.md) › [typography](../README.md) › [drafts](README.md)
+
+[По задаче / By task](../../../studio/NAVIGATION.md) · [Карта / Map](../../../studio/REPOSITORY_MAP.md) · [Материалы / Content](../../../studio/CONTENT_CATALOG.md) · [Шаблоны / Templates](../../../templates/README.md)
+
+**Разработка / Drafts:** новые материалы начинают здесь; согласование отдельно. / Start new material here; approval is a separate decision.
+
+[drafts](README.md) · [canon](../canon/README.md) · [archive](../archive/README.md)
+
+### Файлы рядом / Files here
+
+- [font-register.csv](font-register.csv) — `font-register.csv`.
+- [Требования к шрифтам и надписям](typography-brief-v0-1.md) — `typography-brief-v0-1.md`.
+
+### Подходящие формы / Relevant forms
+
+[font.md](../../../templates/font.md) · [3d-production-spec.md](../../../templates/3d-production-spec.md) · [physical-behavior-spec.md](../../../templates/physical-behavior-spec.md) · [engine-asset.example.json](../../../templates/engine-asset.example.json)
+
+Контекст для ИИ / AI reading list: `python tools/navigate.py context art/typography/drafts`
+
+<!-- NAVIGATION:END -->
