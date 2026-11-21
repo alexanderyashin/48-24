@@ -11,3 +11,26 @@
 Operating principles, weapon classes, logistics, constraints, ammunition, and interoperability; visual sketches belong in art/props.
 
 This is a draft workspace. Keep separate records and sketches with IDs, provenance, and cross-references; canon approval follows project-wide rules. Binary assets require provenance metadata and rights clearance. Link related materials in other domains rather than duplicating them.
+
+<!-- NAVIGATION:START -->
+## Навигация / Navigation
+
+> Автоматический указатель; текст раздела выше редактируется вручную. / Generated links; edit the section text above normally.
+
+[Главная / Home](../../../../README.md) › [world](../../../README.md) › [technology](../../README.md) › [drafts](../README.md) › [weapons-systems](README.md)
+
+[По задаче / By task](../../../../studio/NAVIGATION.md) · [Карта / Map](../../../../studio/REPOSITORY_MAP.md) · [Материалы / Content](../../../../studio/CONTENT_CATALOG.md) · [Шаблоны / Templates](../../../../templates/README.md)
+
+**Разработка / Drafts:** новые материалы начинают здесь; согласование отдельно. / Start new material here; approval is a separate decision.
+
+[drafts](../README.md) · [canon](../../canon/README.md) · [archive](../../archive/README.md)
+
+Пока здесь только инструкция. / This folder currently contains instructions only.
+
+### Подходящие формы / Relevant forms
+
+[world-entry.md](../../../../templates/world-entry.md) · [technology.md](../../../../templates/technology.md) · [physical-behavior-spec.md](../../../../templates/physical-behavior-spec.md) · [world-object.md](../../../../templates/world-object.md)
+
+Контекст для ИИ / AI reading list: `python tools/navigate.py context world/technology/drafts/weapons-systems`
+
+<!-- NAVIGATION:END -->

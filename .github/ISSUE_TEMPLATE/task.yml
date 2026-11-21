@@ -2,6 +2,13 @@ name: Рабочая задача
 description: Небольшая творческая или производственная задача с владельцем и результатом
 title: "[TASK] "
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Перед задачей / Before starting:
+        [Куда положить материал / Choose a destination](https://github.com/alexanderyashin/48-24/blob/main/studio/NAVIGATION.md) ·
+        [Начало работы / Start here](https://github.com/alexanderyashin/48-24/blob/main/studio/START_HERE.md) ·
+        [Открытые PR / Open PRs](https://github.com/alexanderyashin/48-24/pulls).
   - type: input
     id: owner
     attributes:

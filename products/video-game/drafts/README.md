@@ -22,3 +22,39 @@
 - [gameplay-systems](gameplay-systems/README.md) — игровые системы / gameplay systems
 - [build-and-release](build-and-release/README.md) — сборки / builds
 - [technical-architecture](technical-architecture/README.md) — техническая архитектура / technical architecture
+
+<!-- NAVIGATION:START -->
+## Навигация / Navigation
+
+> Автоматический указатель; текст раздела выше редактируется вручную. / Generated links; edit the section text above normally.
+
+[Главная / Home](../../../README.md) › [products](../../README.md) › [video-game](../README.md) › [drafts](README.md)
+
+[По задаче / By task](../../../studio/NAVIGATION.md) · [Карта / Map](../../../studio/REPOSITORY_MAP.md) · [Материалы / Content](../../../studio/CONTENT_CATALOG.md) · [Шаблоны / Templates](../../../templates/README.md)
+
+**Разработка / Drafts:** новые материалы начинают здесь; согласование отдельно. / Start new material here; approval is a separate decision.
+
+[drafts](README.md) · [canon](../canon/README.md) · [archive](../archive/README.md)
+
+### Подразделы / Subfolders
+
+- [Конвейер игровых ресурсов / Asset pipeline](asset-pipeline/README.md) — `asset-pipeline/`.
+- [Сборка и выпуск / Build and release](build-and-release/README.md) — `build-and-release/`.
+- [Игровой движок / Game engine](engine/README.md) — `engine/`.
+- [Игровые системы / Gameplay systems](gameplay-systems/README.md) — `gameplay-systems/`.
+- [Интеграции и адаптеры / Integrations and adapters](integrations/README.md) — `integrations/`.
+- [Прототипы / Prototypes](prototypes/README.md) — `prototypes/`.
+- [Техническая архитектура / Technical architecture](technical-architecture/README.md) — `technical-architecture/`.
+- [Тесты и приёмка / Tests and acceptance](tests/README.md) — `tests/`.
+
+### Файлы рядом / Files here
+
+- [Стартовый пакет компьютерной игры](starting-package-v0-1.md) — `starting-package-v0-1.md`.
+
+### Подходящие формы / Relevant forms
+
+[adaptation.md](../../../templates/adaptation.md) · [engine-implementation-profile.md](../../../templates/engine-implementation-profile.md)
+
+Контекст для ИИ / AI reading list: `python tools/navigate.py context products/video-game/drafts`
+
+<!-- NAVIGATION:END -->

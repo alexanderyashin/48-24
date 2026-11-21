@@ -39,3 +39,28 @@ For each **selected object**, record its title, original URL/accession number, h
 Categories: `costumes`, `weapons`, `architecture-exteriors`, `architecture-interiors`, `furniture`, `household-objects`, `industry`, `transport`, `typography`, `daily-life`. An object may have several categories. Cross-reference `art/` and `world/` records by ID instead of duplicating images.
 
 **Rights:** online access is not an open licence. Verify rights for each object and digital reproduction before downloading or committing it. If rights are unresolved, keep a link and bibliographic description only. See the [asset policy](../../../../studio/ASSET_WORKFLOW.md).
+
+<!-- NAVIGATION:START -->
+## Навигация / Navigation
+
+> Автоматический указатель; текст раздела выше редактируется вручную. / Generated links; edit the section text above normally.
+
+[Главная / Home](../../../../README.md) › [research](../../../README.md) › [visual-references](../../README.md) › [drafts](../README.md) › [historical-collections](README.md)
+
+[По задаче / By task](../../../../studio/NAVIGATION.md) · [Карта / Map](../../../../studio/REPOSITORY_MAP.md) · [Материалы / Content](../../../../studio/CONTENT_CATALOG.md) · [Шаблоны / Templates](../../../../templates/README.md)
+
+**Разработка / Drafts:** новые материалы начинают здесь; согласование отдельно. / Start new material here; approval is a separate decision.
+
+[drafts](../README.md) · [canon](../../canon/README.md) · [archive](../../archive/README.md)
+
+### Файлы рядом / Files here
+
+- [catalog.csv](catalog.csv) — `catalog.csv`.
+
+### Подходящие формы / Relevant forms
+
+[historical-object-reference.md](../../../../templates/historical-object-reference.md) · [research.md](../../../../templates/research.md)
+
+Контекст для ИИ / AI reading list: `python tools/navigate.py context research/visual-references/drafts/historical-collections`
+
+<!-- NAVIGATION:END -->

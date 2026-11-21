@@ -13,3 +13,28 @@
 ## Специализированные черновики / Focused drafts
 
 - [Костюмы / Costumes](costumes/README.md) — униформа, гражданская одежда и аксессуары.
+
+<!-- NAVIGATION:START -->
+## Навигация / Navigation
+
+> Автоматический указатель; текст раздела выше редактируется вручную. / Generated links; edit the section text above normally.
+
+[Главная / Home](../../../README.md) › [art](../../README.md) › [character-design](../README.md) › [drafts](README.md)
+
+[По задаче / By task](../../../studio/NAVIGATION.md) · [Карта / Map](../../../studio/REPOSITORY_MAP.md) · [Материалы / Content](../../../studio/CONTENT_CATALOG.md) · [Шаблоны / Templates](../../../templates/README.md)
+
+**Разработка / Drafts:** новые материалы начинают здесь; согласование отдельно. / Start new material here; approval is a separate decision.
+
+[drafts](README.md) · [canon](../canon/README.md) · [archive](../archive/README.md)
+
+### Подразделы / Subfolders
+
+- [Костюмы / Costumes](costumes/README.md) — `costumes/`.
+
+### Подходящие формы / Relevant forms
+
+[game-art-asset.md](../../../templates/game-art-asset.md) · [art-brief.md](../../../templates/art-brief.md) · [3d-production-spec.md](../../../templates/3d-production-spec.md) · [physical-behavior-spec.md](../../../templates/physical-behavior-spec.md) · [engine-asset.example.json](../../../templates/engine-asset.example.json)
+
+Контекст для ИИ / AI reading list: `python tools/navigate.py context art/character-design/drafts`
+
+<!-- NAVIGATION:END -->

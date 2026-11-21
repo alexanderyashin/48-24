@@ -13,3 +13,33 @@
 ## Специализированные черновики / Focused drafts
 
 - [Механика мира / World mechanics](mechanics/README.md) — системные правила, ограничения и зависимости.
+
+<!-- NAVIGATION:START -->
+## Навигация / Navigation
+
+> Автоматический указатель; текст раздела выше редактируется вручную. / Generated links; edit the section text above normally.
+
+[Главная / Home](../../../README.md) › [world](../../README.md) › [world-bible](../README.md) › [drafts](README.md)
+
+[По задаче / By task](../../../studio/NAVIGATION.md) · [Карта / Map](../../../studio/REPOSITORY_MAP.md) · [Материалы / Content](../../../studio/CONTENT_CATALOG.md) · [Шаблоны / Templates](../../../templates/README.md)
+
+**Разработка / Drafts:** новые материалы начинают здесь; согласование отдельно. / Start new material here; approval is a separate decision.
+
+[drafts](README.md) · [canon](../canon/README.md) · [archive](../archive/README.md)
+
+### Подразделы / Subfolders
+
+- [Механика мира / World mechanics](mechanics/README.md) — `mechanics/`.
+
+### Файлы рядом / Files here
+
+- [SPOT 0.1 — импорт исходного состояния проекта](spot-0-1-import.md) — `spot-0-1-import.md`.
+- [Правила мира и фантастические допущения](world-rules-v0-1.md) — `world-rules-v0-1.md`.
+
+### Подходящие формы / Relevant forms
+
+[world-entry.md](../../../templates/world-entry.md) · [world-object.md](../../../templates/world-object.md)
+
+Контекст для ИИ / AI reading list: `python tools/navigate.py context world/world-bible/drafts`
+
+<!-- NAVIGATION:END -->

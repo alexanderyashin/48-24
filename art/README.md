@@ -27,3 +27,37 @@
 - [Бытовые предметы / Household objects](props/drafts/household-objects/README.md)
 - [Архитектура: экстерьеры / Exteriors](environments/drafts/architecture-exteriors/README.md)
 - [Архитектура: интерьеры / Interiors](environments/drafts/architecture-interiors/README.md)
+
+<!-- NAVIGATION:START -->
+## Навигация / Navigation
+
+> Автоматический указатель; текст раздела выше редактируется вручную. / Generated links; edit the section text above normally.
+
+[Главная / Home](../README.md) › [art](README.md)
+
+[По задаче / By task](../studio/NAVIGATION.md) · [Карта / Map](../studio/REPOSITORY_MAP.md) · [Материалы / Content](../studio/CONTENT_CATALOG.md) · [Шаблоны / Templates](../templates/README.md)
+
+### Подразделы / Subfolders
+
+- [Художественное направление](art-direction/README.md) — `art-direction/`.
+- [Дизайн персонажей](character-design/README.md) — `character-design/`.
+- [Концепт-арт](concept-art/README.md) — `concept-art/`.
+- [Окружение](environments/README.md) — `environments/`.
+- [Интерфейсы](interface/README.md) — `interface/`.
+- [Карты](maps/README.md) — `maps/`.
+- [Палитры](palettes/README.md) — `palettes/`.
+- [Предметы и техника](props/README.md) — `props/`.
+- [Символика](symbols/README.md) — `symbols/`.
+- [Шрифты и надписи](typography/README.md) — `typography/`.
+
+### Файлы рядом / Files here
+
+- [Визуал: контекст для помощника / Art assistant context](AGENTS.md) — `AGENTS.md`.
+
+### Подходящие формы / Relevant forms
+
+[art-brief.md](../templates/art-brief.md) · [game-art-asset.md](../templates/game-art-asset.md) · [asset.example.json](../templates/asset.example.json) · [palette.md](../templates/palette.md) · [font.md](../templates/font.md) · [3d-production-spec.md](../templates/3d-production-spec.md) · [physical-behavior-spec.md](../templates/physical-behavior-spec.md) · [engine-asset.example.json](../templates/engine-asset.example.json)
+
+Контекст для ИИ / AI reading list: `python tools/navigate.py context art`
+
+<!-- NAVIGATION:END -->

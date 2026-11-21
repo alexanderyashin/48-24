@@ -25,3 +25,22 @@ This is a temporary intake area for miscellaneous creative fragments: plot ideas
 6. Do not upload unlicensed references, private chats, or large binaries to this public repository. Follow the [asset policy](../ASSET_WORKFLOW.md); retain a permissible description or link when rights are unresolved.
 
 Inbox items are not canon. Domain records still follow `drafts → canon → archive` and the [canon policy](../CANON_POLICY.md).
+
+<!-- NAVIGATION:START -->
+## Навигация / Navigation
+
+> Автоматический указатель; текст раздела выше редактируется вручную. / Generated links; edit the section text above normally.
+
+[Главная / Home](../../README.md) › [studio](../README.md) › [inbox](README.md)
+
+[По задаче / By task](../NAVIGATION.md) · [Карта / Map](../REPOSITORY_MAP.md) · [Материалы / Content](../CONTENT_CATALOG.md) · [Шаблоны / Templates](../../templates/README.md)
+
+Пока здесь только инструкция. / This folder currently contains instructions only.
+
+### Подходящие формы / Relevant forms
+
+[idea-fragment.md](../../templates/idea-fragment.md)
+
+Контекст для ИИ / AI reading list: `python tools/navigate.py context studio/inbox`
+
+<!-- NAVIGATION:END -->

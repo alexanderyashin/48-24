@@ -1,0 +1,990 @@
+{
+  "schema_version": 1,
+  "notes": {
+    "ru": "Вспомогательная навигация. Правила задают AGENTS.md, профильные политики и studio/structure.json; маршруты не утверждают канон и не перемещают файлы.",
+    "en": "Navigation helper only. AGENTS.md, domain policies and studio/structure.json define rules; routes neither approve canon nor move files."
+  },
+  "routes": [
+    {
+      "id": "inbox",
+      "title": {
+        "ru": "Сохранить необработанную идею",
+        "en": "Capture a raw idea"
+      },
+      "description": {
+        "ru": "Смешанный или ещё не разобранный материал: одна исходная запись, затем ссылки на профильные карточки.",
+        "en": "Mixed or unclassified material: keep one intake record, then link it to domain records."
+      },
+      "aliases": [
+        "идея",
+        "идеи",
+        "набросок",
+        "фрагмент",
+        "inbox",
+        "idea",
+        "fragment",
+        "смешанный концепт"
+      ],
+      "target": "studio/inbox",
+      "templates": [
+        "templates/idea-fragment.md"
+      ],
+      "context": [
+        "studio/inbox/README.md",
+        "studio/NAMING_AND_METADATA.md"
+      ]
+    },
+    {
+      "id": "story-arc",
+      "title": {
+        "ru": "Длинная сюжетная линия",
+        "en": "Develop a long story arc"
+      },
+      "description": {
+        "ru": "Длительное развитие конфликта, причинная цепочка и повороты через несколько историй. Для отдельной законченной истории смотрите episode.",
+        "en": "A conflict and causal progression spanning multiple stories. Use episode for one self-contained story."
+      },
+      "aliases": [
+        "сюжет",
+        "сюжеты",
+        "арка",
+        "сюжетная линия",
+        "plot",
+        "story arc",
+        "arc"
+      ],
+      "target": "narrative/story-arcs/drafts",
+      "templates": [
+        "templates/story-arc.md"
+      ],
+      "context": [
+        "studio/guides/writing.md",
+        "studio/NAMING_AND_METADATA.md",
+        "studio/CANON_POLICY.md"
+      ]
+    },
+    {
+      "id": "episode",
+      "title": {
+        "ru": "Самостоятельный сюжет или глава",
+        "en": "Write a standalone story or chapter"
+      },
+      "description": {
+        "ru": "Одна история, глава, миссия или приключение; продуктовая версия связывается с этой карточкой.",
+        "en": "One story, chapter, mission or adventure; link product adaptations to this record."
+      },
+      "aliases": [
+        "сюжет",
+        "сюжеты",
+        "история",
+        "рассказ",
+        "глава",
+        "выпуск",
+        "миссия",
+        "episode",
+        "standalone story",
+        "chapter",
+        "plot",
+        "script",
+        "сценарий"
+      ],
+      "target": "narrative/episodes/drafts",
+      "templates": [
+        "templates/episode.md"
+      ],
+      "context": [
+        "studio/guides/writing.md",
+        "studio/NAMING_AND_METADATA.md",
+        "studio/CANON_POLICY.md"
+      ]
+    },
+    {
+      "id": "scene",
+      "title": {
+        "ru": "Отдельная сцена",
+        "en": "Write one scene"
+      },
+      "description": {
+        "ru": "Локальное действие, цель, препятствие, выбор и изменение; свяжите с EP/ARC и персонажами.",
+        "en": "A local action, goal, obstacle, choice and change; link EP/ARC and characters."
+      },
+      "aliases": [
+        "сцена",
+        "сцены",
+        "scene",
+        "сценка"
+      ],
+      "target": "narrative/scenes/drafts",
+      "templates": [
+        "templates/scene.md"
+      ],
+      "context": [
+        "studio/guides/writing.md",
+        "studio/NAMING_AND_METADATA.md",
+        "studio/CANON_POLICY.md"
+      ]
+    },
+    {
+      "id": "character",
+      "title": {
+        "ru": "Персонаж",
+        "en": "Develop a character"
+      },
+      "description": {
+        "ru": "Биография, мотивация, знания и развитие. Внешний вид связан с art/character-design.",
+        "en": "Biography, motivations, knowledge and development. Link appearance to art/character-design."
+      },
+      "aliases": [
+        "персонаж",
+        "персонажи",
+        "герой",
+        "биография",
+        "character",
+        "hero"
+      ],
+      "target": "narrative/characters/drafts",
+      "templates": [
+        "templates/character.md"
+      ],
+      "context": [
+        "studio/guides/writing.md",
+        "studio/NAMING_AND_METADATA.md",
+        "studio/CANON_POLICY.md"
+      ]
+    },
+    {
+      "id": "dialogue",
+      "title": {
+        "ru": "Диалог или голос персонажа",
+        "en": "Write dialogue or a character voice"
+      },
+      "description": {
+        "ru": "Реплики и особенности речи. Сцена целиком хранится в scenes; запись голоса относится к audio/voices.",
+        "en": "Lines and speech characteristics. Complete scenes belong in scenes; voice recordings belong in audio/voices."
+      },
+      "aliases": [
+        "диалог",
+        "диалоги",
+        "монолог",
+        "реплика",
+        "dialogue",
+        "monologue"
+      ],
+      "target": "narrative/dialogue/drafts",
+      "templates": [],
+      "context": [
+        "studio/guides/writing.md",
+        "studio/NAMING_AND_METADATA.md",
+        "studio/CANON_POLICY.md"
+      ]
+    },
+    {
+      "id": "premise",
+      "title": {
+        "ru": "Логлайн и общий замысел",
+        "en": "Shape a logline or premise"
+      },
+      "description": {
+        "ru": "Обещание истории, темы и краткое изложение; сохраняйте альтернативы и открытые решения.",
+        "en": "Story promise, themes and concise outline; retain alternatives and unresolved decisions."
+      },
+      "aliases": [
+        "логлайн",
+        "замысел",
+        "премиса",
+        "синопсис",
+        "logline",
+        "premise",
+        "synopsis"
+      ],
+      "target": "narrative/premise/drafts",
+      "templates": [],
+      "context": [
+        "studio/guides/writing.md",
+        "studio/NAMING_AND_METADATA.md",
+        "studio/CANON_POLICY.md"
+      ]
+    },
+    {
+      "id": "world",
+      "title": {
+        "ru": "Правило или устройство мира",
+        "en": "Develop a world rule or system"
+      },
+      "description": {
+        "ru": "Выберите профильную область по README: правила, время, места, институты, фракции, общество, экономика или технологии.",
+        "en": "Choose the domain in the README: rules, time, places, institutions, factions, society, economy or technology."
+      },
+      "aliases": [
+        "мир",
+        "сеттинг",
+        "лор",
+        "правило мира",
+        "world",
+        "setting",
+        "lore",
+        "worldbuilding"
+      ],
+      "target": "world",
+      "templates": [
+        "templates/world-entry.md"
+      ],
+      "context": [
+        "world/README.md",
+        "studio/source-import-guide.md"
+      ]
+    },
+    {
+      "id": "location",
+      "title": {
+        "ru": "Локация, город или маршрут",
+        "en": "Develop a place or route"
+      },
+      "description": {
+        "ru": "Факты места и ограничения — здесь; изображения окружения связаны с art/environments.",
+        "en": "Place facts and constraints belong here; link environment images in art/environments."
+      },
+      "aliases": [
+        "локация",
+        "город",
+        "география",
+        "маршрут",
+        "location",
+        "city",
+        "geography"
+      ],
+      "target": "world/geography/drafts",
+      "templates": [
+        "templates/location.md"
+      ],
+      "context": [
+        "world/geography/README.md",
+        "studio/OBJECT_STANDARD.md"
+      ]
+    },
+    {
+      "id": "faction",
+      "title": {
+        "ru": "Фракция или группа интересов",
+        "en": "Develop a faction"
+      },
+      "description": {
+        "ru": "Цели, ресурсы, отношения и конфликт группы; государственные процедуры — в institutions.",
+        "en": "Group goals, resources, relationships and conflict; state procedures belong in institutions."
+      },
+      "aliases": [
+        "фракция",
+        "группа",
+        "организация",
+        "faction"
+      ],
+      "target": "world/factions/drafts",
+      "templates": [
+        "templates/faction.md"
+      ],
+      "context": [
+        "world/factions/README.md"
+      ]
+    },
+    {
+      "id": "technology",
+      "title": {
+        "ru": "Технология и механизм",
+        "en": "Develop a technology or mechanism"
+      },
+      "description": {
+        "ru": "Принципы, доступность, ограничения и достоверность. Физические значения не заполняются выдуманными фактами.",
+        "en": "Principles, availability, constraints and confidence. Do not invent physical values."
+      },
+      "aliases": [
+        "технология",
+        "механизм",
+        "энергия",
+        "связь",
+        "technology",
+        "mechanism"
+      ],
+      "target": "world/technology/drafts",
+      "templates": [
+        "templates/technology.md",
+        "templates/physical-behavior-spec.md"
+      ],
+      "context": [
+        "studio/OBJECT_STANDARD.md",
+        "studio/PHYSICS_GOVERNANCE.md"
+      ]
+    },
+    {
+      "id": "object",
+      "title": {
+        "ru": "Предмет мира OBJ",
+        "en": "Document a world object OBJ"
+      },
+      "description": {
+        "ru": "Выберите область по смыслу объекта; сохраните одну OBJ-карточку и связи на REF/ART. Если область неясна, начните с inbox.",
+        "en": "Choose the object's semantic domain; retain one OBJ record with REF/ART links. Use inbox while its domain is unclear."
+      },
+      "aliases": [
+        "объект",
+        "предмет",
+        "obj",
+        "object",
+        "материальная культура"
+      ],
+      "target": "world",
+      "templates": [
+        "templates/world-object.md"
+      ],
+      "context": [
+        "studio/OBJECT_STANDARD.md",
+        "studio/PHYSICS_GOVERNANCE.md",
+        "studio/guides/assets-and-products.md"
+      ]
+    },
+    {
+      "id": "reference",
+      "title": {
+        "ru": "Исторический или визуальный референс REF",
+        "en": "Record a historical or visual reference REF"
+      },
+      "description": {
+        "ru": "Источник, датировка, музейная ссылка и условия использования; ссылка не даёт права копировать изображение.",
+        "en": "Source, dating, museum link and usage terms; a link does not grant permission to copy an image."
+      },
+      "aliases": [
+        "референс",
+        "референсы",
+        "источник",
+        "музей",
+        "reference",
+        "ref",
+        "museum"
+      ],
+      "target": "research/visual-references/drafts",
+      "templates": [
+        "templates/historical-object-reference.md"
+      ],
+      "context": [
+        "studio/OBJECT_STANDARD.md",
+        "studio/ASSET_WORKFLOW.md"
+      ]
+    },
+    {
+      "id": "research",
+      "title": {
+        "ru": "Исследование и проверка факта",
+        "en": "Research and verify a fact"
+      },
+      "description": {
+        "ru": "Выберите history, visual-references или technical-feasibility; отделяйте исторический факт от решения вымышленного мира.",
+        "en": "Choose history, visual-references or technical-feasibility; distinguish historical facts from fictional decisions."
+      },
+      "aliases": [
+        "исследование",
+        "история",
+        "факт",
+        "research",
+        "history",
+        "fact"
+      ],
+      "target": "research",
+      "templates": [
+        "templates/research.md"
+      ],
+      "context": [
+        "research/README.md",
+        "studio/CANON_POLICY.md"
+      ]
+    },
+    {
+      "id": "art",
+      "title": {
+        "ru": "Иллюстрация, концепт или ART-ресурс",
+        "en": "Create an illustration, concept or ART asset"
+      },
+      "description": {
+        "ru": "Общий визуальный поиск — здесь; предметные изображения направляйте в character-design, environments, props и другие области art.",
+        "en": "Use this folder for general visual exploration; route specific assets to character-design, environments, props or other art domains."
+      },
+      "aliases": [
+        "арт",
+        "рисунок",
+        "иллюстрация",
+        "концепт",
+        "art",
+        "illustration",
+        "concept"
+      ],
+      "target": "art/concept-art/drafts",
+      "templates": [
+        "templates/art-brief.md",
+        "templates/game-art-asset.md",
+        "templates/asset.example.json"
+      ],
+      "context": [
+        "studio/guides/assets-and-products.md",
+        "studio/ASSET_WORKFLOW.md",
+        "studio/VISUAL_GOVERNANCE.md",
+        "studio/OBJECT_STANDARD.md"
+      ]
+    },
+    {
+      "id": "costume",
+      "title": {
+        "ru": "Костюм и внешность",
+        "en": "Design a costume or appearance"
+      },
+      "description": {
+        "ru": "Визуальный дизайн связан с персонажем/OBJ; описание персонажа остаётся в narrative/characters.",
+        "en": "Link the visual design to a character/OBJ; character writing remains in narrative/characters."
+      },
+      "aliases": [
+        "костюм",
+        "одежда",
+        "внешность",
+        "costume",
+        "clothing",
+        "character design"
+      ],
+      "target": "art/character-design/drafts",
+      "templates": [
+        "templates/game-art-asset.md",
+        "templates/art-brief.md"
+      ],
+      "context": [
+        "studio/guides/assets-and-products.md",
+        "studio/ASSET_WORKFLOW.md",
+        "studio/VISUAL_GOVERNANCE.md",
+        "studio/OBJECT_STANDARD.md"
+      ]
+    },
+    {
+      "id": "environment",
+      "title": {
+        "ru": "Архитектура и окружение",
+        "en": "Design architecture or environments"
+      },
+      "description": {
+        "ru": "Изображения мест, зданий и интерьеров; факты географии и OBJ связываются по ID.",
+        "en": "Visuals of locations, buildings and interiors; link geography facts and OBJ records by ID."
+      },
+      "aliases": [
+        "архитектура",
+        "окружение",
+        "интерьер",
+        "экстерьер",
+        "environment",
+        "architecture",
+        "interior"
+      ],
+      "target": "art/environments/drafts",
+      "templates": [
+        "templates/art-brief.md",
+        "templates/game-art-asset.md"
+      ],
+      "context": [
+        "studio/guides/assets-and-products.md",
+        "studio/ASSET_WORKFLOW.md",
+        "studio/VISUAL_GOVERNANCE.md"
+      ]
+    },
+    {
+      "id": "prop",
+      "title": {
+        "ru": "Оружие, утварь и реквизит",
+        "en": "Design weapons, household items or props"
+      },
+      "description": {
+        "ru": "ART-реализация предмета; функция и конструкция мира связываются с единой OBJ-карточкой.",
+        "en": "An ART implementation of an object; link function and world construction to its single OBJ record."
+      },
+      "aliases": [
+        "оружие",
+        "утварь",
+        "реквизит",
+        "мебель",
+        "prop",
+        "weapon",
+        "furniture"
+      ],
+      "target": "art/props/drafts",
+      "templates": [
+        "templates/game-art-asset.md",
+        "templates/art-brief.md"
+      ],
+      "context": [
+        "studio/guides/assets-and-products.md",
+        "studio/ASSET_WORKFLOW.md",
+        "studio/OBJECT_STANDARD.md",
+        "studio/PHYSICS_GOVERNANCE.md"
+      ]
+    },
+    {
+      "id": "palette",
+      "title": {
+        "ru": "Цветовая палитра",
+        "en": "Define a colour palette"
+      },
+      "description": {
+        "ru": "Значения цветов, роль, контекст и варианты; укажите область применения.",
+        "en": "Colour values, roles, context and variants; state the intended scope."
+      },
+      "aliases": [
+        "палитра",
+        "цвет",
+        "цвета",
+        "palette",
+        "color",
+        "colour"
+      ],
+      "target": "art/palettes/drafts",
+      "templates": [
+        "templates/palette.md"
+      ],
+      "context": [
+        "art/art-direction/README.md",
+        "studio/guides/assets-and-products.md"
+      ]
+    },
+    {
+      "id": "font",
+      "title": {
+        "ru": "Шрифт и типографика",
+        "en": "Choose typography or a font"
+      },
+      "description": {
+        "ru": "Сначала карточка и проверка прав; наличие папки не разрешает скачивать или публиковать файлы шрифта.",
+        "en": "Begin with a record and rights check; a folder does not authorize downloading or publishing font files."
+      },
+      "aliases": [
+        "шрифт",
+        "шрифты",
+        "типографика",
+        "font",
+        "typography"
+      ],
+      "target": "art/typography/drafts",
+      "templates": [
+        "templates/font.md"
+      ],
+      "context": [
+        "studio/guides/assets-and-products.md",
+        "studio/ASSET_WORKFLOW.md"
+      ]
+    },
+    {
+      "id": "music",
+      "title": {
+        "ru": "Музыка",
+        "en": "Develop music"
+      },
+      "description": {
+        "ru": "Темы, музыкальные брифы, партитуры и записи с источниками и правами; паспорта для бинарных файлов.",
+        "en": "Themes, music briefs, scores and recordings with sources and rights; binary files need sidecars."
+      },
+      "aliases": [
+        "музыка",
+        "трек",
+        "мелодия",
+        "music",
+        "track",
+        "score"
+      ],
+      "target": "audio/music/drafts",
+      "templates": [
+        "templates/asset.example.json"
+      ],
+      "context": [
+        "studio/guides/assets-and-products.md",
+        "studio/ASSET_WORKFLOW.md"
+      ]
+    },
+    {
+      "id": "sound",
+      "title": {
+        "ru": "Звуки и атмосферы",
+        "en": "Develop sound design"
+      },
+      "description": {
+        "ru": "Шумы, окружение и звуковые эффекты; источник записи и права фиксируются отдельно.",
+        "en": "Noises, ambience and sound effects; record source and usage rights separately."
+      },
+      "aliases": [
+        "звук",
+        "шум",
+        "атмосфера",
+        "sound",
+        "foley",
+        "sound design"
+      ],
+      "target": "audio/sound-design/drafts",
+      "templates": [
+        "templates/asset.example.json"
+      ],
+      "context": [
+        "studio/guides/assets-and-products.md",
+        "studio/ASSET_WORKFLOW.md"
+      ]
+    },
+    {
+      "id": "voice",
+      "title": {
+        "ru": "Запись или синтез голоса",
+        "en": "Record or synthesize a voice"
+      },
+      "description": {
+        "ru": "Исполнение и запись; текст реплик — в narrative/dialogue, права на голос/исполнение проверяются отдельно.",
+        "en": "Performance and recordings; dialogue text belongs in narrative/dialogue, with separate voice/performance rights checks."
+      },
+      "aliases": [
+        "голос",
+        "озвучка",
+        "voice",
+        "voiceover"
+      ],
+      "target": "audio/voices/drafts",
+      "templates": [
+        "templates/asset.example.json"
+      ],
+      "context": [
+        "studio/guides/assets-and-products.md",
+        "studio/ASSET_WORKFLOW.md"
+      ]
+    },
+    {
+      "id": "game",
+      "title": {
+        "ru": "Компьютерная игра",
+        "en": "Develop the video game"
+      },
+      "description": {
+        "ru": "Механики, архитектура и реализации продукта с точной базой канона; движок не считается выбранным из-за наличия шаблона.",
+        "en": "Product mechanics, architecture and implementations with a precise canon baseline; a template does not select an engine."
+      },
+      "aliases": [
+        "игра",
+        "компьютерная игра",
+        "game",
+        "video game",
+        "engine"
+      ],
+      "target": "products/video-game/drafts",
+      "templates": [
+        "templates/adaptation.md",
+        "templates/engine-implementation-profile.md"
+      ],
+      "context": [
+        "studio/PRODUCT_STRATEGY.md",
+        "studio/ENGINE_DATA_CONTRACT.md",
+        "studio/guides/assets-and-products.md"
+      ]
+    },
+    {
+      "id": "3d",
+      "title": {
+        "ru": "3D-модель и производственный пакет",
+        "en": "Prepare a 3D model or production package"
+      },
+      "description": {
+        "ru": "ART-ресурсы размещаются в профильной области art и связываются с OBJ; процесс игровой интеграции — в products/video-game/drafts/asset-pipeline. Уровни готовности и профиль движка применяются по задаче.",
+        "en": "Place ART assets in the appropriate art domain and link their OBJ; game integration work belongs in products/video-game/drafts/asset-pipeline. Apply readiness levels and engine profiles when required by the task."
+      },
+      "aliases": [
+        "3d",
+        "модель",
+        "моделирование",
+        "mesh",
+        "rig",
+        "animation",
+        "анимация"
+      ],
+      "target": "art",
+      "templates": [
+        "templates/3d-production-spec.md",
+        "templates/physical-behavior-spec.md",
+        "templates/engine-asset.example.json"
+      ],
+      "context": [
+        "studio/3D_READINESS_GATES.md",
+        "studio/ENGINE_DATA_CONTRACT.md",
+        "studio/PHYSICS_GOVERNANCE.md",
+        "studio/guides/assets-and-products.md",
+        "products/video-game/drafts/asset-pipeline/README.md"
+      ]
+    },
+    {
+      "id": "youtube",
+      "title": {
+        "ru": "Видео для YouTube",
+        "en": "Develop a YouTube video"
+      },
+      "description": {
+        "ru": "Продуктовый сценарий, сториборд, монтаж и субтитры; свяжите общую историю, визуал и звук.",
+        "en": "Product script, storyboard, editing and subtitles; link the shared story, visuals and sound."
+      },
+      "aliases": [
+        "ютуб",
+        "видео",
+        "youtube",
+        "video"
+      ],
+      "target": "products/youtube/drafts",
+      "templates": [
+        "templates/adaptation.md",
+        "templates/episode.md"
+      ],
+      "context": [
+        "studio/PRODUCT_STRATEGY.md",
+        "studio/RELEASE_PROCESS.md",
+        "studio/guides/assets-and-products.md"
+      ]
+    },
+    {
+      "id": "tabletop",
+      "title": {
+        "ru": "Настольная игра",
+        "en": "Develop a tabletop game"
+      },
+      "description": {
+        "ru": "Правила, компоненты, баланс и плейтесты; игровые условности не становятся фактами мира автоматически.",
+        "en": "Rules, components, balance and playtests; game abstractions do not automatically become world facts."
+      },
+      "aliases": [
+        "настолка",
+        "настольная игра",
+        "tabletop",
+        "board game",
+        "карточки"
+      ],
+      "target": "products/tabletop/drafts",
+      "templates": [
+        "templates/adaptation.md"
+      ],
+      "context": [
+        "studio/PRODUCT_STRATEGY.md",
+        "studio/guides/assets-and-products.md"
+      ]
+    },
+    {
+      "id": "book",
+      "title": {
+        "ru": "Книга и рукопись",
+        "en": "Develop a book manuscript"
+      },
+      "description": {
+        "ru": "Редакция и сборка книги; общие персонажи и сюжетные карточки остаются в narrative.",
+        "en": "Book editing and assembly; shared characters and story records remain in narrative."
+      },
+      "aliases": [
+        "книга",
+        "рукопись",
+        "том",
+        "book",
+        "manuscript"
+      ],
+      "target": "products/books/drafts",
+      "templates": [
+        "templates/adaptation.md",
+        "templates/episode.md"
+      ],
+      "context": [
+        "studio/PRODUCT_STRATEGY.md",
+        "studio/guides/writing.md"
+      ]
+    },
+    {
+      "id": "translation",
+      "title": {
+        "ru": "Перевод RU ↔ EN",
+        "en": "Translate RU ↔ EN"
+      },
+      "description": {
+        "ru": "Перевод связан с той же карточкой и решением; при расхождении не выбирайте язык-победитель автоматически.",
+        "en": "Keep translation linked to the same record and decision; do not automatically privilege one language when versions differ."
+      },
+      "aliases": [
+        "перевод",
+        "английский",
+        "русский",
+        "translation",
+        "translate",
+        "language"
+      ],
+      "target": "studio/LANGUAGE_POLICY.md",
+      "templates": [],
+      "context": [
+        "studio/LANGUAGE_POLICY.md",
+        "studio/NAMING_AND_METADATA.md"
+      ]
+    },
+    {
+      "id": "approval",
+      "title": {
+        "ru": "Подготовить решение о каноне",
+        "en": "Prepare a canon decision"
+      },
+      "description": {
+        "ru": "Указать точную версию, scope и настоящие подтверждения обоих авторов; пример не является одобрением.",
+        "en": "Specify the exact version, scope and actual confirmations from both coauthors; an example is not approval."
+      },
+      "aliases": [
+        "канон",
+        "согласование",
+        "утверждение",
+        "canon",
+        "approval",
+        "decision"
+      ],
+      "target": "studio/approvals",
+      "templates": [
+        "templates/decision.md",
+        "templates/approval.example.json"
+      ],
+      "context": [
+        "studio/CANON_POLICY.md",
+        "studio/approvals/README.md"
+      ]
+    },
+    {
+      "id": "archive",
+      "title": {
+        "ru": "Сохранить отвергнутую или заменённую версию",
+        "en": "Archive a rejected or superseded version"
+      },
+      "description": {
+        "ru": "Используйте archive той же области, причину и ссылку на замену; сохраняйте авторство и историю.",
+        "en": "Use the same area's archive, a reason and a replacement link; preserve authorship and history."
+      },
+      "aliases": [
+        "архив",
+        "отвергнуть",
+        "старая версия",
+        "archive",
+        "reject",
+        "supersede"
+      ],
+      "target": "studio/CANON_POLICY.md",
+      "templates": [
+        "templates/archive-note.md"
+      ],
+      "context": [
+        "studio/CANON_POLICY.md",
+        "studio/REPOSITORY_RULES.md"
+      ]
+    },
+    {
+      "id": "collaboration",
+      "title": {
+        "ru": "Совместная задача и передача работы",
+        "en": "Coordinate and hand off a task"
+      },
+      "description": {
+        "ru": "Задача, ответственный, пути, ветка, проверка и следующий шаг; GitHub Issue/PR — оперативный источник статуса.",
+        "en": "Task, responsible person, paths, branch, verification and next step; GitHub Issue/PR is the operational status source."
+      },
+      "aliases": [
+        "задача",
+        "ветка",
+        "pr",
+        "передача",
+        "handoff",
+        "task",
+        "branch",
+        "collaboration"
+      ],
+      "target": "studio/WORKFLOW.md",
+      "templates": [
+        "templates/handoff.md"
+      ],
+      "context": [
+        "studio/WORKFLOW.md",
+        "studio/RESPONSIBILITIES.md",
+        "studio/guides/working-together.md"
+      ]
+    },
+    {
+      "id": "ai",
+      "title": {
+        "ru": "Задача для нейросети",
+        "en": "Brief an AI assistant"
+      },
+      "description": {
+        "ru": "Передайте ограниченную задачу, правила, нужные материалы и критерий проверки; ИИ не подтверждает канон за людей.",
+        "en": "Provide a bounded task, rules, relevant records and a verification criterion; AI does not approve canon for humans."
+      },
+      "aliases": [
+        "нейронка",
+        "нейросеть",
+        "ии",
+        "ai",
+        "assistant",
+        "prompt"
+      ],
+      "target": "studio/guides/ai-task-briefs.md",
+      "templates": [
+        "templates/handoff.md"
+      ],
+      "context": [
+        "AGENTS.md",
+        "studio/AI_COLLABORATION.md",
+        "studio/guides/ai-task-briefs.md"
+      ]
+    },
+    {
+      "id": "fan-fiction",
+      "title": {
+        "ru": "Фанфик и участие сообщества",
+        "en": "Contribute fan fiction"
+      },
+      "description": {
+        "ru": "Карточка и ссылка на самостоятельную фанработу; публикация в подборке не вводит её в канон мира.",
+        "en": "A record and link for independent fan work; inclusion in a showcase does not make it world canon."
+      },
+      "aliases": [
+        "фанфик",
+        "фанфики",
+        "сообщество",
+        "fanfic",
+        "fan fiction",
+        "community"
+      ],
+      "target": "community/fan-fiction/drafts",
+      "templates": [],
+      "context": [
+        "FAN_CONTENT_POLICY.md",
+        "CONTRIBUTING.md",
+        "community/README.md",
+        "studio/NAMING_AND_METADATA.md"
+      ]
+    },
+    {
+      "id": "rights",
+      "title": {
+        "ru": "Права и сторонние материалы",
+        "en": "Check rights and third-party material"
+      },
+      "description": {
+        "ru": "Проверьте действующие условия и конкретные источники. Правовой статус не определяется папкой или ИИ.",
+        "en": "Check current terms and specific sources. A folder or AI does not determine legal status."
+      },
+      "aliases": [
+        "права",
+        "лицензия",
+        "разрешение",
+        "rights",
+        "license",
+        "permission"
+      ],
+      "target": "legal",
+      "templates": [
+        "templates/asset.example.json"
+      ],
+      "context": [
+        "LICENSE",
+        "FAN_CONTENT_POLICY.md",
+        "CONTRIBUTOR_TERMS.md",
+        "studio/ASSET_WORKFLOW.md"
+      ]
+    }
+  ]
+}

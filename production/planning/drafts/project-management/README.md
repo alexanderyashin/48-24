@@ -21,3 +21,31 @@
 ## English
 
 Keep stable IDs and source links; distinguish proposals, implementation, verification and canon approval. Update authoritative registers first, then this index. Session handoffs record actual changes, unresolved questions, unperformed checks and the next action. Direct commits to main do not constitute creative canon approval.
+
+<!-- NAVIGATION:START -->
+## Навигация / Navigation
+
+> Автоматический указатель; текст раздела выше редактируется вручную. / Generated links; edit the section text above normally.
+
+[Главная / Home](../../../../README.md) › [production](../../../README.md) › [planning](../../README.md) › [drafts](../README.md) › [project-management](README.md)
+
+[По задаче / By task](../../../../studio/NAVIGATION.md) · [Карта / Map](../../../../studio/REPOSITORY_MAP.md) · [Материалы / Content](../../../../studio/CONTENT_CATALOG.md) · [Шаблоны / Templates](../../../../templates/README.md)
+
+**Разработка / Drafts:** новые материалы начинают здесь; согласование отдельно. / Start new material here; approval is a separate decision.
+
+[drafts](../README.md) · [canon](../../canon/README.md) · [archive](../../archive/README.md)
+
+### Подразделы / Subfolders
+
+- [Сессии / Sessions](sessions/README.md) — `sessions/`.
+
+### Файлы рядом / Files here
+
+- [Решения / Decision Log](DECISIONS.md) — `DECISIONS.md`.
+- [Открытые вопросы / Open Issues](OPEN_ISSUES.md) — `OPEN_ISSUES.md`.
+- [Дорожная карта / Roadmap](ROADMAP.md) — `ROADMAP.md`.
+- [Выполненная работа / Work Log](WORK_LOG.md) — `WORK_LOG.md`.
+
+Контекст для ИИ / AI reading list: `python tools/navigate.py context production/planning/drafts/project-management`
+
+<!-- NAVIGATION:END -->
