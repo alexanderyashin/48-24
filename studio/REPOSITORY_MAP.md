@@ -193,6 +193,7 @@ Every folder in the current working tree. Titles come from README files; this in
 | [products/youtube/archive](../products/youtube/archive/README.md) | Видео и YouTube — отвергнутые и заменённые версии | История и отвергнутые версии / History and rejected versions |
 | [products/youtube/canon](../products/youtube/canon/README.md) | Видео и YouTube — канон и утверждённые материалы | Утверждённые версии / Approved versions |
 | [products/youtube/drafts](../products/youtube/drafts/README.md) | Видео и YouTube — черновики и разработка | Разработка / Drafts |
+| [products/youtube/drafts/ep001-molchanie-storyboard](../products/youtube/drafts/ep001-molchanie-storyboard/README.md) | EP001 «Молчание» — раскадровка, кадры 01–10 / Storyboard, shots 01–10 | Разработка / Drafts |
 
 ## research
 

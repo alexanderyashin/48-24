@@ -25,6 +25,7 @@
 
 ### Файлы рядом / Files here
 
+- [Молчание](ep001-silence-v0-1.md) — `ep001-silence-v0-1.md`.
 - [Форматы произведений и разработка выпусков](episode-development-v0-1.md) — `episode-development-v0-1.md`.
 - [Архитектура повествования и рассказчик](narrative-architecture-v0-1.md) — `narrative-architecture-v0-1.md`.
 
