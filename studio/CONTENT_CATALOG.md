@@ -47,6 +47,7 @@ This generated corpus index does not replace source, decision or contribution re
 | CHAR014 | [Представитель церкви](../narrative/characters/drafts/char014-church-representative-v0-1.md) | 0.1.0 | draft | unassigned |
 | CHAR015 | [Контрабандист и посредник](../narrative/characters/drafts/char015-smuggler-and-intermediary-v0-1.md) | 0.1.0 | draft | unassigned |
 | CHAR016 | [Казачий атаман или вольный предводитель](../narrative/characters/drafts/char016-cossack-or-free-leader-v0-1.md) | 0.1.0 | draft | unassigned |
+| EP001 | [Молчание](../narrative/episodes/drafts/ep001-silence-v0-1.md) | 0.2.0 | draft | ivankoniushkov |
 | NAR-EPISODE-DEVELOPMENT-001 | [Форматы произведений и разработка выпусков](../narrative/episodes/drafts/episode-development-v0-1.md) | 0.1.0 | draft | unassigned |
 | NAR-ARCHITECTURE-001 | [Архитектура повествования и рассказчик](../narrative/episodes/drafts/narrative-architecture-v0-1.md) | 0.1.0 | draft | unassigned |
 | NAR-LOGLINE-001 | [Варианты логлайна для авторского выбора](../narrative/premise/drafts/logline-options-v0-1.md) | 0.1.0 | draft | unassigned |
@@ -96,6 +97,18 @@ This generated corpus index does not replace source, decision or contribution re
 | PRODUCT-BOOKS-001 | [Стартовый пакет книги](../products/books/drafts/starting-package-v0-1.md) | 0.1.0 | draft | unassigned |
 | PRODUCT-TABLETOP-001 | [Стартовый пакет настольной игры](../products/tabletop/drafts/starting-package-v0-1.md) | 0.1.0 | draft | unassigned |
 | PRODUCT-VIDEO-GAME-001 | [Стартовый пакет компьютерной игры](../products/video-game/drafts/starting-package-v0-1.md) | 0.1.0 | draft | unassigned |
+| EP001-SB-01 | [EP001 «Молчание» — кадр 01, вырезка из утверждённого листа (паспорт / sidecar)](../products/youtube/drafts/ep001-molchanie-storyboard/ep001-shot-01.png.asset.json) | 1.0.0 | draft | ivankoniushkov |
+| EP001-SB-02 | [EP001 «Молчание» — кадр 02, вырезка из утверждённого листа (паспорт / sidecar)](../products/youtube/drafts/ep001-molchanie-storyboard/ep001-shot-02.png.asset.json) | 1.0.0 | draft | ivankoniushkov |
+| EP001-SB-03 | [EP001 «Молчание» — кадр 03, вырезка из утверждённого листа (паспорт / sidecar)](../products/youtube/drafts/ep001-molchanie-storyboard/ep001-shot-03.png.asset.json) | 1.0.0 | draft | ivankoniushkov |
+| EP001-SB-04 | [EP001 «Молчание» — кадр 04, вырезка из утверждённого листа (паспорт / sidecar)](../products/youtube/drafts/ep001-molchanie-storyboard/ep001-shot-04.png.asset.json) | 1.0.0 | draft | ivankoniushkov |
+| EP001-SB-05 | [EP001 «Молчание» — кадр 05, вырезка из утверждённого листа (паспорт / sidecar)](../products/youtube/drafts/ep001-molchanie-storyboard/ep001-shot-05.png.asset.json) | 1.0.0 | draft | ivankoniushkov |
+| EP001-SB-06 | [EP001 «Молчание» — кадр 06, вырезка из утверждённого листа (паспорт / sidecar)](../products/youtube/drafts/ep001-molchanie-storyboard/ep001-shot-06.png.asset.json) | 1.0.0 | draft | ivankoniushkov |
+| EP001-SB-07 | [EP001 «Молчание» — кадр 07, вырезка из утверждённого листа (паспорт / sidecar)](../products/youtube/drafts/ep001-molchanie-storyboard/ep001-shot-07.png.asset.json) | 1.0.0 | draft | ivankoniushkov |
+| EP001-SB-08 | [EP001 «Молчание» — кадр 08, вырезка из утверждённого листа (паспорт / sidecar)](../products/youtube/drafts/ep001-molchanie-storyboard/ep001-shot-08.png.asset.json) | 1.0.0 | draft | ivankoniushkov |
+| EP001-SB-09 | [EP001 «Молчание» — кадр 09, вырезка из утверждённого листа (паспорт / sidecar)](../products/youtube/drafts/ep001-molchanie-storyboard/ep001-shot-09.png.asset.json) | 1.0.0 | draft | ivankoniushkov |
+| EP001-SB-10 | [EP001 «Молчание» — кадр 10, вырезка из утверждённого листа (паспорт / sidecar)](../products/youtube/drafts/ep001-molchanie-storyboard/ep001-shot-10.png.asset.json) | 1.0.0 | draft | ivankoniushkov |
+| EP001-SB-PREVIEW | [EP001 «Молчание» — превью утверждённого визуального листа кадров 01–10 (паспорт / sidecar)](../products/youtube/drafts/ep001-molchanie-storyboard/ep001-storyboard-shots-01-10-preview.webp.asset.json) | 1.0.0 | draft | ivankoniushkov |
+| EP001-SB-01-10 | [EP001 Молчание — утверждённые кадры 01–10](../products/youtube/drafts/ep001-storyboard-shots-01-10-import.md) | 1.0.0 | draft | ivankoniushkov |
 | PRODUCT-YOUTUBE-001 | [Стартовый пакет видео](../products/youtube/drafts/starting-package-v0-1.md) | 0.1.0 | draft | unassigned |
 
 ## world

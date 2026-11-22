@@ -23,8 +23,13 @@
 
 [drafts](README.md) · [canon](../canon/README.md) · [archive](../archive/README.md)
 
+### Подразделы / Subfolders
+
+- [EP001 «Молчание» — раскадровка, кадры 01–10 / Storyboard, shots 01–10](ep001-molchanie-storyboard/README.md) — `ep001-molchanie-storyboard/`.
+
 ### Файлы рядом / Files here
 
+- [EP001 Молчание — утверждённые кадры 01–10](ep001-storyboard-shots-01-10-import.md) — `ep001-storyboard-shots-01-10-import.md`.
 - [Стартовый пакет видео](starting-package-v0-1.md) — `starting-package-v0-1.md`.
 
 ### Подходящие формы / Relevant forms

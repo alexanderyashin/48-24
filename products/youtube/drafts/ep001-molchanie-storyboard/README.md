@@ -42,3 +42,49 @@ Each binary has a neighbouring `.png.asset.json` sidecar recording provenance, p
 - Human editorial approval / Авторское утверждение: 2026-11-22.
 - Full canon signoff / Утверждение канона мира: не заявлено.
 - Next step / Далее: раскадровка кадров 11–20; кадры 01–10 не менять без просьбы автора.
+
+<!-- NAVIGATION:START -->
+## Навигация / Navigation
+
+> Автоматический указатель; текст раздела выше редактируется вручную. / Generated links; edit the section text above normally.
+
+[Главная / Home](../../../../README.md) › [products](../../../README.md) › [youtube](../../README.md) › [drafts](../README.md) › [ep001-molchanie-storyboard](README.md)
+
+[По задаче / By task](../../../../studio/NAVIGATION.md) · [Карта / Map](../../../../studio/REPOSITORY_MAP.md) · [Материалы / Content](../../../../studio/CONTENT_CATALOG.md) · [Шаблоны / Templates](../../../../templates/README.md)
+
+**Разработка / Drafts:** новые материалы начинают здесь; согласование отдельно. / Start new material here; approval is a separate decision.
+
+[drafts](../README.md) · [canon](../../canon/README.md) · [archive](../../archive/README.md)
+
+### Файлы рядом / Files here
+
+- [ep001-shot-01.png](ep001-shot-01.png) — `ep001-shot-01.png`.
+- [ep001-shot-01.png.asset.json](ep001-shot-01.png.asset.json) — `ep001-shot-01.png.asset.json`.
+- [ep001-shot-02.png](ep001-shot-02.png) — `ep001-shot-02.png`.
+- [ep001-shot-02.png.asset.json](ep001-shot-02.png.asset.json) — `ep001-shot-02.png.asset.json`.
+- [ep001-shot-03.png](ep001-shot-03.png) — `ep001-shot-03.png`.
+- [ep001-shot-03.png.asset.json](ep001-shot-03.png.asset.json) — `ep001-shot-03.png.asset.json`.
+- [ep001-shot-04.png](ep001-shot-04.png) — `ep001-shot-04.png`.
+- [ep001-shot-04.png.asset.json](ep001-shot-04.png.asset.json) — `ep001-shot-04.png.asset.json`.
+- [ep001-shot-05.png](ep001-shot-05.png) — `ep001-shot-05.png`.
+- [ep001-shot-05.png.asset.json](ep001-shot-05.png.asset.json) — `ep001-shot-05.png.asset.json`.
+- [ep001-shot-06.png](ep001-shot-06.png) — `ep001-shot-06.png`.
+- [ep001-shot-06.png.asset.json](ep001-shot-06.png.asset.json) — `ep001-shot-06.png.asset.json`.
+- [ep001-shot-07.png](ep001-shot-07.png) — `ep001-shot-07.png`.
+- [ep001-shot-07.png.asset.json](ep001-shot-07.png.asset.json) — `ep001-shot-07.png.asset.json`.
+- [ep001-shot-08.png](ep001-shot-08.png) — `ep001-shot-08.png`.
+- [ep001-shot-08.png.asset.json](ep001-shot-08.png.asset.json) — `ep001-shot-08.png.asset.json`.
+- [ep001-shot-09.png](ep001-shot-09.png) — `ep001-shot-09.png`.
+- [ep001-shot-09.png.asset.json](ep001-shot-09.png.asset.json) — `ep001-shot-09.png.asset.json`.
+- [ep001-shot-10.png](ep001-shot-10.png) — `ep001-shot-10.png`.
+- [ep001-shot-10.png.asset.json](ep001-shot-10.png.asset.json) — `ep001-shot-10.png.asset.json`.
+- [ep001-storyboard-shots-01-10-preview.webp](ep001-storyboard-shots-01-10-preview.webp) — `ep001-storyboard-shots-01-10-preview.webp`.
+- [ep001-storyboard-shots-01-10-preview.webp.asset.json](ep001-storyboard-shots-01-10-preview.webp.asset.json) — `ep001-storyboard-shots-01-10-preview.webp.asset.json`.
+
+### Подходящие формы / Relevant forms
+
+[adaptation.md](../../../../templates/adaptation.md) · [episode.md](../../../../templates/episode.md)
+
+Контекст для ИИ / AI reading list: `python tools/navigate.py context products/youtube/drafts/ep001-molchanie-storyboard`
+
+<!-- NAVIGATION:END -->
