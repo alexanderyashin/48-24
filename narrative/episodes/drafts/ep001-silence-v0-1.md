@@ -1,3 +1,17 @@
+---
+id: EP001
+title: "Молчание"
+status: draft
+version: 0.2.0
+owner: ivankoniushkov
+reviewers: []
+updated: 2026-11-22
+source: "Авторское предложение Ивана Конюшкова; финальная сюжетная редакция утверждена 2026-11-22"
+ai_assistance: "ChatGPT — драматургическая разработка и редактура"
+canon_refs: []
+supersedes: []
+---
+
 | **id**        | EP001 |
 | ------------- | ----- |
 | **title**     | Молчание |
