@@ -1,3 +1,17 @@
+---
+id: EP001-SB-01-10
+title: "EP001 Молчание — утверждённые кадры 01–10"
+status: draft
+version: 1.0.0
+owner: ivankoniushkov
+reviewers: []
+updated: 2026-11-22
+source: "Авторская раскадровка, утверждена 2026-11-22"
+ai_assistance: "ChatGPT — изображения и подготовка пакета; авторское утверждение"
+canon_refs: []
+supersedes: []
+---
+
 # EP001 «Молчание» — кадры 01–10 / Shots 01–10
 
 | Field / Поле | Value / Значение |
